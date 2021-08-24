@@ -66,8 +66,12 @@ email: "liliangchen2000@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-Again, this website is currently only used as a personal recorder of paper reading.
 
-#  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+This website is currently only used as a personal recorder of paper reading.
+
+
