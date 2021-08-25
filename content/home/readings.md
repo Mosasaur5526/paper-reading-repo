@@ -19,8 +19,19 @@ subtitle:
 design:
   # Use a 1-column layout
   columns: "2"
+  
+experience:
+  - title: Recent Readings
+    company: Convergence Theory
+    date_start: '2021-08-11'
+    date_end: ''
+    description: |2-
+    [A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
+    [On the Convergence and Robustness of Adversarial Training (ICML 2019)](https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf)
 
 ---
+
+## Full List
 
 {{< spoiler text="Convergence and Generalization Theory" >}}
 You found me!
@@ -35,12 +46,12 @@ You found me!
 {{< /spoiler >}}
 
 {{< spoiler text="Virtual Try-on and Graphics Related" >}}
-{{< spoiler text="3D Modeling" >}}
-with nesting
-{{< /spoiler >}}
-{{< spoiler text="Try-on Focused" >}}
-with nesting
-{{< /spoiler >}}
+    {{< spoiler text="3D Modeling" >}}
+        with nesting
+    {{< /spoiler >}}
+    {{< spoiler text="Try-on Focused" >}}
+        with nesting
+    {{< /spoiler >}}
 {{< /spoiler >}}
 
 {{< spoiler text="Generative Adversarial Networks" >}}
@@ -52,5 +63,5 @@ You found me!
 {{< /spoiler >}}
 
 {{< spoiler text="Discrete Algorithms" >}}
-[New Algorithms and Lower Bounds for All-Pairs Max-Flow in Undirected Graphs (SODA 2020)](https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.4)
+    [New Algorithms and Lower Bounds for All-Pairs Max-Flow in Undirected Graphs (arXiv 1901, SODA 2020)](https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.4)
 {{< /spoiler >}}
