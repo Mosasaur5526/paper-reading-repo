@@ -46,25 +46,23 @@ You found me!
 {{< /spoiler >}}
 
 {{< spoiler text="Virtual Try-on and Graphics Related" >}}
-- {{< spoiler text="3D Modeling" >}}
-with nesting
-- {{< spoiler text="Try-on Focused" >}}
-with nesting
+You found me!
 {{< /spoiler >}}
 
-{{< spoiler text="Generative Adversarial Networks" >}}
-- {{< spoiler text="GAN Prior and GAN Inversion" >}}
-  - [Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
-  - [InterFaceGAN: Interpreting the Disentangled Face Representation Learned by GANs (arXiv 2005, TPAMI 2020)](https://arxiv.org/abs/2005.09635)
-- {{< spoiler text="Unclassified Classics" >}}
-  - [A Style-Based Generator Architecture for Generative Adversarial Networks (arXiv 1812, CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)
+{{< spoiler text="GAN Prior and GAN Inversion" >}}
+- [Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
+- [InterFaceGAN: Interpreting the Disentangled Face Representation Learned by GANs (arXiv 2005, TPAMI 2020)](https://arxiv.org/abs/2005.09635)
+{{< /spoiler >}}
+
+{{< spoiler text="Unclassified Classics of Generative Adversarial Networks" >}}
+- [Analyzing and Improving the Image Quality of StyleGAN (arXiv 1912, CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.html)
+- [A Style-Based Generator Architecture for Generative Adversarial Networks (arXiv 1812, CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)
 {{< /spoiler >}}
 
 {{< spoiler text="Deep Reinforcement Learning" >}}
 You found me!
 {{< /spoiler >}}
 
-{{< spoiler text="Discrete Algorithms" >}}
+{{< spoiler text="Discrete Algorithms (1)" >}}
 - [New Algorithms and Lower Bounds for All-Pairs Max-Flow in Undirected Graphs (arXiv 1901, SODA 2020)](https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.4)
-
 {{< /spoiler >}}
