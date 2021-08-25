@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -69,6 +69,6 @@ You found me!
 {{< /spoiler >}}
 
 {{< spoiler text="Discrete Algorithms" >}}
- [New Algorithms and Lower Bounds for All-Pairs Max-Flow in Undirected Graphs (arXiv 1901, SODA 2020)](https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.4)
+- [New Algorithms and Lower Bounds for All-Pairs Max-Flow in Undirected Graphs (arXiv 1901, SODA 2020)](https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.4)
 
 {{< /spoiler >}}
