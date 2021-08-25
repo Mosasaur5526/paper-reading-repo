@@ -26,7 +26,7 @@ design:
 ## Full List
 
 {{< spoiler text="Convergence and Generalization Theory" >}}
-[A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
+[A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)<br />
 [On the Convergence and Robustness of Adversarial Training (ICML 2019)](https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf)
 {{< /spoiler >}}
 
@@ -41,8 +41,7 @@ You found me!
 {{< spoiler text="Virtual Try-on and Graphics Related" >}}
 - {{< spoiler text="3D Modeling" >}}
  with nesting
-{{< /spoiler >}}
-
+{{< /spoiler >}}<br /> 
 - {{< spoiler text="Try-on Focused" >}}
  with nesting
 {{< /spoiler >}}
