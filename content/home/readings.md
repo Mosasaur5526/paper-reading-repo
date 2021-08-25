@@ -17,17 +17,12 @@ subtitle:
 
 experience:
   - title: Recent Readings
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2021-01-01'
+    company: Convergence Theory
+    date_start: '2021-08-11'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    * [A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
+    * [On the Convergence and Robustness of Adversarial Training (ICML 2019)](https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf)
 
 # Section design
 design:
