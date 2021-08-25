@@ -38,12 +38,12 @@ You found me!
 {{< /spoiler >}}
 
 {{< spoiler text="Virtual Try-on and Graphics Related" >}}
-    {{< spoiler text="3D Modeling" >}}
-        with nesting
-    {{< /spoiler >}}
-    {{< spoiler text="Try-on Focused" >}}
-        with nesting
-    {{< /spoiler >}}
+  {{< spoiler text="3D Modeling" >}}
+    with nesting
+  {{< /spoiler >}}
+  {{< spoiler text="Try-on Focused" >}}
+    with nesting
+  {{< /spoiler >}}
 {{< /spoiler >}}
 
 {{< spoiler text="Generative Adversarial Networks" >}}
@@ -55,5 +55,5 @@ You found me!
 {{< /spoiler >}}
 
 {{< spoiler text="Discrete Algorithms" >}}
-    [New Algorithms and Lower Bounds for All-Pairs Max-Flow in Undirected Graphs (arXiv 1901, SODA 2020)](https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.4)
+  [New Algorithms and Lower Bounds for All-Pairs Max-Flow in Undirected Graphs (arXiv 1901, SODA 2020)](https://epubs.siam.org/doi/abs/10.1137/1.9781611975994.4)
 {{< /spoiler >}}
