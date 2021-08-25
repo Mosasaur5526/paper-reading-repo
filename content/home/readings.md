@@ -45,7 +45,6 @@ You found me!
 - {{< spoiler text="Try-on Focused" >}}
  with nesting
 {{< /spoiler >}}
-
 {{< /spoiler >}}
 
 {{< spoiler text="Generative Adversarial Networks" >}}
