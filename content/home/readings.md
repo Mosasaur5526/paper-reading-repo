@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: readings
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -17,3 +17,10 @@ design:
   columns: '1' 
 ---
 
+{{< spoiler text="Convergence and Generalization Theory" >}}
+You found me!
+{{< /spoiler >}}
+
+{{< spoiler text="Deep Reinforcement Learning" >}}
+You found me!
+{{< /spoiler >}}
