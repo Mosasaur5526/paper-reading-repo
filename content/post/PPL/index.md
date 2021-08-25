@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Why Does Path Length Regularisation Work
+subtitle: Path length regularisation is a new trick for training GAN (i.e. Generative Adversarial Networks) proposed by NVIDIA in their StyleGAN2 paper. In appendix C of the paper, authors of which provide its readers with somewhat obscure explanations of the effects of the trick, leaving novices like me greatly baffled. In this article, I will decompose the whole theory into more detailed proofs of several lemmas respectively, targeting at a deeper comprehension of this prominent piece of art.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Path length regularisation is a new trick for training GAN (i.e. Generative Adversarial Networks) proposed by NVIDIA in their StyleGAN2 paper. In appendix C of the paper, authors of which provide its readers with somewhat obscure explanations of the effects of the trick, leaving novices like me greatly baffled. In this article, I will decompose the whole theory into more detailed proofs of several lemmas respectively, targeting at a deeper comprehension of this prominent piece of art.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-01-31T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-06-11T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**StyleGAN**](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)'
   focal_point: ""
   placement: 2
   preview_only: false
