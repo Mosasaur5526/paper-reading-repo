@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 21
+weight: 30
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Readings'
@@ -18,7 +18,6 @@ design:
  
 
 
-## Full List
 {{< spoiler text="Convergence and Generalization Theory" >}}
 You found me!
 {{< /spoiler >}}
