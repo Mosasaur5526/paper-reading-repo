@@ -15,8 +15,6 @@ subtitle:
 
 design:
   columns: '1' 
- 
-
 
 {{< spoiler text="Convergence and Generalization Theory" >}}
 You found me!
