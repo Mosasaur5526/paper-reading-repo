@@ -53,11 +53,11 @@ with nesting
 {{< /spoiler >}}
 
 {{< spoiler text="Generative Adversarial Networks" >}}
-1. {{< spoiler text="GAN Prior and GAN Inversion" >}}
-- [Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
-- [InterFaceGAN: Interpreting the Disentangled Face Representation Learned by GANs (arXiv 2005, TPAMI 2020)](https://arxiv.org/abs/2005.09635)
-2. {{< spoiler text="Unclassified Classics" >}}
-- [A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)
+- {{< spoiler text="GAN Prior and GAN Inversion" >}}
+[Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)<\br>
+[InterFaceGAN: Interpreting the Disentangled Face Representation Learned by GANs (arXiv 2005, TPAMI 2020)](https://arxiv.org/abs/2005.09635)<\br>
+- {{< spoiler text="Unclassified Classics" >}}
+[A Style-Based Generator Architecture for Generative Adversarial Networks (arXiv 1812, CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)<\br>
 {{< /spoiler >}}
 
 {{< spoiler text="Deep Reinforcement Learning" >}}
