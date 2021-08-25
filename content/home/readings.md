@@ -40,7 +40,8 @@ _finished in last two weeks ~ still in the queue_
 - [Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Topological Data Analysis (6)" >}}
+{{< spoiler text="Topological Data Analysis (7)" >}}
+- [Topological Autoencoders (arXiv 1906, ICML 2020)](https://arxiv.org/abs/1906.00722)
 - [Characterizing the Shape of Activation Space in Deep Neural Networks (arXiv 1901, ICMLA 2019)](https://arxiv.org/abs/1901.09496)
 - [Neural Persistence: A Complexity Measure for Deep Neural Networks Using Algebraic Topology (arXiv 1812, ICLR 2019)](https://arxiv.org/abs/1812.09764)
 - [Topological Data Analysis of Decision Boundaries with Application to Model Selection (arXiv 1805, ICML 2019)](https://arxiv.org/abs/1805.09949)
@@ -49,8 +50,24 @@ _finished in last two weeks ~ still in the queue_
 - [Persistence stability for geometric complexes (arXiv 1207, Geometriae Dedicata 2014)](https://arxiv.org/abs/1207.3885)
 {{< /spoiler >}}
 
-{{< spoiler text="Adversarial Learning" >}}
-You found me!
+{{< spoiler text="Adversarial Examples, Attacks and Defenses (10)" >}}
+- [Practical No-box Adversarial Attacks against DNNs (arXiv 2012, NeuralIPS 2020)](https://arxiv.org/abs/2012.02525)
+- [Invert and Defend: Model-based Approximate Inversion of Generative Adversarial Networks for Secure Inference (arXiv 1911)](https://arxiv.org/abs/1911.10291)
+- [Constructing Unrestricted Adversarial Examples with Generative Models (arXiv 1805, NeuralIPS 2018)](https://arxiv.org/abs/1805.07894)
+- [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (arXiv 1802, ICML 2018)](https://arxiv.org/abs/1802.00420)
+- [Towards Deep Learning Models Resistant to Adversarial Attacks (arXiv 1706, ICLR 2018)](https://arxiv.org/abs/1706.06083)
+- [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples (arXiv 1605)](https://arxiv.org/abs/1605.07277)
+- [DeepFool: a simple and accurate method to fool deep neural networks (arXiv 1511, CVPR 2016)](https://arxiv.org/abs/1511.04599)
+- [Explaining and Harnessing Adversarial Examples (arXiv 1412, ICLR 2015)](https://arxiv.org/abs/1412.6572)
+- [Intriguing properties of neural networks (arXiv 1312, ICLR 2014)](https://arxiv.org/abs/1312.6199)
+- [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
+{{< /spoiler >}}
+
+{{< spoiler text="Robust Learning (4)" >}}
+- [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
+- [Adversarially Robust Representations with Smooth Encoders (ICLR 2020)](https://openreview.net/forum?id=H1gfFaEYDS)
+- [Adversarial Distributional Training for Robust Deep Learning (NeuralIPS 2020)](https://arxiv.org/abs/2002.05999)
+- [Gradient Regularization Improves Accuracy of Discriminative Models (arXiv 1712, Schedae Informaticae 2018)](https://arxiv.org/abs/1712.09936)
 {{< /spoiler >}}
 
 {{< spoiler text="Contrastive/Self-supervised/Representation Learning (3)" >}}
@@ -59,8 +76,17 @@ You found me!
 - [Representation Learning with Contrastive Predictive Coding (arXiv 1807)](https://arxiv.org/abs/1807.03748)
 {{< /spoiler >}}
 
-{{< spoiler text="Virtual Try-on and Graphics Related" >}}
-You found me!
+{{< spoiler text="Virtual Try-on and Graphics Related (10)" >}}
+- [Shape Controllable Virtual Try-on for Underwear Models (arXiv 2107)](https://arxiv.org/abs/2107.13156)
+- [Disentangled Cycle Consistency for Highly-realistic Virtual Try-On (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.09479)
+- [Learning to Transfer Texture from Clothing Images to 3D Humans (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.02050)
+- [Warping Residual Based Image Stitching for Large Parallax (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_Warping_Residual_Based_Image_Stitching_for_Large_Parallax_CVPR_2020_paper.html)
+- [Towards Photo-Realistic Virtual Try-On by Adaptively Generating-Preserving Image Content (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Towards_Photo-Realistic_Virtual_Try-On_by_Adaptively_Generating-Preserving_Image_Content_CVPR_2020_paper.html)
+- [Multi-Garment Net: Learning to Dress 3D People from Images (arXiv 1908, ICCV 2019)](https://arxiv.org/abs/1908.06903)
+- [Expressive Body Capture: 3D Hands, Face, and Body From a Single Image (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.html)
+- [SMPL: A Skinned Multi-Person Linear Model (ACM Transactions on Graphics 2015)](https://dl.acm.org/doi/abs/10.1145/2816795.2818013)
+- [Shape deformation using skeleton correspondences for realistic posed fashion flat creation (IEEE Transactions on Automation Science and Engineering 2014)](https://ieeexplore.ieee.org/abstract/document/6716100)
+- [Image Deformation Using Moving Least Squares (SIGGRAPH 2006)](https://dl.acm.org/doi/abs/10.1145/1179352.1141920)
 {{< /spoiler >}}
 
 {{< spoiler text="GAN Prior and GAN Inversion (10)" >}}
