@@ -41,7 +41,6 @@ You found me!
 {{< spoiler text="Virtual Try-on and Graphics Related" >}}
 - {{< spoiler text="3D Modeling" >}}
 with nesting
-{{< /spoiler >}}
 - {{< spoiler text="Try-on Focused" >}}
 with nesting
 {{< /spoiler >}}
