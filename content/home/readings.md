@@ -15,15 +15,6 @@ title: Readings
 # Section subtitle
 subtitle:
 
-experience:
-  - title: Recent Readings
-    company: Convergence Theory
-    date_start: '2021-08-11'
-    date_end: ''
-    description: |2-
-    * [A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
-    * [On the Convergence and Robustness of Adversarial Training (ICML 2019)](https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf)
-
 # Section design
 design:
   # Use a 1-column layout
@@ -31,6 +22,13 @@ design:
   
 
 ---
+
+## Recent Readings
+_finished in last two weeks ~ still in the queue_
+* [【unstarted】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
+* [【started on 24/8/2021, unfinished】On the Convergence and Robustness of Adversarial Training (ICML 2019)](https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf)
+* [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
+* [【finished on 17/8/2021】Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
 
 ## Full List
 
@@ -52,7 +50,6 @@ You found me!
 with nesting
 - {{< spoiler text="Try-on Focused" >}}
 with nesting
-{{< /spoiler >}}
 {{< /spoiler >}}
 
 {{< spoiler text="Generative Adversarial Networks" >}}
