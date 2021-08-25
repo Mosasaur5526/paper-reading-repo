@@ -32,12 +32,7 @@ You found me!
 {{< /spoiler >}}
 
 {{< spoiler text="Virtual Try-on and Graphics Related" >}}
-{{< spoiler text="3D Modeling" >}}
-You found me!
-{{< /spoiler >}}
-{{< spoiler text="Try-on Focused" >}}
-You found me!
-{{< /spoiler >}}
+without nesting
 {{< /spoiler >}}
 
 {{< spoiler text="Generative Adversarial Networks" >}}
