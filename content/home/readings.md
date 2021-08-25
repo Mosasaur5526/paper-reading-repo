@@ -20,6 +20,8 @@ design:
   # Use a 1-column layout
   columns: "2"
 
+---
+
 {{< spoiler text="Convergence and Generalization Theory" >}}
 You found me!
 {{< /spoiler >}}
@@ -31,5 +33,4 @@ You found me!
 {{< spoiler text="Adversarial Learning" >}}
 You found me!
 {{< /spoiler >}}
----
 
