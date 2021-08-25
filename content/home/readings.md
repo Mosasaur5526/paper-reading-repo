@@ -38,10 +38,10 @@ You found me!
 {{< /spoiler >}}
 
 {{< spoiler text="Virtual Try-on and Graphics Related" >}}
-&nbsp;{{< spoiler text="3D Modeling" >}}
-&nbsp;with nesting
+- {{< spoiler text="3D Modeling" >}}
+ with nesting
 {{< /spoiler >}}
- {{< spoiler text="Try-on Focused" >}}
+- {{< spoiler text="Try-on Focused" >}}
  with nesting
 {{< /spoiler >}}
 {{< /spoiler >}}
