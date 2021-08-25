@@ -20,5 +20,16 @@ design:
   # Use a 1-column layout
   columns: "2"
 
+{{< spoiler text="Convergence and Generalization Theory" >}}
+You found me!
+{{< /spoiler >}}
+
+{{< spoiler text="Topological Data Analysis" >}}
+You found me!
+{{< /spoiler >}}
+
+{{< spoiler text="Adversarial Learning" >}}
+You found me!
+{{< /spoiler >}}
 ---
 
