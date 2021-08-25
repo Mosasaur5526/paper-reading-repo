@@ -28,8 +28,8 @@ _finished in last two weeks ~ still in the queue_
 * [【unstarted】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 24/8/2021, unfinished】On the Convergence and Robustness of Adversarial Training (ICML 2019)](https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
-* [【finished on 17/8/2021】Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
+* [【finished on 17/8/2021】Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
 
 ## Full List
 
@@ -40,12 +40,23 @@ _finished in last two weeks ~ still in the queue_
 - [Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Topological Data Analysis" >}}
-You found me!
+{{< spoiler text="Topological Data Analysis (6)" >}}
+- [Characterizing the Shape of Activation Space in Deep Neural Networks (arXiv 1901, ICMLA 2019)](https://arxiv.org/abs/1901.09496)
+- [Neural Persistence: A Complexity Measure for Deep Neural Networks Using Algebraic Topology (arXiv 1812, ICLR 2019)](https://arxiv.org/abs/1812.09764)
+- [Topological Data Analysis of Decision Boundaries with Application to Model Selection (arXiv 1805, ICML 2019)](https://arxiv.org/abs/1805.09949)
+- [On Characterizing the Capacity of Neural Networks using Algebraic Topology (arXiv 1802)](https://arxiv.org/abs/1802.04443)
+- [Adversary Detection in Neural Networks via Persistent Homology (arXiv 1711)](https://arxiv.org/abs/1711.10056)
+- [Persistence stability for geometric complexes (arXiv 1207, Geometriae Dedicata 2014)](https://arxiv.org/abs/1207.3885)
 {{< /spoiler >}}
 
 {{< spoiler text="Adversarial Learning" >}}
 You found me!
+{{< /spoiler >}}
+
+{{< spoiler text="Contrastive/Self-supervised/Representation Learning (3)" >}}
+- [A Simple Framework for Contrastive Learning of Visual Representations (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.05709)
+- [Data-Efficient Image Recognition with Contrastive Predictive Coding (arXiv 1905, ICML 2020)](https://arxiv.org/abs/1905.09272)
+- [Representation Learning with Contrastive Predictive Coding (arXiv 1807)](https://arxiv.org/abs/1807.03748)
 {{< /spoiler >}}
 
 {{< spoiler text="Virtual Try-on and Graphics Related" >}}
@@ -73,7 +84,6 @@ You found me!
 - [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization (arXiv 1703, ICCV 2017)](https://openaccess.thecvf.com/content_iccv_2017/html/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.html)
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (arXiv 1703, ICCV 2017)](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)
 - [Image-to-Image Translation with Conditional Adversarial Networks (arXiv 1611, CVPR 2017)](https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)
-
 {{< /spoiler >}}
 
 {{< spoiler text="Unclassified Classics of Generative Adversarial Networks (15)" >}}
@@ -94,8 +104,21 @@ You found me!
 - [Generative Adversarial Nets (arXiv 1406, NeuralIPS 2014)](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 {{< /spoiler >}}
 
-{{< spoiler text="Deep Reinforcement Learning" >}}
-You found me!
+{{< spoiler text="Organization and Architecture (2)" >}}
+- [Requirements, bottlenecks, and good fortune: agents for microprocessor evolution (Proceedings of the IEEE 2001)](https://ieeexplore.ieee.org/abstract/document/964437)
+- [Combining branch predictors (1993)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.626.4268&rep=rep1&type=pdf)
+{{< /spoiler >}}
+
+{{< spoiler text="Deep Reinforcement Learning (3)" >}}
+- [Modular Architecture for StarCraft II with Deep Reinforcement Learning (arXiv 1811, AAAI 2018)](https://arxiv.org/abs/1811.03555)
+- [Implementation of Q Learning and Deep Q Network For Controlling a Self Balancing Robot Model (arXiv 1807, Robotics and Biomimetics 2018)](https://arxiv.org/abs/1807.08272)
+- [Playing Atari with Deep Reinforcement Learning (arXiv 1312, NeuralIPS Deep Learning Workshop 2013)](https://arxiv.org/abs/1312.5602)
+{{< /spoiler >}}
+
+{{< spoiler text="Graph Neural Networks (3)" >}}
+- [Circuit-GNN: Graph Neural Networks for Distributed Circuit Design (ICML 2019)](http://proceedings.mlr.press/v97/zhang19e.html)
+- [How Powerful are Graph Neural Networks? (arXiv 1810, ICLR 2019)](https://arxiv.org/abs/1810.00826)
+- [Graph Attention Networks (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10903)
 {{< /spoiler >}}
 
 {{< spoiler text="Discrete Algorithms (1)" >}}
