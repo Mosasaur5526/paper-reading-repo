@@ -15,6 +15,20 @@ title: Readings
 # Section subtitle
 subtitle:
 
+experience:
+  - title: Recent Readings
+    company: GenCoin
+    company_url: ''
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
 # Section design
 design:
   # Use a 1-column layout
