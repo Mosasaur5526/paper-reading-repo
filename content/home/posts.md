@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Posts
-subtitle:
+subtitle: The Campfire Tales
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -29,7 +29,7 @@ content:
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  order: asc
 
 design:
   # Choose a view for the listings:
