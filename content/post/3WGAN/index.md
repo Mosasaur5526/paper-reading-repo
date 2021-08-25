@@ -1,9 +1,9 @@
 ---
-title: Why Does Path Length Regularisation Work
-subtitle: Path length regularisation is a new trick for training GAN (i.e. Generative Adversarial Networks) proposed by NVIDIA in their StyleGAN2 paper. In appendix C of the paper, authors of which provide its readers with somewhat obscure explanations of the effects of the trick, leaving novices like me greatly baffled. In this article, I will decompose the whole theory into more detailed proofs of several lemmas respectively, targeting at a deeper comprehension of this prominent piece of art.
+title: "Prelude to Wasserstein GAN: More Detailed Proofs"
+subtitle: When I was reading this famous paper I found it quite opaque for people as vegetable as I am. Things like "Sobolev norm", "Kantorovich-Rubinstein duality", "Pinsker's inequality" and "Sard's Lemma" make me feel like an alien who has never learned mathematics on this planet. Besides, some of the proofs are succinct or "is trivial and left as an exercise to the reader". This article may not aim to explain those intoxicating mathematical terminologies, but to provide more detailed proofs within my ability.
 
 # Summary for listings and search engines
-summary: Please see [original post](https://zhuanlan.zhihu.com/p/348308433) for full version. Path length regularisation is a new trick for training GAN (i.e. Generative Adversarial Networks) proposed by NVIDIA in their StyleGAN2 paper. In appendix C of the paper, authors of which provide its readers with somewhat obscure explanations of the effects of the trick, leaving novices like me greatly baffled. In this article, I will decompose the whole theory into more detailed proofs of several lemmas respectively, targeting at a deeper comprehension of this prominent piece of art.
+summary: Please see [original post](https://zhuanlan.zhihu.com/p/343671431) for full version. When I was reading this famous paper I found it quite opaque for people as vegetable as I am. Things like "Sobolev norm", "Kantorovich-Rubinstein duality", "Pinsker's inequality" and "Sard's Lemma" make me feel like an alien who has never learned mathematics on this planet. Besides, some of the proofs are succinct or "is trivial and left as an exercise to the reader". This article may not aim to explain those intoxicating mathematical terminologies, but to provide more detailed proofs within my ability.
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**StyleGAN**](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)'
+  caption: 'Image credit: [**WGAN-prelude**](https://arxiv.org/abs/1701.04862)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -36,4 +36,4 @@ tags:
 
 ---
 
-Original Post: https://zhuanlan.zhihu.com/p/348308433
+Original Post: [https://zhuanlan.zhihu.com/p/343671431](https://zhuanlan.zhihu.com/p/343671431)

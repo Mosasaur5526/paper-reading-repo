@@ -1,9 +1,9 @@
 ---
-title: Why Does Path Length Regularisation Work
-subtitle: Path length regularisation is a new trick for training GAN (i.e. Generative Adversarial Networks) proposed by NVIDIA in their StyleGAN2 paper. In appendix C of the paper, authors of which provide its readers with somewhat obscure explanations of the effects of the trick, leaving novices like me greatly baffled. In this article, I will decompose the whole theory into more detailed proofs of several lemmas respectively, targeting at a deeper comprehension of this prominent piece of art.
+title: Siegel Disc Exploration With Matplotlib
+subtitle: Recently I've been studying complex dynamics by myself. As its name suggests this is such a complicated branch of mathematics that requires solid foundation in complex analysis, measure theory, set theory and so on for people to understand what it is talking about. Maybe I exaggerate. Whatever, in this article I'll show some exploration results of a kind of topological construction of Fatou stable area, Siegel disc, named after its finder, with the help of Matplotlib (a famous side-package of Python specializes in visualization).
 
 # Summary for listings and search engines
-summary: Please see [original post](https://zhuanlan.zhihu.com/p/348308433) for full version. Path length regularisation is a new trick for training GAN (i.e. Generative Adversarial Networks) proposed by NVIDIA in their StyleGAN2 paper. In appendix C of the paper, authors of which provide its readers with somewhat obscure explanations of the effects of the trick, leaving novices like me greatly baffled. In this article, I will decompose the whole theory into more detailed proofs of several lemmas respectively, targeting at a deeper comprehension of this prominent piece of art.
+summary: Please see [original post](https://zhuanlan.zhihu.com/p/115075043) for full version. Recently I've been studying complex dynamics by myself. As its name suggests this is such a complicated branch of mathematics that requires solid foundation in complex analysis, measure theory, set theory and so on for people to understand what it is talking about. Maybe I exaggerate. Whatever, in this article I'll show some exploration results of a kind of topological construction of Fatou stable area, Siegel disc, named after its finder, with the help of Matplotlib (a famous side-package of Python specializes in visualization).
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**StyleGAN**](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)'
+  caption: 'Image credit: [**Siegel Disc**](https://zhuanlan.zhihu.com/p/115075043)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -36,4 +36,4 @@ tags:
 
 ---
 
-Original Post: https://zhuanlan.zhihu.com/p/348308433
+Original Post: [https://zhuanlan.zhihu.com/p/115075043](https://zhuanlan.zhihu.com/p/115075043)
