@@ -1,5 +1,5 @@
 ---
-# An instance of the Accomplishments widget.
+# An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
 
@@ -9,14 +9,20 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Readings'
+# Section title
+title: Readings
+
+# Section subtitle
 subtitle:
 
+# Section design
 design:
-  columns: '1'
-
-What is happening???
+  # Use a 1-column layout
+  columns: "1"
+  # Use a dark navy background with light text.
+  background:
+    color: 'navy'
+    text_color_light: true
 
 ---
 
