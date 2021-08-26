@@ -19,6 +19,7 @@ bio: This website is currently only used as a personal recorder of paper reading
 interests:
 - Deep Learning Theory
 - Computer Vision
+- Anything else EXCEPT Natural Language Processing
 
 # Education to show in About widget
 # education:
