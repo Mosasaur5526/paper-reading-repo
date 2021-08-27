@@ -42,6 +42,7 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 26/8/2021】On the Convergence and Robustness of Adversarial Training (ICML 2019)](https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf)
 * [【finished on 17/8/2021】Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
 {{< /spoiler >}}
+<br/>
 
 ## Full List
 _Only includes thoroughly read papers. Full collection is much larger than this._
