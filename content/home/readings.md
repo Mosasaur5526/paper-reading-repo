@@ -64,9 +64,10 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Persistence stability for geometric complexes (arXiv 1207, Geometriae Dedicata 2014)](https://arxiv.org/abs/1207.3885)
 {{< /spoiler >}}
 
-{{< spoiler text="Adversarial Examples, Attacks and Defenses (10)" >}}
+{{< spoiler text="Adversarial Examples, Attacks and Defenses (11)" >}}
 - [Practical No-box Adversarial Attacks against DNNs (arXiv 2012, NeuralIPS 2020)](https://arxiv.org/abs/2012.02525)
 - [Invert and Defend: Model-based Approximate Inversion of Generative Adversarial Networks for Secure Inference (arXiv 1911)](https://arxiv.org/abs/1911.10291)
+- [Disentangling Adversarial Robustness and Generalization (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.00740)
 - [Constructing Unrestricted Adversarial Examples with Generative Models (arXiv 1805, NeuralIPS 2018)](https://arxiv.org/abs/1805.07894)
 - [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (arXiv 1802, ICML 2018)](https://arxiv.org/abs/1802.00420)
 - [Towards Deep Learning Models Resistant to Adversarial Attacks (arXiv 1706, ICLR 2018)](https://arxiv.org/abs/1706.06083)
