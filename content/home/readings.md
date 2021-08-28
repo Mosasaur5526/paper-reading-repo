@@ -25,7 +25,7 @@ design:
 
 ## Recent Readings
 _finished in last two weeks ~ still in the queue_
-{{< spoiler text="Not Started (5)" >}}
+{{< spoiler text="Not Started (4)" >}}
 * [【not started】Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
 * [【not started】Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
 * [【not started】API-Net: Robust Generative Classifier via a Single Discriminator (ECCV 2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf)
@@ -33,12 +33,12 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (2)" >}}
-* [【started on 27/8/2021, unfinished】Disentangling Adversarial Robustness and Generalization (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.00740)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (2)" >}}
+{{< spoiler text="Finished (3)" >}}
+* [【finished on 28/8/2021】Disentangling Adversarial Robustness and Generalization (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.00740)
 * [【finished on 26/8/2021】On the Convergence and Robustness of Adversarial Training (ICML 2019)](https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf)
 * [【finished on 17/8/2021】Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
 {{< /spoiler >}}
