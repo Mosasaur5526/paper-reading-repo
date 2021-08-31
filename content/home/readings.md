@@ -25,13 +25,13 @@ design:
 
 ## Recent Readings
 _finished in last two weeks ~ still in the queue_
-{{< spoiler text="Not Started (3)" >}}
+{{< spoiler text="Not Started (2)" >}}
 * [【not started】Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
 * [【not started】Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
-* [【not started】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (2)" >}}
+{{< spoiler text="Started but Unfinished (3)" >}}
+* [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
@@ -64,9 +64,8 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Persistence stability for geometric complexes (arXiv 1207, Geometriae Dedicata 2014)](https://arxiv.org/abs/1207.3885)
 {{< /spoiler >}}
 
-{{< spoiler text="Adversarial Examples, Attacks and Defenses (11)" >}}
+{{< spoiler text="Adversarial Examples and Attacks (10)" >}}
 - [Practical No-box Adversarial Attacks against DNNs (arXiv 2012, NeuralIPS 2020)](https://arxiv.org/abs/2012.02525)
-- [Invert and Defend: Model-based Approximate Inversion of Generative Adversarial Networks for Secure Inference (arXiv 1911)](https://arxiv.org/abs/1911.10291)
 - [Disentangling Adversarial Robustness and Generalization (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.00740)
 - [Constructing Unrestricted Adversarial Examples with Generative Models (arXiv 1805, NeuralIPS 2018)](https://arxiv.org/abs/1805.07894)
 - [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (arXiv 1802, ICML 2018)](https://arxiv.org/abs/1802.00420)
@@ -78,10 +77,12 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning (4)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (6)" >}}
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
 - [Adversarially Robust Representations with Smooth Encoders (ICLR 2020)](https://openreview.net/forum?id=H1gfFaEYDS)
+- [API-Net: Robust Generative Classifier via a Single Discriminator (ECCV 2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf)
 - [Adversarial Distributional Training for Robust Deep Learning (NeuralIPS 2020)](https://arxiv.org/abs/2002.05999)
+- [Invert and Defend: Model-based Approximate Inversion of Generative Adversarial Networks for Secure Inference (arXiv 1911)](https://arxiv.org/abs/1911.10291)
 - [Gradient Regularization Improves Accuracy of Discriminative Models (arXiv 1712, Schedae Informaticae 2018)](https://arxiv.org/abs/1712.09936)
 {{< /spoiler >}}
 
