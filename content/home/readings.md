@@ -23,7 +23,7 @@ design:
 
 ---
 
-## Recent Readings
+## Recent Readings (9)
 _finished in last two weeks ~ still in the queue_
 {{< spoiler text="Not Started (2)" >}}
 * [【not started】Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
@@ -44,7 +44,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List
+## Full List (81)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Convergence and Generalization Theory (4)" >}}
