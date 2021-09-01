@@ -29,18 +29,17 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (4)" >}}
-* [【started on 31/8/2021, unfinished】Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
+{{< spoiler text="Started but Unfinished (3)" >}}
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
 {{< spoiler text="Finished (4)" >}}
+* [【finished on 1/9/2021】Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
 * [【finished on 30/8/2021】API-Net: Robust Generative Classifier via a Single Discriminator (ECCV 2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf)
 * [【finished on 28/8/2021】Disentangling Adversarial Robustness and Generalization (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.00740)
 * [【finished on 26/8/2021】On the Convergence and Robustness of Adversarial Training (ICML 2019)](https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf)
-* [【finished on 17/8/2021】Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
 {{< /spoiler >}}
 <br/>
 
@@ -77,8 +76,9 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (6)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (7)" >}}
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
+- [Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
 - [Adversarially Robust Representations with Smooth Encoders (ICLR 2020)](https://openreview.net/forum?id=H1gfFaEYDS)
 - [API-Net: Robust Generative Classifier via a Single Discriminator (ECCV 2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf)
 - [Adversarial Distributional Training for Robust Deep Learning (NeuralIPS 2020)](https://arxiv.org/abs/2002.05999)
