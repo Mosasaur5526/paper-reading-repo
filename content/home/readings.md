@@ -25,11 +25,11 @@ design:
 
 ## Recent Readings
 _finished in last two weeks ~ still in the queue_
-{{< spoiler text="Not Started (1)" >}}
-* [【not started】Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
+{{< spoiler text="Not Started (0)" >}}
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (3)" >}}
+* [【started on 2/9/2021, unfinished】Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
