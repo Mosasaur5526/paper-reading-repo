@@ -80,8 +80,9 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (7)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (8)" >}}
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
+- [Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
 - [Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
 - [Adversarially Robust Representations with Smooth Encoders (ICLR 2020)](https://openreview.net/forum?id=H1gfFaEYDS)
 - [API-Net: Robust Generative Classifier via a Single Discriminator (ECCV 2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf)
