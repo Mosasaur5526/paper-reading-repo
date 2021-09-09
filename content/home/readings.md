@@ -34,14 +34,14 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Adversarial Examples Improve Image Recognition (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09665)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (4)" >}}
-* [【started on 9/9/2021, unfinished】Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
+{{< spoiler text="Started but Unfinished (3)" >}}
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (5)" >}}
+{{< spoiler text="Finished (6)" >}}
+* [【finished on 9/9/2021】Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
 * [【finished on 3/9/2021】Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
 * [【finished on 1/9/2021】Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
 * [【finished on 30/8/2021】API-Net: Robust Generative Classifier via a Single Discriminator (ECCV 2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf)
@@ -100,7 +100,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Representation Learning with Contrastive Predictive Coding (arXiv 1807)](https://arxiv.org/abs/1807.03748)
 {{< /spoiler >}}
 
-{{< spoiler text="Virtual Try-on and Graphics Related (10)" >}}
+{{< spoiler text="Virtual Try-on and Graphics Related (11)" >}}
 - [Shape Controllable Virtual Try-on for Underwear Models (arXiv 2107)](https://arxiv.org/abs/2107.13156)
 - [Disentangled Cycle Consistency for Highly-realistic Virtual Try-On (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.09479)
 - [Learning to Transfer Texture from Clothing Images to 3D Humans (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.02050)
@@ -110,6 +110,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Expressive Body Capture: 3D Hands, Face, and Body From a Single Image (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.html)
 - [SMPL: A Skinned Multi-Person Linear Model (ACM Transactions on Graphics 2015)](https://dl.acm.org/doi/abs/10.1145/2816795.2818013)
 - [Shape deformation using skeleton correspondences for realistic posed fashion flat creation (IEEE Transactions on Automation Science and Engineering 2014)](https://ieeexplore.ieee.org/abstract/document/6716100)
+- [Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
 - [Image Deformation Using Moving Least Squares (SIGGRAPH 2006)](https://dl.acm.org/doi/abs/10.1145/1179352.1141920)
 {{< /spoiler >}}
 
