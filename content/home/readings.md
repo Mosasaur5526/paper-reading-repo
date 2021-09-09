@@ -25,14 +25,17 @@ design:
 
 ## Recent Readings
 _finished in last two weeks ~ still in the queue_
-{{< spoiler text="Not Started (4)" >}}
+{{< spoiler text="Not Started (6)" >}}
+* [【not started】Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
+* [【not started】Unsupervised Learning for Intrinsic Image Decomposition from a Single Image (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09930)
 * [【not started】Subsampling Methods for Persistent Homology (arXiv 1406, ICML 2015)](https://arxiv.org/abs/1406.1901)
 * [【not started】Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 * [【not started】Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 * [【not started】Adversarial Examples Improve Image Recognition (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09665)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (3)" >}}
+{{< spoiler text="Started but Unfinished (4)" >}}
+* [【started on 9/9/2021, unfinished】Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
