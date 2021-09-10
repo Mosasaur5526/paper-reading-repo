@@ -25,8 +25,7 @@ design:
 
 ## Recent Readings
 _finished in last two weeks ~ still in the queue_
-{{< spoiler text="Not Started (5)" >}}
-* [【not started】Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
+{{< spoiler text="Not Started (4)" >}}
 * [【not started】Subsampling Methods for Persistent Homology (arXiv 1406, ICML 2015)](https://arxiv.org/abs/1406.1901)
 * [【not started】Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 * [【not started】Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
@@ -34,13 +33,14 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (4)" >}}
-* [【started on 10/9/2021, unfinished】Unsupervised Learning for Intrinsic Image Decomposition from a Single Image (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09930)
+* [【started on 10/9/2021, unfinished】Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (5)" >}}
+{{< spoiler text="Finished (6)" >}}
+* [【finished on 10/9/2021】Unsupervised Learning for Intrinsic Image Decomposition from a Single Image (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09930)
 * [【finished on 9/9/2021】Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
 * [【finished on 3/9/2021】Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
 * [【finished on 1/9/2021】Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
@@ -99,15 +99,16 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Representation Learning with Contrastive Predictive Coding (arXiv 1807)](https://arxiv.org/abs/1807.03748)
 {{< /spoiler >}}
 
-{{< spoiler text="Virtual Try-on and Graphics Related (11)" >}}
+{{< spoiler text="Virtual Try-on, Intrinsic Image Decomposition and Graphics Related (12)" >}}
 - [Shape Controllable Virtual Try-on for Underwear Models (arXiv 2107)](https://arxiv.org/abs/2107.13156)
 - [Disentangled Cycle Consistency for Highly-realistic Virtual Try-On (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.09479)
 - [Learning to Transfer Texture from Clothing Images to 3D Humans (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.02050)
 - [Warping Residual Based Image Stitching for Large Parallax (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_Warping_Residual_Based_Image_Stitching_for_Large_Parallax_CVPR_2020_paper.html)
 - [Towards Photo-Realistic Virtual Try-On by Adaptively Generating-Preserving Image Content (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Towards_Photo-Realistic_Virtual_Try-On_by_Adaptively_Generating-Preserving_Image_Content_CVPR_2020_paper.html)
+- [Unsupervised Learning for Intrinsic Image Decomposition from a Single Image (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09930)
 - [Multi-Garment Net: Learning to Dress 3D People from Images (arXiv 1908, ICCV 2019)](https://arxiv.org/abs/1908.06903)
 - [Expressive Body Capture: 3D Hands, Face, and Body From a Single Image (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.html)
-- [SMPL: A Skinned Multi-Person Linear Model (ACM Transactions on Graphics 2015)](https://dl.acm.org/doi/abs/10.1145/2816795.2818013)
+- [SMPL: A Skinned Multi-Person Linear Model (TOG 2015)](https://dl.acm.org/doi/abs/10.1145/2816795.2818013)
 - [Shape deformation using skeleton correspondences for realistic posed fashion flat creation (IEEE Transactions on Automation Science and Engineering 2014)](https://ieeexplore.ieee.org/abstract/document/6716100)
 - [Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
 - [Image Deformation Using Moving Least Squares (SIGGRAPH 2006)](https://dl.acm.org/doi/abs/10.1145/1179352.1141920)
