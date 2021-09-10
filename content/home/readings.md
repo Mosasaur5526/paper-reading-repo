@@ -23,7 +23,7 @@ design:
 
 ---
 
-## Recent Readings
+## Recent Readings (14)
 _finished in last two weeks ~ still in the queue_
 {{< spoiler text="Not Started (4)" >}}
 * [【not started】Subsampling Methods for Persistent Homology (arXiv 1406, ICML 2015)](https://arxiv.org/abs/1406.1901)
