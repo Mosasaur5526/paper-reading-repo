@@ -32,14 +32,14 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Adversarial Examples Improve Image Recognition (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09665)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (4)" >}}
-* [【started on 10/9/2021, unfinished】Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
+{{< spoiler text="Started but Unfinished (3)" >}}
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (6)" >}}
+{{< spoiler text="Finished (7)" >}}
+* [【finished on 10/9/2021】Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
 * [【finished on 10/9/2021】Unsupervised Learning for Intrinsic Image Decomposition from a Single Image (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09930)
 * [【finished on 9/9/2021】Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
 * [【finished on 3/9/2021】Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
@@ -99,9 +99,10 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Representation Learning with Contrastive Predictive Coding (arXiv 1807)](https://arxiv.org/abs/1807.03748)
 {{< /spoiler >}}
 
-{{< spoiler text="Virtual Try-on, Intrinsic Image Decomposition and Graphics Related (12)" >}}
+{{< spoiler text="Virtual Try-on, Intrinsic Image Decomposition and Graphics Related (13)" >}}
 - [Shape Controllable Virtual Try-on for Underwear Models (arXiv 2107)](https://arxiv.org/abs/2107.13156)
 - [Disentangled Cycle Consistency for Highly-realistic Virtual Try-On (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.09479)
+- [Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
 - [Learning to Transfer Texture from Clothing Images to 3D Humans (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.02050)
 - [Warping Residual Based Image Stitching for Large Parallax (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_Warping_Residual_Based_Image_Stitching_for_Large_Parallax_CVPR_2020_paper.html)
 - [Towards Photo-Realistic Virtual Try-On by Adaptively Generating-Preserving Image Content (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Towards_Photo-Realistic_Virtual_Try-On_by_Adaptively_Generating-Preserving_Image_Content_CVPR_2020_paper.html)
