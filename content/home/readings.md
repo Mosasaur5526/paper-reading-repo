@@ -23,9 +23,10 @@ design:
 
 ---
 
-## Recent Readings (14)
+## Recent Readings (15)
 _finished in last two weeks ~ still in the queue_
-{{< spoiler text="Not Started (3)" >}}
+{{< spoiler text="Not Started (4)" >}}
+* [【not started】Robustness May Be at Odds with Accuracy (arXiv 1805, ICLR 2019)](https://arxiv.org/abs/1805.12152)
 * [【not started】Subsampling Methods for Persistent Homology (arXiv 1406, ICML 2015)](https://arxiv.org/abs/1406.1901)
 * [【not started】Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 * [【not started】Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
