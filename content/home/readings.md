@@ -23,23 +23,24 @@ design:
 
 ---
 
-## Recent Readings (15)
+## Recent Readings (16)
 _finished in last two weeks ~ still in the queue_
-{{< spoiler text="Not Started (4)" >}}
+{{< spoiler text="Not Started (5)" >}}
+* [【not started】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeuralIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【not started】Interpreting Adversarially Trained Convolutional Neural Networks (arXiv 1905, ICML 2019)](https://arxiv.org/abs/1905.09797)
 * [【not started】Robustness May Be at Odds with Accuracy (arXiv 1805, ICLR 2019)](https://arxiv.org/abs/1805.12152)
 * [【not started】Subsampling Methods for Persistent Homology (arXiv 1406, ICML 2015)](https://arxiv.org/abs/1406.1901)
 * [【not started】Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (4)" >}}
-* [【started on 12/9/2021, unfinished】Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
+{{< spoiler text="Started but Unfinished (3)" >}}
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (7)" >}}
+{{< spoiler text="Finished (8)" >}}
+* [【finished on 12/9/2021】Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 * [【finished on 11/9/2021】Adversarial Examples Improve Image Recognition (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09665)
 * [【finished on 10/9/2021】Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
 * [【finished on 10/9/2021】Unsupervised Learning for Intrinsic Image Decomposition from a Single Image (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09930)
@@ -50,7 +51,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (87)
+## Full List (88)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Convergence and Generalization Theory (4)" >}}
@@ -83,8 +84,9 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (9)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (10)" >}}
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
+- [Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 - [Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
 - [Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
 - [Adversarially Robust Representations with Smooth Encoders (ICLR 2020)](https://openreview.net/forum?id=H1gfFaEYDS)
