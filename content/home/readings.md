@@ -23,7 +23,7 @@ design:
 
 ---
 
-## Recent Readings (16)
+## Recent Readings (15)
 _finished in last two weeks ~ still in the queue_
 {{< spoiler text="Not Started (4)" >}}
 * [【not started】Interpreting Adversarially Trained Convolutional Neural Networks (arXiv 1905, ICML 2019)](https://arxiv.org/abs/1905.09797)
@@ -33,13 +33,13 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (4)" >}}
-* [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeuralIPS 2019)](https://arxiv.org/abs/1905.00877)
+* [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
-* [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
+* [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (8)" >}}
+{{< spoiler text="Finished (7)" >}}
 * [【finished on 12/9/2021】Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 * [【finished on 11/9/2021】Adversarial Examples Improve Image Recognition (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09665)
 * [【finished on 10/9/2021】Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
@@ -47,7 +47,6 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 9/9/2021】Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
 * [【finished on 3/9/2021】Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
 * [【finished on 1/9/2021】Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
-* [【finished on 30/8/2021】API-Net: Robust Generative Classifier via a Single Discriminator (ECCV 2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf)
 {{< /spoiler >}}
 <br/>
 
@@ -58,7 +57,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 - [On the Convergence and Robustness of Adversarial Training (ICML 2019)](https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf)
 - [A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
-- [Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeuralIPS 2018)](https://arxiv.org/abs/1806.07572)
+- [Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
 {{< spoiler text="Topological Data Analysis (7)" >}}
@@ -72,9 +71,9 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 {{< /spoiler >}}
 
 {{< spoiler text="Adversarial Examples and Attacks (10)" >}}
-- [Practical No-box Adversarial Attacks against DNNs (arXiv 2012, NeuralIPS 2020)](https://arxiv.org/abs/2012.02525)
+- [Practical No-box Adversarial Attacks against DNNs (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.02525)
 - [Disentangling Adversarial Robustness and Generalization (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.00740)
-- [Constructing Unrestricted Adversarial Examples with Generative Models (arXiv 1805, NeuralIPS 2018)](https://arxiv.org/abs/1805.07894)
+- [Constructing Unrestricted Adversarial Examples with Generative Models (arXiv 1805, NeurIPS 2018)](https://arxiv.org/abs/1805.07894)
 - [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (arXiv 1802, ICML 2018)](https://arxiv.org/abs/1802.00420)
 - [Towards Deep Learning Models Resistant to Adversarial Attacks (arXiv 1706, ICLR 2018)](https://arxiv.org/abs/1706.06083)
 - [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples (arXiv 1605)](https://arxiv.org/abs/1605.07277)
@@ -91,7 +90,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
 - [Adversarially Robust Representations with Smooth Encoders (ICLR 2020)](https://openreview.net/forum?id=H1gfFaEYDS)
 - [API-Net: Robust Generative Classifier via a Single Discriminator (ECCV 2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf)
-- [Adversarial Distributional Training for Robust Deep Learning (NeuralIPS 2020)](https://arxiv.org/abs/2002.05999)
+- [Adversarial Distributional Training for Robust Deep Learning (NeurIPS 2020)](https://arxiv.org/abs/2002.05999)
 - [Adversarial Examples Improve Image Recognition (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09665)
 - [Invert and Defend: Model-based Approximate Inversion of Generative Adversarial Networks for Secure Inference (arXiv 1911)](https://arxiv.org/abs/1911.10291)
 - [Gradient Regularization Improves Accuracy of Discriminative Models (arXiv 1712, Schedae Informaticae 2018)](https://arxiv.org/abs/1712.09936)
@@ -150,14 +149,14 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Spectral Normalization for Generative Adversarial Networks (arXiv 1802, ICLR 2018)](https://arxiv.org/abs/1802.05957)
 - [StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks (arXiv 1710, TPAMI 2018)](https://arxiv.org/abs/1710.10916)
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10196)
-- [Improved Training of Wasserstein GANs (arXiv 1704, NeuralIPS 2017)](https://arxiv.org/abs/1704.00028)
+- [Improved Training of Wasserstein GANs (arXiv 1704, NeurIPS 2017)](https://arxiv.org/abs/1704.00028)
 - [Wasserstein Generative Adversarial Networks (arXiv 1701, ICML 2017)](https://arxiv.org/abs/1701.07875)
 - [Towards Principled Methods for Training Generative Adversarial Networks (arXiv 1701, ICLR 2017)](https://arxiv.org/abs/1701.04862)
 - [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks (arXiv 1612, ECCV 2017)](https://openaccess.thecvf.com/content_iccv_2017/html/Zhang_StackGAN_Text_to_ICCV_2017_paper.html)
-- [Improved Techniques for Training GANs (arXiv 1606, NeuralIPS 2016)](https://arxiv.org/abs/1606.03498)
+- [Improved Techniques for Training GANs (arXiv 1606, NeurIPS 2016)](https://arxiv.org/abs/1606.03498)
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (arXiv 1511, ICLR 2016)](https://arxiv.org/abs/1511.06434)
 - [Conditional Generative Adversarial Nets (arXiv 1411)](https://arxiv.org/abs/1411.1784)
-- [Generative Adversarial Nets (arXiv 1406, NeuralIPS 2014)](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
+- [Generative Adversarial Nets (arXiv 1406, NeurIPS 2014)](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
 {{< /spoiler >}}
 
 {{< spoiler text="Organization and Architecture (2)" >}}
