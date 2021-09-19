@@ -31,15 +31,15 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (5)" >}}
-* [【started on 18/9/2021, unfinished】Robustness May Be at Odds with Accuracy (arXiv 1805, ICLR 2019)](https://arxiv.org/abs/1805.12152)
+{{< spoiler text="Started but Unfinished (4)" >}}
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (5)" >}}
+{{< spoiler text="Finished (6)" >}}
+* [【finished on 19/9/2021】Robustness May Be at Odds with Accuracy (arXiv 1805, ICLR 2019)](https://arxiv.org/abs/1805.12152)
 * [【finished on 12/9/2021】Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 * [【finished on 11/9/2021】Adversarial Examples Improve Image Recognition (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09665)
 * [【finished on 10/9/2021】Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
@@ -48,7 +48,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (88)
+## Full List (89)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Convergence and Generalization Theory (4)" >}}
@@ -81,7 +81,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (10)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (11)" >}}
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
 - [Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 - [Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
@@ -91,6 +91,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Adversarial Distributional Training for Robust Deep Learning (NeurIPS 2020)](https://arxiv.org/abs/2002.05999)
 - [Adversarial Examples Improve Image Recognition (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09665)
 - [Invert and Defend: Model-based Approximate Inversion of Generative Adversarial Networks for Secure Inference (arXiv 1911)](https://arxiv.org/abs/1911.10291)
+- [Robustness May Be at Odds with Accuracy (arXiv 1805, ICLR 2019)](https://arxiv.org/abs/1805.12152)
 - [Gradient Regularization Improves Accuracy of Discriminative Models (arXiv 1712, Schedae Informaticae 2018)](https://arxiv.org/abs/1712.09936)
 {{< /spoiler >}}
 
