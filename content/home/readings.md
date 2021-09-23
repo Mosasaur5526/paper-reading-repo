@@ -23,15 +23,17 @@ design:
 
 ---
 
-## Recent Readings (13)
+## Recent Readings (15)
 _finished in last two weeks ~ still in the queue_
-{{< spoiler text="Not Started (3)" >}}
-* [【not started】Interpreting Adversarially Trained Convolutional Neural Networks (arXiv 1905, ICML 2019)](https://arxiv.org/abs/1905.09797)
-* [【not started】Subsampling Methods for Persistent Homology (arXiv 1406, ICML 2015)](https://arxiv.org/abs/1406.1901)
+{{< spoiler text="Not Started (4)" >}}
+* [【not started】Adversarial Training and Robustness for Multiple Perturbations (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.13000)
+* [【not started】Intriguing properties of adversarial training at scale (arXiv 1906, ICLR 2020)](https://arxiv.org/abs/1906.03787)
+* [【not started】High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.11585v1)
 * [【not started】Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (4)" >}}
+{{< spoiler text="Started but Unfinished (5)" >}}
+* [【started on 23/9/2021, unfinished】Interpreting Adversarially Trained Convolutional Neural Networks (arXiv 1905, ICML 2019)](https://arxiv.org/abs/1905.09797)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
