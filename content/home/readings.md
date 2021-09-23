@@ -23,9 +23,10 @@ design:
 
 ---
 
-## Recent Readings (15)
+## Recent Readings (16)
 _finished in last two weeks ~ still in the queue_
-{{< spoiler text="Not Started (4)" >}}
+{{< spoiler text="Not Started (5)" >}}
+* [【not started】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 * [【not started】Adversarial Training and Robustness for Multiple Perturbations (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.13000)
 * [【not started】Intriguing properties of adversarial training at scale (arXiv 1906, ICLR 2020)](https://arxiv.org/abs/1906.03787)
 * [【not started】High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.11585v1)
