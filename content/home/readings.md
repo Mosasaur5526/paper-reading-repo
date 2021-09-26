@@ -32,22 +32,22 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (5)" >}}
-* [【started on 26/9/2021, unfinished】High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.11585v1)
+{{< spoiler text="Started but Unfinished (4)" >}}
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (3)" >}}
+{{< spoiler text="Finished (4)" >}}
+* [【finished on 26/9/2021】High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.11585v1)
 * [【finished on 23/9/2021】Interpreting Adversarially Trained Convolutional Neural Networks (arXiv 1905, ICML 2019)](https://arxiv.org/abs/1905.09797)
 * [【finished on 19/9/2021】Robustness May Be at Odds with Accuracy (arXiv 1805, ICLR 2019)](https://arxiv.org/abs/1805.12152)
 * [【finished on 12/9/2021】Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 {{< /spoiler >}}
 <br/>
 
-## Full List (90)
+## Full List (91)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Convergence and Generalization Theory (4)" >}}
@@ -130,11 +130,12 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Disentangled Inference for GANs with Latently Invertible Autoencoder (arXiv 1906)](https://arxiv.org/abs/1906.08090)
 {{< /spoiler >}}
 
-{{< spoiler text="Image Translation and Processing (7)" >}}
+{{< spoiler text="Image Translation and Processing (8)" >}}
 - [Blind Face Restoration via Deep Multi-scale Component Dictionaries (arXiv 2008, ECCV 2020)](https://arxiv.org/abs/2008.00418)
 - [STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing (arXiv 1904, CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Liu_STGAN_A_Unified_Selective_Transfer_Network_for_Arbitrary_Image_Attribute_CVPR_2019_paper.html)
 - [AttGAN: Facial Attribute Editing by Only Changing What You Want (arXiv 1711, TIP 2019)](https://arxiv.org/abs/1711.10678)
 - [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (arXiv 1711, CVPR 2018)](https://openaccess.thecvf.com/content_cvpr_2018/html/Choi_StarGAN_Unified_Generative_CVPR_2018_paper.html)
+- [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.11585v1)
 - [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization (arXiv 1703, ICCV 2017)](https://openaccess.thecvf.com/content_iccv_2017/html/Huang_Arbitrary_Style_Transfer_ICCV_2017_paper.html)
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (arXiv 1703, ICCV 2017)](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html)
 - [Image-to-Image Translation with Conditional Adversarial Networks (arXiv 1611, CVPR 2017)](https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)
