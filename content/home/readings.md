@@ -23,30 +23,31 @@ design:
 
 ---
 
-## Recent Readings (11)
+## Recent Readings (12)
 _finished in last two weeks ~ still in the queue_
-{{< spoiler text="Not Started (3)" >}}
+{{< spoiler text="Not Started (4)" >}}
+* [【not started】Theoretically Principled Trade-off between Robustness and Accuracy (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08573)
 * [【not started】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 * [【not started】Adversarial Training and Robustness for Multiple Perturbations (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.13000)
 * [【not started】Intriguing properties of adversarial training at scale (arXiv 1906, ICLR 2020)](https://arxiv.org/abs/1906.03787)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (5)" >}}
-* [【started on 27/9/2021, unfinished】Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
+{{< spoiler text="Started but Unfinished (4)" >}}
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (3)" >}}
+{{< spoiler text="Finished (4)" >}}
+* [【finished on 27/9/2021】Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 * [【finished on 26/9/2021】High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.11585v1)
 * [【finished on 23/9/2021】Interpreting Adversarially Trained Convolutional Neural Networks (arXiv 1905, ICML 2019)](https://arxiv.org/abs/1905.09797)
 * [【finished on 19/9/2021】Robustness May Be at Odds with Accuracy (arXiv 1805, ICLR 2019)](https://arxiv.org/abs/1805.12152)
 {{< /spoiler >}}
 <br/>
 
-## Full List (91)
+## Full List (92)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Convergence and Generalization Theory (4)" >}}
@@ -79,9 +80,10 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (12)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (13)" >}}
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
 - [Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
+- [Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 - [Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
 - [Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
 - [Adversarially Robust Representations with Smooth Encoders (ICLR 2020)](https://openreview.net/forum?id=H1gfFaEYDS)
