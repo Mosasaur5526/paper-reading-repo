@@ -23,9 +23,10 @@ design:
 
 ---
 
-## Recent Readings (12)
+## Recent Readings (13)
 _finished in last two weeks ~ still in the queue_
-{{< spoiler text="Not Started (4)" >}}
+{{< spoiler text="Not Started (5)" >}}
+* [【not started】Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks (arXiv 2003, ICML 2020)](https://arxiv.org/abs/2003.01690)
 * [【not started】Theoretically Principled Trade-off between Robustness and Accuracy (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08573)
 * [【not started】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 * [【not started】Adversarial Training and Robustness for Multiple Perturbations (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.13000)
