@@ -25,6 +25,7 @@ design:
 
 ## Recent Readings (19)
 _finished in last two weeks ~ still in the queue_
+
 {{< spoiler text="Not Started (10)" >}}
 * [【not started】Total Relighting: Learning to Relight Portraits for Background Replacement (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459872)
 * [【not started】Neural Light Transport for Relighting and View Synthesis (arXiv 2008, TOG 2021)](https://arxiv.org/abs/2008.03806)
@@ -61,6 +62,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Shape Controllable Virtual Try-on for Underwear Models (arXiv 2107)](https://arxiv.org/abs/2107.13156)
 - [Disentangled Cycle Consistency for Highly-realistic Virtual Try-On (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.09479)
 - [Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
+{{< /spoiler >}}
 
 {{< spoiler text="Convergence and Generalization Theory (4)" >}}
 - [Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
