@@ -23,9 +23,15 @@ design:
 
 ---
 
-## Recent Readings (13)
+## Recent Readings (19)
 _finished in last two weeks ~ still in the queue_
-{{< spoiler text="Not Started (4)" >}}
+{{< spoiler text="Not Started (10)" >}}
+* [【not started】Total Relighting: Learning to Relight Portraits for Background Replacement (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459872)
+* [【not started】Neural Light Transport for Relighting and View Synthesis (arXiv 2008, TOG 2021)](https://arxiv.org/abs/2008.03806)
+* [【not started】Single-image Full-body Human Relighting (arXiv 2107, EGSR 2021)](https://arxiv.org/abs/2107.07259)
+* [【not started】Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.03319)
+* [【not started】DensePose: Dense Human Pose Estimation In The Wild (arXiv 1802, CVPR 2018)](https://arxiv.org/abs/1802.00434)
+* [【not started】3D Object Manipulation in a Single Photograph using Stock 3D Models (SIGGRAPH 2014)](https://dl.acm.org/doi/abs/10.1145/2601097.2601209)
 * [【not started】Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks (arXiv 2003, ICML 2020)](https://arxiv.org/abs/2003.01690)
 * [【not started】Theoretically Principled Trade-off between Robustness and Accuracy (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08573)
 * [【not started】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
@@ -50,6 +56,11 @@ _finished in last two weeks ~ still in the queue_
 
 ## Full List (92)
 _Only includes thoroughly read papers. Full collection is much larger than this._
+
+{{< spoiler text="Intrinsic Image Decomposition (3)" >}}
+- [Shape Controllable Virtual Try-on for Underwear Models (arXiv 2107)](https://arxiv.org/abs/2107.13156)
+- [Disentangled Cycle Consistency for Highly-realistic Virtual Try-On (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.09479)
+- [Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
 
 {{< spoiler text="Convergence and Generalization Theory (4)" >}}
 - [Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
@@ -103,10 +114,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Representation Learning with Contrastive Predictive Coding (arXiv 1807)](https://arxiv.org/abs/1807.03748)
 {{< /spoiler >}}
 
-{{< spoiler text="Virtual Try-on, Intrinsic Image Decomposition and Graphics Related (13)" >}}
-- [Shape Controllable Virtual Try-on for Underwear Models (arXiv 2107)](https://arxiv.org/abs/2107.13156)
-- [Disentangled Cycle Consistency for Highly-realistic Virtual Try-On (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.09479)
-- [Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
+{{< spoiler text="Virtual Try-on and Graphics Related (10)" >}}
 - [Learning to Transfer Texture from Clothing Images to 3D Humans (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.02050)
 - [Warping Residual Based Image Stitching for Large Parallax (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_Warping_Residual_Based_Image_Stitching_for_Large_Parallax_CVPR_2020_paper.html)
 - [Towards Photo-Realistic Virtual Try-On by Adaptively Generating-Preserving Image Content (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Towards_Photo-Realistic_Virtual_Try-On_by_Adaptively_Generating-Preserving_Image_Content_CVPR_2020_paper.html)
