@@ -26,20 +26,20 @@ design:
 ## Recent Readings (19)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (10)" >}}
+{{< spoiler text="Not Started (9)" >}}
 * [【not started】Total Relighting: Learning to Relight Portraits for Background Replacement (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459872)
 * [【not started】Neural Light Transport for Relighting and View Synthesis (arXiv 2008, TOG 2021)](https://arxiv.org/abs/2008.03806)
 * [【not started】Single-image Full-body Human Relighting (arXiv 2107, EGSR 2021)](https://arxiv.org/abs/2107.07259)
 * [【not started】Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.03319)
 * [【not started】DensePose: Dense Human Pose Estimation In The Wild (arXiv 1802, CVPR 2018)](https://arxiv.org/abs/1802.00434)
-* [【not started】3D Object Manipulation in a Single Photograph using Stock 3D Models (SIGGRAPH 2014)](https://dl.acm.org/doi/abs/10.1145/2601097.2601209)
 * [【not started】Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks (arXiv 2003, ICML 2020)](https://arxiv.org/abs/2003.01690)
 * [【not started】Theoretically Principled Trade-off between Robustness and Accuracy (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08573)
 * [【not started】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 * [【not started】Adversarial Training and Robustness for Multiple Perturbations (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.13000)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (4)" >}}
+{{< spoiler text="Started but Unfinished (5)" >}}
+* [【started on 1/10/2021, unfinished】3D Object Manipulation in a Single Photograph using Stock 3D Models (SIGGRAPH 2014)](https://dl.acm.org/doi/abs/10.1145/2601097.2601209)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
