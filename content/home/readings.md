@@ -34,15 +34,15 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Adversarial Training and Robustness for Multiple Perturbations (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.13000)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (5)" >}}
-* [【started on 4/10/2021, unfinished】Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.03319)
+{{< spoiler text="Started but Unfinished (4)" >}}
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (9)" >}}
+{{< spoiler text="Finished (10)" >}}
+* [【finished on 5/10/2021, unfinished】Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.03319)
 * [【finished on 4/10/2021】Total Relighting: Learning to Relight Portraits for Background Replacement (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459872)
 * [【finished on 3/10/2021】Single-image Full-body Human Relighting (arXiv 2107, EGSR 2021)](https://arxiv.org/abs/2107.07259)
 * [【finished on 3/10/2021】Neural Light Transport for Relighting and View Synthesis (arXiv 2008, TOG 2021)](https://arxiv.org/abs/2008.03806)
@@ -55,7 +55,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (97)
+## Full List (98)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition and Relighting (7)" >}}
@@ -121,8 +121,9 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Representation Learning with Contrastive Predictive Coding (arXiv 1807)](https://arxiv.org/abs/1807.03748)
 {{< /spoiler >}}
 
-{{< spoiler text="Virtual Try-on, pose estimation and Graphics Related (11)" >}}
+{{< spoiler text="Virtual Try-on, pose estimation and Graphics Related (12)" >}}
 - [Shape Controllable Virtual Try-on for Underwear Models (arXiv 2107)](https://arxiv.org/abs/2107.13156)
+* [Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.03319)
 - [Disentangled Cycle Consistency for Highly-realistic Virtual Try-On (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.09479)
 - [Learning to Transfer Texture from Clothing Images to 3D Humans (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.02050)
 - [Warping Residual Based Image Stitching for Large Parallax (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_Warping_Residual_Based_Image_Stitching_for_Large_Parallax_CVPR_2020_paper.html)
