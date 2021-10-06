@@ -23,10 +23,14 @@ design:
 
 ---
 
-## Recent Readings (19)
+## Recent Readings (23)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (4)" >}}
+{{< spoiler text="Not Started (8)" >}}
+* [【not started】Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack (arXiv 1907, ICML 2020)](https://arxiv.org/abs/1907.02044)
+* [【not started】WITCHcraft: Efficient PGD attacks with random step size (arXiv 1904, ICASSP 2020)](https://arxiv.org/abs/1911.07989)
+* [【not started】Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2019)](https://arxiv.org/abs/2001.03994)
+* [【not started】Adversarial Training for Free! (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.12843)
 * [【not started】Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
 * [【not started】Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks (arXiv 2003, ICML 2020)](https://arxiv.org/abs/2003.01690)
 * [【not started】Theoretically Principled Trade-off between Robustness and Accuracy (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08573)
