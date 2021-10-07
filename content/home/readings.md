@@ -23,11 +23,12 @@ design:
 
 ---
 
-## Recent Readings (24)
+## Recent Readings (26)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (7)" >}}
-* [【not started】Are adversarial examples inevitable? (arXiv 1809, ICLR 2019)](https://arxiv.org/abs/1809.02104)
+{{< spoiler text="Not Started (8)" >}}
+* [【not started】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
+* [【not started】Towards Evaluating the Robustness of Neural Networks (arXiv 1608, IEEE SP 2017)](https://arxiv.org/abs/1608.04644)
 * [【not started】Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack (arXiv 1907, ICML 2020)](https://arxiv.org/abs/1907.02044)
 * [【not started】Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2019)](https://arxiv.org/abs/2001.03994)
 * [【not started】Adversarial Training for Free! (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.12843)
@@ -37,14 +38,15 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (5)" >}}
-* [【started on 7/10/2021, unfinished】Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
+* [【started on 7/10/2021, unfinsihed】Are adversarial examples inevitable? (arXiv 1809, ICLR 2019)](https://arxiv.org/abs/1809.02104)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (12)" >}}
+{{< spoiler text="Finished (13)" >}}
+* [【finished on 7/10/2021】Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
 * [【finished on 6/10/2021】WITCHcraft: Efficient PGD attacks with random step size (arXiv 1904, ICASSP 2020)](https://arxiv.org/abs/1911.07989)
 * [【finished on 6/10/2021】Adversarial Training and Robustness for Multiple Perturbations (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.13000)
 * [【finished on 5/10/2021】Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.03319)
@@ -104,9 +106,10 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (15)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (16)" >}}
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
 - [Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
+- [Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
 - [Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 - [Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
 - [Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
