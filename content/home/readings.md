@@ -23,10 +23,11 @@ design:
 
 ---
 
-## Recent Readings (25)
+## Recent Readings (26)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (6)" >}}
+{{< spoiler text="Not Started (7)" >}}
+* [【not started】Unsupervised Portrait Shadow Removal via Generative Priors (arXiv 2108, ACM MM 2021)](https://arxiv.org/abs/2108.03466)
 * [【not started】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【not started】Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2019)](https://arxiv.org/abs/2001.03994)
 * [【not started】Adversarial Training for Free! (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.12843)
