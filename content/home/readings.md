@@ -26,7 +26,7 @@ design:
 ## Recent Readings (36)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (17)" >}}
+{{< spoiler text="Not Started (16)" >}}
 * [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
 * [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
 * [【not started】A Multi-Task Network for Joint Specular Highlight Detection and Removal (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_A_Multi-Task_Network_for_Joint_Specular_Highlight_Detection_and_Removal_CVPR_2021_paper.html)
@@ -37,7 +37,6 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】GMLight: Lighting Estimation via Geometric Distribution Approximation (arXiv 2102, AAAI 2021)](https://arxiv.org/abs/2102.10244)
 * [【not started】SfSNet: Learning Shape, Reflectance and Illuminance of Faces in the Wild (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.01261)
 * [【not started】Learning to Factorize and Relight a City (arXiv 2008, ECCV 2020)](https://arxiv.org/abs/2008.02796)
-* [【not started】Unsupervised Portrait Shadow Removal via Generative Priors (arXiv 2108, ACM MM 2021)](https://arxiv.org/abs/2108.03466)
 * [【not started】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【not started】Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2019)](https://arxiv.org/abs/2001.03994)
 * [【not started】Adversarial Training for Free! (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.12843)
@@ -47,14 +46,15 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (5)" >}}
-* [【started on 8/10/2021, unfinished】Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack (arXiv 1907, ICML 2020)](https://arxiv.org/abs/1907.02044)
+* [【started on 10/10/2021, unfinished】Unsupervised Portrait Shadow Removal via Generative Priors (arXiv 2108, ACM MM 2021)](https://arxiv.org/abs/2108.03466)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (14)" >}}
+{{< spoiler text="Finished (15)" >}}
+* [【finished on 10/10/2021】Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack (arXiv 1907, ICML 2020)](https://arxiv.org/abs/1907.02044)
 * [【finished on 9/10/2021】Towards Evaluating the Robustness of Neural Networks (arXiv 1608, IEEE SP 2017)](https://arxiv.org/abs/1608.04644)
 * [【finished on 7/10/2021】Are adversarial examples inevitable? (arXiv 1809, ICLR 2019)](https://arxiv.org/abs/1809.02104)
 * [【finished on 7/10/2021】Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
@@ -72,7 +72,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (104)
+## Full List (105)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition and Relighting (7)" >}}
@@ -102,8 +102,9 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Persistence stability for geometric complexes (arXiv 1207, Geometriae Dedicata 2014)](https://arxiv.org/abs/1207.3885)
 {{< /spoiler >}}
 
-{{< spoiler text="Adversarial Examples and Attacks (13)" >}}
+{{< spoiler text="Adversarial Examples and Attacks (14)" >}}
 - [Practical No-box Adversarial Attacks against DNNs (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.02525)
+* [Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack (arXiv 1907, ICML 2020)](https://arxiv.org/abs/1907.02044)
 - [WITCHcraft: Efficient PGD attacks with random step size (arXiv 1904, ICASSP 2020)](https://arxiv.org/abs/1911.07989)
 - [Disentangling Adversarial Robustness and Generalization (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.00740)
 - [Are adversarial examples inevitable? (arXiv 1809, ICLR 2019)](https://arxiv.org/abs/1809.02104)
