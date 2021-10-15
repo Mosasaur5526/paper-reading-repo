@@ -23,17 +23,16 @@ design:
 
 ---
 
-## Recent Readings (34)
+## Recent Readings (31)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (15)" >}}
+{{< spoiler text="Not Started (14)" >}}
 * [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
 * [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
 * [【not started】A Multi-Task Network for Joint Specular Highlight Detection and Removal (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_A_Multi-Task_Network_for_Joint_Specular_Highlight_Detection_and_Removal_CVPR_2021_paper.html)
 * [【not started】Learning to Detect Specular Highlights from Real-world Images (ACM MM 2020)](https://dl.acm.org/doi/abs/10.1145/3394171.3413586)
 * [【not started】Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image (arXiv 1905, CVPR 2020)](https://arxiv.org/abs/1905.02722)
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
-* [【not started】PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.00452)
 * [【not started】GMLight: Lighting Estimation via Geometric Distribution Approximation (arXiv 2102, AAAI 2021)](https://arxiv.org/abs/2102.10244)
 * [【not started】Learning to Factorize and Relight a City (arXiv 2008, ECCV 2020)](https://arxiv.org/abs/2008.02796)
 * [【not started】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
@@ -51,7 +50,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (15)" >}}
+{{< spoiler text="Finished (13)" >}}
+* [【finished on 15/10/2021】PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.00452)
 * [【finished on 12/10/2021】SfSNet: Learning Shape, Reflectance and Illuminance of Faces in the Wild (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.01261)
 * [【finished on 10/10/2021】Unsupervised Portrait Shadow Removal via Generative Priors (arXiv 2108, ACM MM 2021)](https://arxiv.org/abs/2108.03466)
 * [【finished on 10/10/2021】Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack (arXiv 1907, ICML 2020)](https://arxiv.org/abs/1907.02044)
@@ -64,21 +64,19 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 4/10/2021】Total Relighting: Learning to Relight Portraits for Background Replacement (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459872)
 * [【finished on 3/10/2021】Single-image Full-body Human Relighting (arXiv 2107, EGSR 2021)](https://arxiv.org/abs/2107.07259)
 * [【finished on 3/10/2021】Neural Light Transport for Relighting and View Synthesis (arXiv 2008, TOG 2021)](https://arxiv.org/abs/2008.03806)
-* [【finished on 1/10/2021】DensePose: Dense Human Pose Estimation In The Wild (arXiv 1802, CVPR 2018)](https://arxiv.org/abs/1802.00434)
-* [【finished on 1/10/2021】3D Object Manipulation in a Single Photograph using Stock 3D Models (SIGGRAPH 2014)](https://dl.acm.org/doi/abs/10.1145/2601097.2601209)
-* [【finished on 29/9/2021】Intriguing properties of adversarial training at scale (arXiv 1906, ICLR 2020)](https://arxiv.org/abs/1906.03787)
 {{< /spoiler >}}
 <br/>
 
-## Full List (107)
+## Full List (108)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
-{{< spoiler text="Intrinsic Image Decomposition, Re-lighting and Shadow Removal (9)" >}}
+{{< spoiler text="Intrinsic Image Decomposition, Re-lighting and Shadow Removal (10)" >}}
 - [Unsupervised Portrait Shadow Removal via Generative Priors (arXiv 2108, ACM MM 2021)](https://arxiv.org/abs/2108.03466)
 - [Single-image Full-body Human Relighting (arXiv 2107, EGSR 2021)](https://arxiv.org/abs/2107.07259)
 - [Physics-based Shading Reconstruction for Intrinsic Image Decomposition (arXiv 2009, CVIU 2021)](https://arxiv.org/abs/2009.01540)
 - [Total Relighting: Learning to Relight Portraits for Background Replacement (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459872)
 - [Neural Light Transport for Relighting and View Synthesis (arXiv 2008, TOG 2021)](https://arxiv.org/abs/2008.03806)
+- [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.00452)
 - [Unsupervised Learning for Intrinsic Image Decomposition from a Single Image (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09930)
 - [SfSNet: Learning Shape, Reflectance and Illuminance of Faces in the Wild (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.01261)
 - [3D Object Manipulation in a Single Photograph using Stock 3D Models (SIGGRAPH 2014)](https://dl.acm.org/doi/abs/10.1145/2601097.2601209)
