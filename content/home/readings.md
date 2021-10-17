@@ -23,17 +23,17 @@ design:
 
 ---
 
-## Recent Readings (31)
+## Recent Readings (30)
 _finished in last two weeks ~ still in the queue_
 
 {{< spoiler text="Not Started (14)" >}}
+* [【not started】Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation (arXiv 2110, PG 2021)](https://arxiv.org/abs/2110.07272)
 * [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
 * [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
 * [【not started】A Multi-Task Network for Joint Specular Highlight Detection and Removal (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_A_Multi-Task_Network_for_Joint_Specular_Highlight_Detection_and_Removal_CVPR_2021_paper.html)
 * [【not started】Learning to Detect Specular Highlights from Real-world Images (ACM MM 2020)](https://dl.acm.org/doi/abs/10.1145/3394171.3413586)
 * [【not started】Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image (arXiv 1905, CVPR 2020)](https://arxiv.org/abs/1905.02722)
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
-* [【not started】GMLight: Lighting Estimation via Geometric Distribution Approximation (arXiv 2102, AAAI 2021)](https://arxiv.org/abs/2102.10244)
 * [【not started】Learning to Factorize and Relight a City (arXiv 2008, ECCV 2020)](https://arxiv.org/abs/2008.02796)
 * [【not started】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【not started】Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2019)](https://arxiv.org/abs/2001.03994)
@@ -43,14 +43,15 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (4)" >}}
+{{< spoiler text="Started but Unfinished (5)" >}}
+* [【not started】GMLight: Lighting Estimation via Geometric Distribution Approximation (arXiv 2102, AAAI 2021)](https://arxiv.org/abs/2102.10244)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (13)" >}}
+{{< spoiler text="Finished (11)" >}}
 * [【finished on 15/10/2021】PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.00452)
 * [【finished on 12/10/2021】SfSNet: Learning Shape, Reflectance and Illuminance of Faces in the Wild (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.01261)
 * [【finished on 10/10/2021】Unsupervised Portrait Shadow Removal via Generative Priors (arXiv 2108, ACM MM 2021)](https://arxiv.org/abs/2108.03466)
@@ -62,8 +63,6 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 6/10/2021】Adversarial Training and Robustness for Multiple Perturbations (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.13000)
 * [【finished on 5/10/2021】Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.03319)
 * [【finished on 4/10/2021】Total Relighting: Learning to Relight Portraits for Background Replacement (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459872)
-* [【finished on 3/10/2021】Single-image Full-body Human Relighting (arXiv 2107, EGSR 2021)](https://arxiv.org/abs/2107.07259)
-* [【finished on 3/10/2021】Neural Light Transport for Relighting and View Synthesis (arXiv 2008, TOG 2021)](https://arxiv.org/abs/2008.03806)
 {{< /spoiler >}}
 <br/>
 
