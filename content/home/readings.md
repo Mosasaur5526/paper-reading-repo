@@ -23,12 +23,11 @@ design:
 
 ---
 
-## Recent Readings (32)
+## Recent Readings (30)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (16)" >}}
+{{< spoiler text="Not Started (15)" >}}
 * [【not started】Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild (arXiv 1911, CVPR 2020, TPAMI 2021)](https://arxiv.org/abs/1911.11130)
-* [【not started】SSH: A Self-Supervised Framework for Image Harmonization (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.06805)
 * [【not started】Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation (arXiv 2110, PG 2021)](https://arxiv.org/abs/2110.07272)
 * [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
 * [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
@@ -46,14 +45,15 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (5)" >}}
-* [【started on 10/20/2021, unfinished】CANet: A Context-Aware Network for Shadow Removal (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.09894)
+* [【started on 21/10/2021, unfinished】SSH: A Self-Supervised Framework for Image Harmonization (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.06805)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (11)" >}}
+{{< spoiler text="Finished (10)" >}}
+* [【finished on 21/10/2021】CANet: A Context-Aware Network for Shadow Removal (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.09894)
 * [【finished on 20/10/2021】Region-aware Adaptive Instance Normalization for Image Harmonization (arXiv 2106, CVPR 2021)](https://arxiv.org/abs/2106.02853)
 * [【finished on 18/10/2021】GMLight: Lighting Estimation via Geometric Distribution Approximation (arXiv 2102, AAAI 2021)](https://arxiv.org/abs/2102.10244)
 * [【finished on 15/10/2021】PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.00452)
@@ -63,15 +63,14 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 9/10/2021】Towards Evaluating the Robustness of Neural Networks (arXiv 1608, IEEE SP 2017)](https://arxiv.org/abs/1608.04644)
 * [【finished on 7/10/2021】Are adversarial examples inevitable? (arXiv 1809, ICLR 2019)](https://arxiv.org/abs/1809.02104)
 * [【finished on 7/10/2021】Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
-* [【finished on 6/10/2021】WITCHcraft: Efficient PGD attacks with random step size (arXiv 1904, ICASSP 2020)](https://arxiv.org/abs/1911.07989)
-* [【finished on 6/10/2021】Adversarial Training and Robustness for Multiple Perturbations (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.13000)
 {{< /spoiler >}}
 <br/>
 
-## Full List (110)
+## Full List (111)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
-{{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (12)" >}}
+{{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (13)" >}}
+- [CANet: A Context-Aware Network for Shadow Removal (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.09894)
 - [Unsupervised Portrait Shadow Removal via Generative Priors (arXiv 2108, ACM MM 2021)](https://arxiv.org/abs/2108.03466)
 - [Single-image Full-body Human Relighting (arXiv 2107, EGSR 2021)](https://arxiv.org/abs/2107.07259)
 - [Region-aware Adaptive Instance Normalization for Image Harmonization (arXiv 2106, CVPR 2021)](https://arxiv.org/abs/2106.02853)
