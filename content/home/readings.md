@@ -23,7 +23,7 @@ design:
 
 ---
 
-## Recent Readings (31)
+## Recent Readings (29)
 _finished in last two weeks ~ still in the queue_
 
 {{< spoiler text="Not Started (15)" >}}
@@ -44,8 +44,7 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (6)" >}}
-* [【started on 21/10/2021, unfinished】DoveNet: Deep Image Harmonization via Domain Verification (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.13239)
+{{< spoiler text="Started but Unfinished (5)" >}}
 * [【started on 21/10/2021, unfinished】SSH: A Self-Supervised Framework for Image Harmonization (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.06805)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
@@ -53,7 +52,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (10)" >}}
+{{< spoiler text="Finished (9)" >}}
+* [【finished on 22/10/2021】DoveNet: Deep Image Harmonization via Domain Verification (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.13239)
 * [【finished on 21/10/2021】CANet: A Context-Aware Network for Shadow Removal (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.09894)
 * [【finished on 20/10/2021】Region-aware Adaptive Instance Normalization for Image Harmonization (arXiv 2106, CVPR 2021)](https://arxiv.org/abs/2106.02853)
 * [【finished on 18/10/2021】GMLight: Lighting Estimation via Geometric Distribution Approximation (arXiv 2102, AAAI 2021)](https://arxiv.org/abs/2102.10244)
@@ -62,15 +62,13 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 10/10/2021】Unsupervised Portrait Shadow Removal via Generative Priors (arXiv 2108, ACM MM 2021)](https://arxiv.org/abs/2108.03466)
 * [【finished on 10/10/2021】Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack (arXiv 1907, ICML 2020)](https://arxiv.org/abs/1907.02044)
 * [【finished on 9/10/2021】Towards Evaluating the Robustness of Neural Networks (arXiv 1608, IEEE SP 2017)](https://arxiv.org/abs/1608.04644)
-* [【finished on 7/10/2021】Are adversarial examples inevitable? (arXiv 1809, ICLR 2019)](https://arxiv.org/abs/1809.02104)
-* [【finished on 7/10/2021】Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
 {{< /spoiler >}}
 <br/>
 
-## Full List (111)
+## Full List (112)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
-{{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (13)" >}}
+{{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (14)" >}}
 - [CANet: A Context-Aware Network for Shadow Removal (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.09894)
 - [Unsupervised Portrait Shadow Removal via Generative Priors (arXiv 2108, ACM MM 2021)](https://arxiv.org/abs/2108.03466)
 - [Single-image Full-body Human Relighting (arXiv 2107, EGSR 2021)](https://arxiv.org/abs/2107.07259)
@@ -80,6 +78,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Total Relighting: Learning to Relight Portraits for Background Replacement (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459872)
 - [Neural Light Transport for Relighting and View Synthesis (arXiv 2008, TOG 2021)](https://arxiv.org/abs/2008.03806)
 - [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.00452)
+- [DoveNet: Deep Image Harmonization via Domain Verification (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.13239)
 - [Unsupervised Learning for Intrinsic Image Decomposition from a Single Image (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09930)
 - [SfSNet: Learning Shape, Reflectance and Illuminance of Faces in the Wild (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.01261)
 - [3D Object Manipulation in a Single Photograph using Stock 3D Models (SIGGRAPH 2014)](https://dl.acm.org/doi/abs/10.1145/2601097.2601209)
