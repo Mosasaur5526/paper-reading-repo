@@ -26,8 +26,7 @@ design:
 ## Recent Readings (29)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (14)" >}}
-* [【not started】Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild (arXiv 1911, CVPR 2020, TPAMI 2021)](https://arxiv.org/abs/1911.11130)
+{{< spoiler text="Not Started (13)" >}}
 * [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
 * [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
 * [【not started】A Multi-Task Network for Joint Specular Highlight Detection and Removal (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_A_Multi-Task_Network_for_Joint_Specular_Highlight_Detection_and_Removal_CVPR_2021_paper.html)
@@ -44,14 +43,15 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (5)" >}}
-* [【started on 22/10/2021, unfinished】Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation (arXiv 2110, PG 2021)](https://arxiv.org/abs/2110.07272)
+* [【started on 23/10/2021, unfinished】Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild (arXiv 1911, CVPR 2020, TPAMI 2021)](https://arxiv.org/abs/1911.11130)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (10)" >}}
+{{< spoiler text="Finished (11)" >}}
+* [【finished on 23/10/2021】Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation (arXiv 2110, PG 2021)](https://arxiv.org/abs/2110.07272)
 * [【finished on 22/10/2021】SSH: A Self-Supervised Framework for Image Harmonization (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.06805)
 * [【finished on 22/10/2021】DoveNet: Deep Image Harmonization via Domain Verification (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.13239)
 * [【finished on 21/10/2021】CANet: A Context-Aware Network for Shadow Removal (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.09894)
@@ -65,10 +65,11 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (113)
+## Full List (114)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
-{{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (15)" >}}
+{{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (16)" >}}
+- [Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation (arXiv 2110, PG 2021)](https://arxiv.org/abs/2110.07272)
 - [SSH: A Self-Supervised Framework for Image Harmonization (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.06805)
 - [CANet: A Context-Aware Network for Shadow Removal (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.09894)
 - [Unsupervised Portrait Shadow Removal via Generative Priors (arXiv 2108, ACM MM 2021)](https://arxiv.org/abs/2108.03466)
