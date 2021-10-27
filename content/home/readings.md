@@ -41,15 +41,15 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (5)" >}}
-* [【started on 26/10/2021, unfinished】Theoretically Principled Trade-off between Robustness and Accuracy (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08573)
+{{< spoiler text="Started but Unfinished (4)" >}}
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (9)" >}}
+{{< spoiler text="Finished (10)" >}}
+* [【finished on 27/10/2021】Theoretically Principled Trade-off between Robustness and Accuracy (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08573)
 * [【finished on 26/10/2021】Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild (arXiv 1911, CVPR 2020, TPAMI 2021)](https://arxiv.org/abs/1911.11130)
 * [【finished on 23/10/2021】Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation (arXiv 2110, PG 2021)](https://arxiv.org/abs/2110.07272)
 * [【finished on 22/10/2021】SSH: A Self-Supervised Framework for Image Harmonization (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.06805)
@@ -62,7 +62,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (115)
+## Full List (116)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (17)" >}}
@@ -119,7 +119,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (16)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (17)" >}}
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
 - [Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 - [Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
@@ -134,6 +134,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Intriguing properties of adversarial training at scale (arXiv 1906, ICLR 2020)](https://arxiv.org/abs/1906.03787)
 - [Interpreting Adversarially Trained Convolutional Neural Networks (arXiv 1905, ICML 2019)](https://arxiv.org/abs/1905.09797)
 - [Adversarial Training and Robustness for Multiple Perturbations (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.13000)
+- [Theoretically Principled Trade-off between Robustness and Accuracy (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08573)
 - [Robustness May Be at Odds with Accuracy (arXiv 1805, ICLR 2019)](https://arxiv.org/abs/1805.12152)
 - [Gradient Regularization Improves Accuracy of Discriminative Models (arXiv 1712, Schedae Informaticae 2018)](https://arxiv.org/abs/1712.09936)
 {{< /spoiler >}}
