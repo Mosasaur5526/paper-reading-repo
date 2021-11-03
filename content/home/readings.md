@@ -23,10 +23,10 @@ design:
 
 ---
 
-## Recent Readings (26)
+## Recent Readings (24)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (12)" >}}
+{{< spoiler text="Not Started (11)" >}}
 * [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
 * [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
 * [【not started】A Multi-Task Network for Joint Specular Highlight Detection and Removal (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_A_Multi-Task_Network_for_Joint_Specular_Highlight_Detection_and_Removal_CVPR_2021_paper.html)
@@ -37,18 +37,19 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【not started】Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2019)](https://arxiv.org/abs/2001.03994)
 * [【not started】Adversarial Training for Free! (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.12843)
-* [【not started】Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks (arXiv 2003, ICML 2020)](https://arxiv.org/abs/2003.01690)
 * [【not started】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (4)" >}}
+{{< spoiler text="Started but Unfinished (6)" >}}
+* [【started on 3/11/2021, unfinished】Relighting Humans: Occlusion-Aware Inverse Rendering for Full-Body Human Images (arXiv 1908, SIGGRAPH ASIA 2018)](https://arxiv.org/abs/1908.02714)
+* [【started on 30/10/2021, unfinished】Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks (arXiv 2003, ICML 2020)](https://arxiv.org/abs/2003.01690)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (10)" >}}
+{{< spoiler text="Finished (7)" >}}
 * [【finished on 27/10/2021】Theoretically Principled Trade-off between Robustness and Accuracy (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08573)
 * [【finished on 26/10/2021】Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild (arXiv 1911, CVPR 2020, TPAMI 2021)](https://arxiv.org/abs/1911.11130)
 * [【finished on 23/10/2021】Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation (arXiv 2110, PG 2021)](https://arxiv.org/abs/2110.07272)
@@ -56,9 +57,6 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 22/10/2021】DoveNet: Deep Image Harmonization via Domain Verification (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.13239)
 * [【finished on 21/10/2021】CANet: A Context-Aware Network for Shadow Removal (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.09894)
 * [【finished on 20/10/2021】Region-aware Adaptive Instance Normalization for Image Harmonization (arXiv 2106, CVPR 2021)](https://arxiv.org/abs/2106.02853)
-* [【finished on 18/10/2021】GMLight: Lighting Estimation via Geometric Distribution Approximation (arXiv 2102, AAAI 2021)](https://arxiv.org/abs/2102.10244)
-* [【finished on 15/10/2021】PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.00452)
-* [【finished on 12/10/2021】SfSNet: Learning Shape, Reflectance and Illuminance of Faces in the Wild (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.01261)
 {{< /spoiler >}}
 <br/>
 
