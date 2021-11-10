@@ -23,7 +23,7 @@ design:
 
 ---
 
-## Recent Readings (24)
+## Recent Readings (18)
 _finished in last two weeks ~ still in the queue_
 
 {{< spoiler text="Not Started (11)" >}}
@@ -40,8 +40,7 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (6)" >}}
-* [【started on 3/11/2021, unfinished】Relighting Humans: Occlusion-Aware Inverse Rendering for Full-Body Human Images (arXiv 1908, SIGGRAPH ASIA 2018)](https://arxiv.org/abs/1908.02714)
+{{< spoiler text="Started but Unfinished (5)" >}}
 * [【started on 30/10/2021, unfinished】Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks (arXiv 2003, ICML 2020)](https://arxiv.org/abs/2003.01690)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
@@ -49,21 +48,16 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (7)" >}}
+{{< spoiler text="Finished (2)" >}}
+* [【finished on 4/11/2021】Relighting Humans: Occlusion-Aware Inverse Rendering for Full-Body Human Images (arXiv 1908, SIGGRAPH ASIA 2018)](https://arxiv.org/abs/1908.02714)
 * [【finished on 27/10/2021】Theoretically Principled Trade-off between Robustness and Accuracy (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08573)
-* [【finished on 26/10/2021】Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild (arXiv 1911, CVPR 2020, TPAMI 2021)](https://arxiv.org/abs/1911.11130)
-* [【finished on 23/10/2021】Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation (arXiv 2110, PG 2021)](https://arxiv.org/abs/2110.07272)
-* [【finished on 22/10/2021】SSH: A Self-Supervised Framework for Image Harmonization (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.06805)
-* [【finished on 22/10/2021】DoveNet: Deep Image Harmonization via Domain Verification (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.13239)
-* [【finished on 21/10/2021】CANet: A Context-Aware Network for Shadow Removal (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.09894)
-* [【finished on 20/10/2021】Region-aware Adaptive Instance Normalization for Image Harmonization (arXiv 2106, CVPR 2021)](https://arxiv.org/abs/2106.02853)
 {{< /spoiler >}}
 <br/>
 
-## Full List (116)
+## Full List (117)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
-{{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (17)" >}}
+{{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (18)" >}}
 - [Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation (arXiv 2110, PG 2021)](https://arxiv.org/abs/2110.07272)
 - [SSH: A Self-Supervised Framework for Image Harmonization (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.06805)
 - [CANet: A Context-Aware Network for Shadow Removal (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.09894)
@@ -78,6 +72,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild (arXiv 1911, CVPR 2020, TPAMI 2021)](https://arxiv.org/abs/1911.11130)
 - [DoveNet: Deep Image Harmonization via Domain Verification (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.13239)
 - [Unsupervised Learning for Intrinsic Image Decomposition from a Single Image (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.09930)
+- [Relighting Humans: Occlusion-Aware Inverse Rendering for Full-Body Human Images (arXiv 1908, SIGGRAPH ASIA 2018)](https://arxiv.org/abs/1908.02714)
 - [SfSNet: Learning Shape, Reflectance and Illuminance of Faces in the Wild (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.01261)
 - [3D Object Manipulation in a Single Photograph using Stock 3D Models (SIGGRAPH 2014)](https://dl.acm.org/doi/abs/10.1145/2601097.2601209)
 - [Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
