@@ -23,10 +23,11 @@ design:
 
 ---
 
-## Recent Readings (18)
+## Recent Readings (19)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (11)" >}}
+{{< spoiler text="Not Started (12)" >}}
+* [【not started】Alias-Free Generative Adversarial Networks (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.12423)
 * [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
 * [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
 * [【not started】A Multi-Task Network for Joint Specular Highlight Detection and Removal (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_A_Multi-Task_Network_for_Joint_Specular_Highlight_Detection_and_Removal_CVPR_2021_paper.html)
