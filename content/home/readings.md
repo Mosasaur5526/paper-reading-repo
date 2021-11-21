@@ -23,7 +23,7 @@ design:
 
 ---
 
-## Recent Readings (18)
+## Recent Readings (17)
 _finished in last two weeks ~ still in the queue_
 
 {{< spoiler text="Not Started (11)" >}}
@@ -47,14 +47,13 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (3)" >}}
-* [【finished on 14/11/2021, unfinished】Alias-Free Generative Adversarial Networks (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.12423)
+{{< spoiler text="Finished (2)" >}}
+* [【finished on 14/11/2021】Alias-Free Generative Adversarial Networks (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.12423)
 * [【finished on 13/11/2021, unfinished】Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks (arXiv 2003, ICML 2020)](https://arxiv.org/abs/2003.01690)
-* [【finished on 4/11/2021】Relighting Humans: Occlusion-Aware Inverse Rendering for Full-Body Human Images (arXiv 1908, SIGGRAPH ASIA 2018)](https://arxiv.org/abs/1908.02714)
-{{< /spoiler >}}
-<br/>
+  {{< /spoiler >}}
+  <br/>
 
-## Full List (118)
+## Full List (119)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (18)" >}}
@@ -118,7 +117,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 - [Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
 - [Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
-- [Adversarial Feature Desensitization (arXiv 2006)](https://arxiv.org/abs/2006.04621)
+- [Adversarial Feature Desensitization (arXiv 2006, NeurIPS 2021)](https://arxiv.org/abs/2006.04621)
 - [Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
 - [Adversarially Robust Representations with Smooth Encoders (ICLR 2020)](https://openreview.net/forum?id=H1gfFaEYDS)
 - [API-Net: Robust Generative Classifier via a Single Discriminator (ECCV 2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf)
@@ -178,7 +177,8 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Image-to-Image Translation with Conditional Adversarial Networks (arXiv 1611, CVPR 2017)](https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)
 {{< /spoiler >}}
 
-{{< spoiler text="Unclassified Classics of Generative Adversarial Networks (15)" >}}
+{{< spoiler text="Unclassified Classics of Generative Adversarial Networks (16)" >}}
+- [Alias-Free Generative Adversarial Networks (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.12423)
 - [Analyzing and Improving the Image Quality of StyleGAN (arXiv 1912, CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.html)
 - [A Style-Based Generator Architecture for Generative Adversarial Networks (arXiv 1812, CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)
 - [Large Scale GAN Training for High Fidelity Natural Image Synthesis (arXiv 1809, ICLR 2019)](https://arxiv.org/abs/1809.11096)
