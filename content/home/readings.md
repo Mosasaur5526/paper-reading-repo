@@ -26,7 +26,7 @@ design:
 ## Recent Readings (17)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (11)" >}}
+{{< spoiler text="Not Started (10)" >}}
 * [【not started】Visualizing the Loss Landscape of Neural Nets (arXiv 1712, NeurIPS 2018)](https://arxiv.org/abs/1712.09913)
 * [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
 * [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
@@ -36,24 +36,24 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 * [【not started】Learning to Factorize and Relight a City (arXiv 2008, ECCV 2020)](https://arxiv.org/abs/2008.02796)
 * [【not started】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
-* [【not started】Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2019)](https://arxiv.org/abs/2001.03994)
 * [【not started】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (5)" >}}
-* [【started on 4/12/2021, unfinished】Deep Image Prior (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.10925)
+* [【started on 4/12/2021, unfinished】Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2019)](https://arxiv.org/abs/2001.03994)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (1)" >}}
+{{< spoiler text="Finished (2)" >}}
+* [【finished on 4/12/2021】Deep Image Prior (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.10925)
 * [【finished on 4/12/2021】Adversarial Training for Free! (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.12843)
 {{< /spoiler >}}
 <br/>
 
-## Full List (120)
+## Full List (121)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (18)" >}}
@@ -154,7 +154,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Image Deformation Using Moving Least Squares (SIGGRAPH 2006)](https://dl.acm.org/doi/abs/10.1145/1179352.1141920)
 {{< /spoiler >}}
 
-{{< spoiler text="GAN Prior and GAN Inversion (10)" >}}
+{{< spoiler text="GAN Prior and GAN Inversion (11)" >}}
 - [Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
 - [GAN Inversion: A Survey (arXiv 2101)](https://arxiv.org/abs/2101.05278)
 - [Improving the Fairness of Deep Generative Models without Retraining (arXiv 2012)](https://arxiv.org/abs/2012.04842)
@@ -165,6 +165,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Image Processing Using Multi-Code GAN Prior (arXiv 1912, CVPR 2020)](https://arxiv.org/abs/1912.07116)
 - [Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis (arXiv 1911, IJCV 2020)](https://arxiv.org/abs/1911.09267)
 - [Disentangled Inference for GANs with Latently Invertible Autoencoder (arXiv 1906)](https://arxiv.org/abs/1906.08090)
+- [Deep Image Prior (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.10925)
 {{< /spoiler >}}
 
 {{< spoiler text="Image Translation and Processing (8)" >}}
