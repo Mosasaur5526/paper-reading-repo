@@ -23,10 +23,13 @@ design:
 
 ---
 
-## Recent Readings (17)
+## Recent Readings (21)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (10)" >}}
+{{< spoiler text="Not Started (13)" >}}
+* [【not started】Ensemble Adversarial Training: Attacks and Defenses (arXiv 1705, ICLR 2018)](https://arxiv.org/abs/1705.07204)
+* [【not started】Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.07668)
+* [【not started】Adversarial Examples Are Not Bugs, They Are Features (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.02175)
 * [【not started】Visualizing the Loss Landscape of Neural Nets (arXiv 1712, NeurIPS 2018)](https://arxiv.org/abs/1712.09913)
 * [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
 * [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
@@ -40,20 +43,21 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (5)" >}}
-* [【started on 4/12/2021, unfinished】Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2019)](https://arxiv.org/abs/2001.03994)
+* [【started on 5/12/2021, unfinished】Adversarial examples in the physical world (arXiv 1607, ICLR 2017 workshop)](https://arxiv.org/abs/1607.02533)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (2)" >}}
+{{< spoiler text="Finished (3)" >}}
+* [【finished on 5/12/2021】Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2020)](https://arxiv.org/abs/2001.03994)
 * [【finished on 4/12/2021】Deep Image Prior (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.10925)
 * [【finished on 4/12/2021】Adversarial Training for Free! (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.12843)
 {{< /spoiler >}}
 <br/>
 
-## Full List (121)
+## Full List (122)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (18)" >}}
@@ -112,13 +116,14 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (18)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (19)" >}}
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
 - [Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 - [Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
 - [Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 - [Adversarial Feature Desensitization (arXiv 2006, NeurIPS 2021)](https://arxiv.org/abs/2006.04621)
 - [Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
+- [Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2020)](https://arxiv.org/abs/2001.03994)
 - [Adversarially Robust Representations with Smooth Encoders (ICLR 2020)](https://openreview.net/forum?id=H1gfFaEYDS)
 - [API-Net: Robust Generative Classifier via a Single Discriminator (ECCV 2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580375.pdf)
 - [Adversarial Distributional Training for Robust Deep Learning (NeurIPS 2020)](https://arxiv.org/abs/2002.05999)
@@ -179,7 +184,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Image-to-Image Translation with Conditional Adversarial Networks (arXiv 1611, CVPR 2017)](https://openaccess.thecvf.com/content_cvpr_2017/html/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.html)
 {{< /spoiler >}}
 
-{{< spoiler text="Unclassified Classics of Generative Adversarial Networks (16)" >}}
+{{< spoiler text="Generative Adversarial Networks (16)" >}}
 - [Alias-Free Generative Adversarial Networks (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.12423)
 - [Analyzing and Improving the Image Quality of StyleGAN (arXiv 1912, CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.html)
 - [A Style-Based Generator Architecture for Generative Adversarial Networks (arXiv 1812, CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html)
