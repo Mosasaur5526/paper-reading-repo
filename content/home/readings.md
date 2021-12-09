@@ -23,10 +23,15 @@ design:
 
 ---
 
-## Recent Readings (21)
+## Recent Readings (26)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (7)" >}}
+{{< spoiler text="Not Started (12)" >}}
+* [【not started】Adversarial Neuron Pruning Purifies Backdoored Deep Models (arXiv 2110, NeurIPS 2021)](https://arxiv.org/abs/2110.14430)
+* [【not started】Improving Adversarial Robustness Requires Revisiting Misclassified Examples (ICLR 2020)](https://openreview.net/forum?id=rklOg6EFwS)
+* [【not started】Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets (arXiv 2002, ICLR 2020)](https://arxiv.org/abs/2002.05990)
+* [【not started】Clustering Effect of Adversarial Robust Models (NeurIPS 2021)](https://papers.nips.cc/paper/2021/hash/f770b62bc8f42a0b66751fe636fc6eb0-Abstract.html)
+* [【not started】Unlearnable Examples: Making Personal Data Unexploitable (arXiv 2101, ICLR 2021)](https://arxiv.org/abs/2101.04898)
 * [【not started】Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.07668)
 * [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
 * [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
@@ -36,8 +41,7 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (6)" >}}
-* [【started on 9/12/2021, unfinished】Visualizing the Loss Landscape of Neural Nets (arXiv 1712, NeurIPS 2018)](https://arxiv.org/abs/1712.09913)
+{{< spoiler text="Started but Unfinished (5)" >}}
 * [【started on 9/12/2021, unfinished】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
@@ -45,7 +49,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (8)" >}}
+{{< spoiler text="Finished (9)" >}}
+* [【finished on 9/12/2021】Visualizing the Loss Landscape of Neural Nets (arXiv 1712, NeurIPS 2018)](https://arxiv.org/abs/1712.09913)
 * [【finished on 9/12/2021】Ensemble Adversarial Training: Attacks and Defenses (arXiv 1705, ICLR 2018)](https://arxiv.org/abs/1705.07204)
 * [【finished on 8/12/2021】Learning to Factorize and Relight a City (arXiv 2008, ECCV 2020)](https://arxiv.org/abs/2008.02796)
 * [【finished on 8/12/2021】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
@@ -57,7 +62,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (127)
+## Full List (128)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (19)" >}}
@@ -82,11 +87,12 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
 {{< /spoiler >}}
 
-{{< spoiler text="Convergence and Generalization Theory (4)" >}}
+{{< spoiler text="Convergence, Generalization and Visualisation (5)" >}}
 - [Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 - [On the Convergence and Robustness of Adversarial Training (ICML 2019)](https://people.eng.unimelb.edu.au/baileyj/papers/ICML_Adversarial_full_reducedsize.pdf)
 - [A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 - [Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
+- [Visualizing the Loss Landscape of Neural Nets (arXiv 1712, NeurIPS 2018)](https://arxiv.org/abs/1712.09913)
 {{< /spoiler >}}
 
 {{< spoiler text="Topological Data Analysis (7)" >}}
