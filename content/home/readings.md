@@ -41,8 +41,7 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (6)" >}}
-* [【started on 10/12/2021, unfinished】Evading defenses to transferable adversarial examples by translation-invariant attacks (arXiv 1904, CVPR 2019)](https://arxiv.org/abs/1904.02884)
+{{< spoiler text="Started but Unfinished (5)" >}}
 * [【started on 9/12/2021, unfinished】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
@@ -50,7 +49,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (11)" >}}
+{{< spoiler text="Finished (12)" >}}
+* [【finished on 11/12/2021】Evading defenses to transferable adversarial examples by translation-invariant attacks (arXiv 1904, CVPR 2019)](https://arxiv.org/abs/1904.02884)
 * [【finished on 10/12/2021】Improving Transferability of Adversarial Examples with Input Diversity (arXiv 1803, CVPR 2019)](https://arxiv.org/abs/1803.06978)
 * [【finished on 10/12/2021】Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets (arXiv 2002, ICLR 2020)](https://arxiv.org/abs/2002.05990)
 * [【finished on 9/12/2021】Visualizing the Loss Landscape of Neural Nets (arXiv 1712, NeurIPS 2018)](https://arxiv.org/abs/1712.09913)
@@ -65,7 +65,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (130)
+## Full List (131)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (19)" >}}
@@ -108,13 +108,14 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Persistence stability for geometric complexes (arXiv 1207, Geometriae Dedicata 2014)](https://arxiv.org/abs/1207.3885)
 {{< /spoiler >}}
 
-{{< spoiler text="Adversarial Examples and Attacks (20)" >}}
+{{< spoiler text="Adversarial Examples and Attacks (21)" >}}
 - [Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 - [Practical No-box Adversarial Attacks against DNNs (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.02525)
 - [Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks (arXiv 2003, ICML 2020)](https://arxiv.org/abs/2003.01690)
 - [Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets (arXiv 2002, ICLR 2020)](https://arxiv.org/abs/2002.05990)
 - [Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack (arXiv 1907, ICML 2020)](https://arxiv.org/abs/1907.02044)
 - [Adversarial Examples Are Not Bugs, They Are Features (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.02175)
+- [Evading defenses to transferable adversarial examples by translation-invariant attacks (arXiv 1904, CVPR 2019)](https://arxiv.org/abs/1904.02884)
 - [WITCHcraft: Efficient PGD attacks with random step size (arXiv 1904, ICASSP 2020)](https://arxiv.org/abs/1911.07989)
 - [Disentangling Adversarial Robustness and Generalization (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.00740)
 - [Are adversarial examples inevitable? (arXiv 1809, ICLR 2019)](https://arxiv.org/abs/1809.02104)
