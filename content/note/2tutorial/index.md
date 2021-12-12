@@ -36,4 +36,4 @@ tags:
 
 ---
 
-Wasserstein Distributionally Robust Optimization: [video link](https://www.youtube.com/watch?v=vozmvt_glQs&t=1532s)
+Wasserstein Distributionally Robust Optimization (by Daniel Kuhn from EPFL): [video link](https://www.youtube.com/watch?v=vozmvt_glQs&t=1532s)

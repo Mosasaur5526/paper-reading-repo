@@ -37,7 +37,10 @@ tags:
 ---
 
 [Improving Adversarial Robustness Requires Revisiting Misclassified Examples (ICLR 2020)](https://openreview.net/forum?id=rklOg6EFwS)
+- Defense method named as MART.
 - Add a regularisation term to misclassified examples, which aims to draw the perturbs examples close to their clean counterparts.
-- Use BCE instead of commonly used CE. Point: adversarial learning requires a strong classifier.
+- Use BCE instead of commonly used CE. Point: adversarial learning requires a strong classifier. Still use CE to find adversarial examples.
 - Use KL divergence to characterise the distinction between misclassified examples and their perturbed counterparts with soft decision.
+- Conclude that technique used for inner maximisation has a negligible influence on the final robustness, while the outer minimization counts a lot.
+- Consider MART under unsupervised settings.
 
