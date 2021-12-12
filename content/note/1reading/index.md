@@ -1,9 +1,9 @@
 ---
-title: "Reading Notes"
-subtitle: Summary of readings.
+title: "Reading Notes for Adversarial Learning"
+subtitle: Including notes for adversarial example/attack/defense/training.
 
 # Summary for listings and search engines
-summary: My reading collection.
+summary: This is a note for adversarial learning, which involves adversarial example/attack/defense/training.
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Pi**](https://zhuanlan.zhihu.com/p/113729693)'
+  # caption: 'Image credit: [**Pi**](https://zhuanlan.zhihu.com/p/113729693)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -36,4 +36,8 @@ tags:
 
 ---
 
-A note.
+{{< spoiler text="Robust Learning and Adversarial Defenses" >}}
+* [Improving Adversarial Robustness Requires Revisiting Misclassified Examples (ICLR 2020)](https://openreview.net/forum?id=rklOg6EFwS)
+- Add a regularisation term to misclassified examples, which aims to draw the perturbs examples close to their clean counterparts.
+- Use BCE instead of commonly used CE. Point: adversarial learning requires a strong classifier.
+{{< /spoiler >}}
