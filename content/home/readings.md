@@ -26,11 +26,10 @@ design:
 ## Recent Readings (33)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (15)" >}}
+{{< spoiler text="Not Started (14)" >}}
 * [【not started】Unlabeled Data Improves Adversarial Robustness (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13736)
 * [【not started】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【not started】MMA Training: Direct Input Space Margin Maximization through Adversarial Training (arXiv 1812, ICLR 2020)](https://arxiv.org/abs/1812.02637)
-* [【not started】Adversarial Logit Pairing (arXiv 1803)](https://arxiv.org/abs/1803.06373)
 * [【not started】Enhancing adversarial example transferability with an intermediate level attack (arXiv 1907, ICCV 2019)](https://arxiv.org/abs/1907.10823)
 * [【not started】Adversarial Neuron Pruning Purifies Backdoored Deep Models (arXiv 2110, NeurIPS 2021)](https://arxiv.org/abs/2110.14430)
 * [【not started】Clustering Effect of Adversarial Robust Models (NeurIPS 2021)](https://papers.nips.cc/paper/2021/hash/f770b62bc8f42a0b66751fe636fc6eb0-Abstract.html)
@@ -52,7 +51,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (13)" >}}
+{{< spoiler text="Finished (14)" >}}
+* [【finished on 14/12/2021】Adversarial Logit Pairing (arXiv 1803)](https://arxiv.org/abs/1803.06373)
 * [【finished on 12/12/2021】Improving Adversarial Robustness Requires Revisiting Misclassified Examples (ICLR 2020)](https://openreview.net/forum?id=rklOg6EFwS)
 * [【finished on 11/12/2021】Evading Defenses to Transferable Adversarial Examples by Translation-invariant Attacks (arXiv 1904, CVPR 2019)](https://arxiv.org/abs/1904.02884)
 * [【finished on 10/12/2021】Improving Transferability of Adversarial Examples with Input Diversity (arXiv 1803, CVPR 2019)](https://arxiv.org/abs/1803.06978)
@@ -69,7 +69,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (132)
+## Full List (133)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (19)" >}}
@@ -136,7 +136,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (21)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (22)" >}}
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
 - [Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 - [Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
@@ -156,6 +156,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Adversarial Training and Robustness for Multiple Perturbations (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.13000)
 - [Theoretically Principled Trade-off between Robustness and Accuracy (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08573)
 - [Robustness May Be at Odds with Accuracy (arXiv 1805, ICLR 2019)](https://arxiv.org/abs/1805.12152)
+- [Adversarial Logit Pairing (arXiv 1803)](https://arxiv.org/abs/1803.06373)
 - [Gradient Regularization Improves Accuracy of Discriminative Models (arXiv 1712, Schedae Informaticae 2018)](https://arxiv.org/abs/1712.09936)
 - [Ensemble Adversarial Training: Attacks and Defenses (arXiv 1705, ICLR 2018)](https://arxiv.org/abs/1705.07204)
 {{< /spoiler >}}
