@@ -26,7 +26,7 @@ design:
 ## Recent Readings (33)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (15)" >}}
+{{< spoiler text="Not Started (14)" >}}
 * [【not started】Understanding and Improving Fast Adversarial Training (arXiv 2007, NeurIPS 2020)](https://arxiv.org/abs/2007.02617)
 * [【not started】Backpropagating Linearly Improves Transferability of Adversarial Examples (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.03528)
 * [【not started】Unlabeled Data Improves Adversarial Robustness (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13736)
