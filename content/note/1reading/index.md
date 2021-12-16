@@ -35,6 +35,13 @@ tags:
 - Academic
 
 ---
+[Clustering Effect of Adversarial Robust Models (NeurIPS 2021)](https://papers.nips.cc/paper/2021/hash/f770b62bc8f42a0b66751fe636fc6eb0-Abstract.html)
+- Define semantic superclasses and find adversarially trained models give consistent semantic clustering effects.
+- Extract a linear sub-network using backward propagation, and think it has a connection with the non-linear model in class-wise direction.
+- Claim that the non-linear components are example-wise, while linear components are generally applied to all examples.
+- Apply the clustering effect to domain adaptation, with which I'm not quite familiar.
+- Propose a regularisation term to enhance the clustering effect, which improves robustness against both white/black-box attack and even the standard accuracy.
+- Adversarial examples achieved by attacking adversarially trained models show similar clustering effect in attack successful rate.
 
 [Adversarial Logit Pairing (arXiv 1803)](https://arxiv.org/abs/1803.06373)
 - Add a logit pairing term to both adversarial examples and their counterparts and two random clean examples.
@@ -66,7 +73,6 @@ tags:
 [Adversarial Examples Are Not Bugs, They Are Features (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.02175)
 [Adversarial examples in the physical world (arXiv 1607, ICLR 2017 workshop)](https://arxiv.org/abs/1607.02533)
 [Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2020)](https://arxiv.org/abs/2001.03994)
-[Deep Image Prior (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.10925)
 [Adversarial Training for Free! (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.12843)
 
 
