@@ -36,6 +36,12 @@ tags:
 
 ---
 
+[Adversarial Logit Pairing (arXiv 1803)](https://arxiv.org/abs/1803.06373)
+- Add a logit pairing term to both adversarial examples and their counterparts and two random clean examples.
+- Achieve SOTA black/white-box robustness after adversarial logit pairing.
+- Find clean logit pairing yields comparable adversarial robustness with significant training efficiency.
+- Argue that the logit pairing term works by encouraging small logit values (not that confident), just like but stronger than label-smoothing.
+
 [Improving Adversarial Robustness Requires Revisiting Misclassified Examples (ICLR 2020)](https://openreview.net/forum?id=rklOg6EFwS)
 - Defense method named as MART.
 - Add a regularisation term to misclassified examples, which aims to draw the perturbs examples close to their clean counterparts.
