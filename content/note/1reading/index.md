@@ -35,6 +35,15 @@ tags:
 - Academic
 
 ---
+[Enhancing Adversarial Example Transferability with an Intermediate Level Attack (arXiv 1907, ICCV 2019)](https://arxiv.org/abs/1907.10823)
+
+
+
+[Backpropagating Linearly Improves Transferability of Adversarial Examples (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.03528)
+- Remove some nonlinear layers and fine-tune it, which yields higher adversarial transferability.
+- Propose linear back propagation inspired by the previous work of removing skip connections, and further boost transferability.
+- For the case of skip connection, add a coefficient according to the sparsity of the ReLU diagonal matrix to cater for its removal.
+
 [MMA Training: Direct Input Space Margin Maximization through Adversarial Training (arXiv 1812, ICLR 2020)](https://arxiv.org/abs/1812.02637)
 - Propose max-margin adversarial training (MMA), which maximises the margin to a threshold and simultaneously minimises classification loss.
 - Prove that performing gradient descent on logit margin loss on shortest successful perturbation is equivalent to maximising the margin.

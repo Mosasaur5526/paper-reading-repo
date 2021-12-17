@@ -26,11 +26,10 @@ design:
 ## Recent Readings (35)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (13)" >}}
+{{< spoiler text="Not Started (12)" >}}
 * [【not started】Understanding and Improving Fast Adversarial Training (arXiv 2007, NeurIPS 2020)](https://arxiv.org/abs/2007.02617)
 * [【not started】Unlabeled Data Improves Adversarial Robustness (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13736)
 * [【not started】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
-* [【not started】Enhancing Adversarial Example Transferability with an Intermediate Level Attack (arXiv 1907, ICCV 2019)](https://arxiv.org/abs/1907.10823)
 * [【not started】Adversarial Neuron Pruning Purifies Backdoored Deep Models (arXiv 2110, NeurIPS 2021)](https://arxiv.org/abs/2110.14430)
 * [【not started】Unlearnable Examples: Making Personal Data Unexploitable (arXiv 2101, ICLR 2021)](https://arxiv.org/abs/2101.04898)
 * [【not started】Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.07668)
@@ -42,7 +41,8 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (6)" >}}
+{{< spoiler text="Started but Unfinished (7)" >}}
+* [【started on 17/12/2021, unfinsihed】Enhancing Adversarial Example Transferability with an Intermediate Level Attack (arXiv 1907, ICCV 2019)](https://arxiv.org/abs/1907.10823)
 * [【started on 17/12/2021, unfinished】Backpropagating Linearly Improves Transferability of Adversarial Examples (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.03528)
 * [【started on 9/12/2021, unfinished】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
