@@ -35,6 +35,14 @@ tags:
 - Academic
 
 ---
+[MMA Training: Direct Input Space Margin Maximization through Adversarial Training (arXiv 1812, ICLR 2020)](https://arxiv.org/abs/1812.02637)
+- Propose max-margin adversarial training (MMA), which maximises the margin to a threshold and simultaneously minimises classification loss.
+- Prove that performing gradient descent on logit margin loss on shortest successful perturbation is equivalent to maximising the margin.
+- Use soft logit margin loss as a surrogate to stabilise the training, and prove that it is a lower bound of the margin.
+- Leverage PGD to find a perturbation direction and do bisection search to find a zero-crossing to approximate the shortest successful perturbation.
+- Add an additional clean loss during training to make the loss landscape less flat.
+- Discuss standard AT from a perspective of margin, and conclude that when epsilon is large it will maximise the upper bound of the margin and is not necessarily helpful.
+
 [Clustering Effect of Adversarial Robust Models (NeurIPS 2021)](https://papers.nips.cc/paper/2021/hash/f770b62bc8f42a0b66751fe636fc6eb0-Abstract.html)
 - Define semantic superclasses and find adversarially trained models give consistent semantic clustering effects.
 - Extract a linear sub-network using backward propagation, and think it has a connection with the non-linear model in class-wise direction.
