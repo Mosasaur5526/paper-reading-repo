@@ -36,8 +36,12 @@ tags:
 
 ---
 [Enhancing Adversarial Example Transferability with an Intermediate Level Attack (arXiv 1907, ICCV 2019)](https://arxiv.org/abs/1907.10823)
-
-
+- Propose a framework called ILA to minimise the difference between feature distinctions of the pre-computed adversarial example's and the fine-tuned one's at a specific layer.
+- Use ILAP (Projection) loss to encourage the new feature distinction direction to be parallel to the referential one.
+- Use ILAF (flexible) loss to maximise perturbation norm within this layer and show that after fine-tuning the ILAF is superior to ILAP. Besides, ILAF is more model-specific, while ILAP suits for all cases without a need to tune hyper-parameters.
+- Establish a connection between the disturbance value of an ILAP attack and the optimal layer.
+- Demonstrate that I-FGSM in earlier layers is a worse approximation of Best Transfer Direction, while better in later layers, which explains why earlier layers are not good choices.
+- Conclude that extreme linearity of the last several layers gives poor approximation of the true decision boundary and degrades the attack performance.
 
 [Backpropagating Linearly Improves Transferability of Adversarial Examples (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.03528)
 - Remove some nonlinear layers and fine-tune it, which yields higher adversarial transferability.
