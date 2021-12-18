@@ -35,6 +35,9 @@ tags:
 - Academic
 
 ---
+[Delving into Transferable Adversarial Examples and Black-box Attacks (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.02770)
+
+
 [Enhancing Adversarial Example Transferability with an Intermediate Level Attack (arXiv 1907, ICCV 2019)](https://arxiv.org/abs/1907.10823)
 - Propose a framework called ILA to minimise the difference between feature distinctions of the pre-computed adversarial example's and the fine-tuned one's at a specific layer.
 - Use ILAP (Projection) loss to encourage the new feature distinction direction to be parallel to the referential one.
@@ -45,7 +48,7 @@ tags:
 
 [Backpropagating Linearly Improves Transferability of Adversarial Examples (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.03528)
 - Remove some nonlinear layers and fine-tune it, which yields higher adversarial transferability.
-- Propose linear back propagation inspired by the previous work of removing skip connections, and further boost transferability.
+- Propose linear back propagation (LinBP) inspired by the previous work of removing skip connections, and further boost transferability.
 - For the case of skip connection, add a coefficient according to the sparsity of the ReLU diagonal matrix to cater for its removal.
 
 [MMA Training: Direct Input Space Margin Maximization through Adversarial Training (arXiv 1812, ICLR 2020)](https://arxiv.org/abs/1812.02637)
