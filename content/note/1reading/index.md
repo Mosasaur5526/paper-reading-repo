@@ -36,7 +36,10 @@ tags:
 
 ---
 [Delving into Transferable Adversarial Examples and Black-box Attacks (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.02770)
-
+- Propose to boost transferability of targeted adversarial examples that was hardly transferable at that time using ensemble-optimisation-based approaches.
+- Show that gradient direction are orthogonal among different models but decision boundaries are well-aligned.
+- Analyse empirical transferability from the RMSD of perturbation.
+- Use the geometric properties to explain why ensemble-fast gradient-based approaches won't work.
 
 [Enhancing Adversarial Example Transferability with an Intermediate Level Attack (arXiv 1907, ICCV 2019)](https://arxiv.org/abs/1907.10823)
 - Propose a framework called ILA to minimise the difference between feature distinctions of the pre-computed adversarial example's and the fine-tuned one's at a specific layer.
