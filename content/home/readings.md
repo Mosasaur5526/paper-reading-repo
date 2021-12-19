@@ -23,10 +23,15 @@ design:
 
 ---
 
-## Recent Readings (37)
+## Recent Readings (41)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (12)" >}}
+{{< spoiler text="Not Started (17)" >}}
+* [【not started】Very Deep Convolutional Networks for Large-Scale Image Recognition (arXiv 1409, ICLR 2015)](https://arxiv.org/abs/1409.1556)
+* [【not started】Deep Residual Learning for Image Recognition (arXiv 1512, CVPR 2016)](https://arxiv.org/abs/1512.03385)
+* [【not started】Wide Residual Networks (arXiv 1605, BMVC 2016)](https://arxiv.org/abs/1605.07146)
+* [【not started】Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
+* [【not started】Do Wider Neural Networks Really Help Adversarial Robustness? (arXiv 2010, NeurIPS 2021)](https://arxiv.org/abs/2010.01279)
 * [【not started】Understanding and Improving Fast Adversarial Training (arXiv 2007, NeurIPS 2020)](https://arxiv.org/abs/2007.02617)
 * [【not started】Unlabeled Data Improves Adversarial Robustness (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13736)
 * [【not started】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
@@ -42,7 +47,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (6)" >}}
-* [【started on 18/12/2021, unfinished】Universal adversarial perturbations (arXiv 1610, CVPR 2017)](https://arxiv.org/abs/1610.08401)
+* [【started on 19/12/2021, unfinished】U-Net: Convolutional Networks for Biomedical Image Segmentation (arXiv 1505, MICCAI 2015)](https://arxiv.org/abs/1505.04597)
 * [【started on 9/12/2021, unfinished】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
@@ -50,7 +55,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (19)" >}}
+{{< spoiler text="Finished (18)" >}}
+* [【finished on 19/12/2021】Universal adversarial perturbations (arXiv 1610, CVPR 2017)](https://arxiv.org/abs/1610.08401)
 * [【finished on 18/12/2021】Delving into Transferable Adversarial Examples and Black-box Attacks (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.02770)
 * [【finished on 18/12/2021】Backpropagating Linearly Improves Transferability of Adversarial Examples (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.03528)
 * [【finished on 18/12/2021】Enhancing Adversarial Example Transferability with an Intermediate Level Attack (arXiv 1907, ICCV 2019)](https://arxiv.org/abs/1907.10823)
@@ -68,12 +74,10 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 7/12/2021】Adversarial Examples Are Not Bugs, They Are Features (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.02175)
 * [【finished on 5/12/2021】Adversarial examples in the physical world (arXiv 1607, ICLR 2017 workshop)](https://arxiv.org/abs/1607.02533)
 * [【finished on 5/12/2021】Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2020)](https://arxiv.org/abs/2001.03994)
-* [【finished on 4/12/2021】Deep Image Prior (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.10925)
-* [【finished on 4/12/2021】Adversarial Training for Free! (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.12843)
 {{< /spoiler >}}
 <br/>
 
-## Full List (138)
+## Full List (139)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (19)" >}}
@@ -116,7 +120,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Persistence stability for geometric complexes (arXiv 1207, Geometriae Dedicata 2014)](https://arxiv.org/abs/1207.3885)
 {{< /spoiler >}}
 
-{{< spoiler text="Adversarial Examples and Attacks (23)" >}}
+{{< spoiler text="Adversarial Examples and Attacks (24)" >}}
 - [Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 - [Backpropagating Linearly Improves Transferability of Adversarial Examples (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.03528)
 - [Practical No-box Adversarial Attacks against DNNs (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.02525)
@@ -134,6 +138,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (arXiv 1802, ICML 2018)](https://arxiv.org/abs/1802.00420)
 - [Towards Deep Learning Models Resistant to Adversarial Attacks (arXiv 1706, ICLR 2018)](https://arxiv.org/abs/1706.06083)
 - [Delving into Transferable Adversarial Examples and Black-box Attacks (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.02770)
+- [Universal adversarial perturbations (arXiv 1610, CVPR 2017)](https://arxiv.org/abs/1610.08401)
 - [Towards Evaluating the Robustness of Neural Networks (arXiv 1608, IEEE SP 2017)](https://arxiv.org/abs/1608.04644)
 - [Adversarial examples in the physical world (arXiv 1607, ICLR 2017 workshop)](https://arxiv.org/abs/1607.02533)
 - [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples (arXiv 1605)](https://arxiv.org/abs/1605.07277)

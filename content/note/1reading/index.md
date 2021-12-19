@@ -35,6 +35,13 @@ tags:
 - Academic
 
 ---
+[Universal adversarial perturbations (arXiv 1610, CVPR 2017)](https://arxiv.org/abs/1610.08401)
+- Accumulate valid perturbation for a small subset of data and achieve a universal perturbation.
+- The universal perturbation not only has a remarkable generalisation power over unseen data points, but also generalises across different models.
+- Find that the perturbation lets most images stray into several dominant labels, presenting a very peculiar topology of the directed graph.
+- Report that fine-tuning on dataset with universal perturbation won't provide the network with immunity to it.
+- Analyse the geometric distribution of decision boundaries, and successfully construct a subspace spanned from singular values of perturbation directions of different examples, in which random perturbation yields high successful rate.
+
 [Delving into Transferable Adversarial Examples and Black-box Attacks (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.02770)
 - Propose to boost transferability of targeted adversarial examples that was hardly transferable at that time using ensemble-optimisation-based approaches.
 - Show that gradient direction are orthogonal among different models but decision boundaries are well-aligned.
