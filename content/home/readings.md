@@ -26,8 +26,7 @@ design:
 ## Recent Readings (36)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (13)" >}}
-* [【not started】Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
+{{< spoiler text="Not Started (12)" >}}
 * [【not started】Understanding and Improving Fast Adversarial Training (arXiv 2007, NeurIPS 2020)](https://arxiv.org/abs/2007.02617)
 * [【not started】Unlabeled Data Improves Adversarial Robustness (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13736)
 * [【not started】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
@@ -43,7 +42,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (6)" >}}
-* [【started on 20/12/2021, unfinished】Do Wider Neural Networks Really Help Adversarial Robustness? (arXiv 2010, NeurIPS 2021)](https://arxiv.org/abs/2010.01279)
+* [【started on 20/12/2021, unfinished】Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
 * [【started on 9/12/2021, unfinished】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
@@ -51,7 +50,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (17)" >}}
+{{< spoiler text="Finished (18)" >}}
+* [【finished on 20/12/2021】Do Wider Neural Networks Really Help Adversarial Robustness? (arXiv 2010, NeurIPS 2021)](https://arxiv.org/abs/2010.01279)
 * [【finished on 20/12/2021】Wide Residual Networks (arXiv 1605, BMVC 2016)](https://arxiv.org/abs/1605.07146)
 * [【finished on 19/12/2021】Universal adversarial perturbations (arXiv 1610, CVPR 2017)](https://arxiv.org/abs/1610.08401)
 * [【finished on 18/12/2021】Delving into Transferable Adversarial Examples and Black-box Attacks (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.02770)
@@ -72,7 +72,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (145)
+## Full List (146)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (19)" >}}
@@ -143,11 +143,12 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (24)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (25)" >}}
 - [Clustering Effect of Adversarial Robust Models (NeurIPS 2021)](https://papers.nips.cc/paper/2021/hash/f770b62bc8f42a0b66751fe636fc6eb0-Abstract.html)
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
 - [Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 - [Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
+- [Do Wider Neural Networks Really Help Adversarial Robustness? (arXiv 2010, NeurIPS 2021)](https://arxiv.org/abs/2010.01279)
 - [Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 - [Adversarial Feature Desensitization (arXiv 2006, NeurIPS 2021)](https://arxiv.org/abs/2006.04621)
 - [Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)

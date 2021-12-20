@@ -35,6 +35,12 @@ tags:
 - Academic
 
 ---
+[Do Wider Neural Networks Really Help Adversarial Robustness? (arXiv 2010, NeurIPS 2021)](https://arxiv.org/abs/2010.01279)
+- Decompose the adversarial training loss into natural empirical risk and a robust regularisation term, just like TRADES etc.
+- Argue that the intrinsic trade-off is between natural accuracy and perturbation stability, and robustness accuracy is just a by-product.
+- Claim that wider neural networks require fine-tuning of the trade-off parameter, and propose WAR method to efficiently find the best choice.
+- Connect Lipschitz constant with perturbation stability and prove that it has the same order of the square of network width.
+
 [Universal adversarial perturbations (arXiv 1610, CVPR 2017)](https://arxiv.org/abs/1610.08401)
 - Accumulate valid perturbation for a small subset of data and achieve a universal perturbation.
 - The universal perturbation not only has a remarkable generalisation power over unseen data points, but also generalises across different models.
