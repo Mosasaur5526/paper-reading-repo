@@ -35,6 +35,16 @@ tags:
 - Academic
 
 ---
+[Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
+- Propose a new method named SEAT, which ensembles different parameter snapshots during the training period.
+- The method looks like momentum strategy but it just update the ensemble on the fly.
+- Prove the discrepancy in averaged prediction method and weight-averaged models by deriving a condition on second order smallness.
+- State that ordinary averaged parameter ensemble method is likely to suffer from the same of homogenisation problem of averaged prediction method, which deteriorates the diversity of individuals.
+- Demonstrate model trained using SEAT indeed alleviate the homogenisation problem through experiments.
+- Discuss different learning strategies on learning rate, visualise loss landscapes and find common staircase learning rate settings is not suitable in this case, while the cyclic one is.
+- Intuitively, learning rate becoming very small encourages homogenisation. Proposition 2 of the paper intends to prove this effect but maybe there're some little problems among the proof lines.
+- SEAT + MART + CutMix yields best performance among all mixed training strategies.
+
 [Do Wider Neural Networks Really Help Adversarial Robustness? (arXiv 2010, NeurIPS 2021)](https://arxiv.org/abs/2010.01279)
 - Decompose the adversarial training loss into natural empirical risk and a robust regularisation term, just like TRADES etc.
 - Argue that the intrinsic trade-off is between natural accuracy and perturbation stability, and robustness accuracy is just a by-product.
