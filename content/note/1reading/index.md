@@ -35,6 +35,12 @@ tags:
 - Academic
 
 ---
+[Adversarial Weight Perturbation Helps Robust Generalization (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.05884)
+- Identify the fact that robust generalisation gap is closely related to flatness of loss landscapes with respect to weight.
+- Certify SOTA adversarial training methods always yield flat weight loss landscapes which help close the generalisation gap.
+- Propose AWP method to adversarially perturb the weight calculated on a batch of adversarial examples generated on the fly and minimise the double-perturb result.
+- Combine AWP with various AT methods and achieve consistent improvement on robustness.
+
 [The Space of Transferable Adversarial Examples (arXiv 1704)](https://arxiv.org/abs/1704.03453)
 - Propose a methods which directly estimates the dimensionality of adversarial subspace where adversarial perturbations lie.
 - The space is named as GAAS and its construction is implied by the proof of lemma 1. I think the definition and construction method is quite unclear, and the authors conduct no further analysis on the subspace in the rest of the paper.
