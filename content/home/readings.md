@@ -23,12 +23,11 @@ design:
 
 ---
 
-## Recent Readings (42)
+## Recent Readings (40)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (18)" >}}
+{{< spoiler text="Not Started (17)" >}}
 * [【not started】Data Augmentation Can Improve Robustness (arXiv 2111, NeurIPS 2021)](https://arxiv.org/abs/2111.05328)
-* [【not started】Adversarial Weight Perturbation Helps Robust Generalization (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.05884)
 * [【not started】Improving Adversarial Robustness via Promoting Ensemble Diversity (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08846)
 * [【not started】Geometry-aware Instance-reweighted Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.01736)
 * [【not started】Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning (arXiv 1704, TPAMI 2018)]()
@@ -48,7 +47,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (6)" >}}
-* [【started on 20/12/2021, unfinished】The Space of Transferable Adversarial Examples (arXiv 1704)](https://arxiv.org/abs/1704.03453)
+* [【started on 23/12/2021. unfinished】Adversarial Weight Perturbation Helps Robust Generalization (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.05884)
 * [【started on 9/12/2021, unfinished】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
@@ -56,7 +55,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (18)" >}}
+{{< spoiler text="Finished (17)" >}}
+* [【finished on 23/12/2021】The Space of Transferable Adversarial Examples (arXiv 1704)](https://arxiv.org/abs/1704.03453)
 * [【finished on 22/12/2021】Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
 * [【finished on 20/12/2021】Do Wider Neural Networks Really Help Adversarial Robustness? (arXiv 2010, NeurIPS 2021)](https://arxiv.org/abs/2010.01279)
 * [【finished on 20/12/2021】Wide Residual Networks (arXiv 1605, BMVC 2016)](https://arxiv.org/abs/1605.07146)
@@ -73,12 +73,10 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 10/12/2021】Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets (arXiv 2002, ICLR 2020)](https://arxiv.org/abs/2002.05990)
 * [【finished on 9/12/2021】Visualizing the Loss Landscape of Neural Nets (arXiv 1712, NeurIPS 2018)](https://arxiv.org/abs/1712.09913)
 * [【finished on 9/12/2021】Ensemble Adversarial Training: Attacks and Defenses (arXiv 1705, ICLR 2018)](https://arxiv.org/abs/1705.07204)
-* [【finished on 8/12/2021】Learning to Factorize and Relight a City (arXiv 2008, ECCV 2020)](https://arxiv.org/abs/2008.02796)
-* [【finished on 8/12/2021】Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 {{< /spoiler >}}
 <br/>
 
-## Full List (147)
+## Full List (148)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (19)" >}}
@@ -121,7 +119,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Persistence stability for geometric complexes (arXiv 1207, Geometriae Dedicata 2014)](https://arxiv.org/abs/1207.3885)
 {{< /spoiler >}}
 
-{{< spoiler text="Adversarial Examples and Attacks (25)" >}}
+{{< spoiler text="Adversarial Examples and Attacks (26)" >}}
 - [Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 - [Backpropagating Linearly Improves Transferability of Adversarial Examples (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.03528)
 - [Practical No-box Adversarial Attacks against DNNs (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.02525)
@@ -138,6 +136,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Improving Transferability of Adversarial Examples with Input Diversity (arXiv 1803, CVPR 2019)](https://arxiv.org/abs/1803.06978)
 - [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples (arXiv 1802, ICML 2018)](https://arxiv.org/abs/1802.00420)
 - [Towards Deep Learning Models Resistant to Adversarial Attacks (arXiv 1706, ICLR 2018)](https://arxiv.org/abs/1706.06083)
+- [The Space of Transferable Adversarial Examples (arXiv 1704)](https://arxiv.org/abs/1704.03453)
 - [Delving into Transferable Adversarial Examples and Black-box Attacks (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.02770)
 - [Universal adversarial perturbations (arXiv 1610, CVPR 2017)](https://arxiv.org/abs/1610.08401)
 - [Towards Evaluating the Robustness of Neural Networks (arXiv 1608, IEEE SP 2017)](https://arxiv.org/abs/1608.04644)

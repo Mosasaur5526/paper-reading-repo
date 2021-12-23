@@ -35,6 +35,14 @@ tags:
 - Academic
 
 ---
+[The Space of Transferable Adversarial Examples (arXiv 1704)](https://arxiv.org/abs/1704.03453)
+- Propose a methods which directly estimates the dimensionality of adversarial subspace where adversarial perturbations lie.
+- The space is named as GAAS and its construction is implied by the proof of lemma 1. I think the definition and construction method is quite unclear, and the authors conduct no further analysis on the subspace in the rest of the paper.
+- Explore decision boundary similarity and find different models have similar decision boundaries, which enables adversarial transferability.
+- Claim that adversarial training fails to displace the decision boundaries by a large margin but enhances gradient masking instead. This is consistent with the conclusion that sometimes black-box attack even outperforms white-box attack.
+- Analyse the transferability with model-agnostic perturbation between means of different classes and pseudo-linearity of feature extractors. I think this analysis is valueless.
+- Use an extreme case of XOR artifacts to demonstrate that transferability among models is not an intrinsic property. This argument is intriguing but impractical in real.
+
 [Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
 - Propose a new method named SEAT, which ensembles different parameter snapshots during the training period.
 - The method looks like momentum strategy but it just update the ensemble on the fly.
