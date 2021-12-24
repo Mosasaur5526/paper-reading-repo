@@ -35,6 +35,13 @@ tags:
 - Academic
 
 ---
+[Improving Adversarial Robustness via Promoting Ensemble Diversity (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08846)
+- Define a new kind of diversity among components which focuses on non-maximal predictions.
+- Propose ADP regularisation, which consists of a Shannon entropy term and a logarithm of ensemble diversity (LED).
+- The ensemble entropy prevents the prediction results from trivially converge to one-hot vectors and just works like label-smoothing when the LED term is absent.
+- The LED part controls to angles among non-maximal predictions by encouraging orthogonal non-maximal predictions among different individuals, and it can be elegantly interpreted as the volume spanned by the prediction vectors.
+- Using the computationally efficient proposed ensemble method, they achieve SOTA in both natural accuracy and adversarial robustness and mitigate the transferability among different components since they yields distinctive non-maximal prediction patterns.
+
 [Robustness via curvature regularization, and vice versa (arXiv 1811, CVPR 2019)](https://arxiv.org/abs/1811.09716)
 - Examine the loss landscape with respect to the examples, and find adversarial training encourages it to be less flat with smaller curvature.
 - Point out a somewhat paradoxical fact that adversarially trained models is more robust as well as easier to attack (FGSM works as effectively as PGD since the loss landscape is flat).
