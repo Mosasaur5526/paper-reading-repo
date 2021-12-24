@@ -35,6 +35,14 @@ tags:
 - Academic
 
 ---
+[Robustness via curvature regularization, and vice versa (arXiv 1811, CVPR 2019)](https://arxiv.org/abs/1811.09716)
+- Examine the loss landscape with respect to the examples, and find adversarial training encourages it to be less flat with smaller curvature.
+- Point out a somewhat paradoxical fact that adversarially trained models is more robust as well as easier to attack (FGSM works as effectively as PGD since the loss landscape is flat).
+- Establish a theoretical connection between the shortest perturbation misclassifies an example and the largest eigenvalue of Hessian by using the second-order approximation of the loss function.
+- Notice that the gradient at a specific point is often collinear to the largest eigenvector in practice. Therefore the bound is approximately tight.
+- Propose CURE method to punish largest eigenvalues of Hessian, which is theoretically equivalent to punish the expectation of gradient changes towards some specific directions. Particularly, the directions are chosen to be the gradient direction as it has been observed that it is often collinear to the largest eigenvector.
+- Achieve comparable robustness to adversarial training, which partially prove that the curvature vanishing from the loss landscape is not simply a by-product of adversarial training.
+
 [Adversarial Weight Perturbation Helps Robust Generalization (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.05884)
 - Identify the fact that robust generalisation gap is closely related to flatness of loss landscapes with respect to weight.
 - Certify SOTA adversarial training methods always yield flat weight loss landscapes which help close the generalisation gap.
