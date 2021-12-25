@@ -26,8 +26,7 @@ design:
 ## Recent Readings (42)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (18)" >}}
-* [【not started】Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.02976)
+{{< spoiler text="Not Started (17)" >}}
 * [【not started】Adversarial Robustness through Local Linearization (arXiv 1907, NeurIPS 2019)](https://arxiv.org/abs/1907.02610)
 * [【not started】Overfitting in adversarially robust deep learning (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11569)
 * [【not started】Data Augmentation Can Improve Robustness (arXiv 2111, NeurIPS 2021)](https://arxiv.org/abs/2111.05328)
@@ -48,7 +47,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (7)" >}}
-* [【started on 25/12/2021, unfinished】Evaluating and Understanding the Robustness of Adversarial Logit Pairing (arXiv 1807, NeurIPS SECML 2018)](https://arxiv.org/abs/1807.10272)
+* [【started on 25/12/2021, unfinished】Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.02976)
 * [【started on 24/12/2021, unfinished】Unlearnable Examples: Making Personal Data Unexploitable (arXiv 2101, ICLR 2021)](https://arxiv.org/abs/2101.04898)
 * [【started on 9/12/2021, unfinished】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
@@ -57,7 +56,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (17)" >}}
+{{< spoiler text="Finished (18)" >}}
+* [【finished on 25/12/2021】Evaluating and Understanding the Robustness of Adversarial Logit Pairing (arXiv 1807, NeurIPS SECML 2018)](https://arxiv.org/abs/1807.10272)
 * [【finished on 25/12/2021】Feature Denoising for Improving Adversarial Robustness (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.03411)
 * [【finished on 24/12/2021】Improving Adversarial Robustness via Promoting Ensemble Diversity (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08846)
 * [【finished on 24/12/2021】Robustness via curvature regularization, and vice versa (arXiv 1811, CVPR 2019)](https://arxiv.org/abs/1811.09716)
@@ -78,7 +78,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (152)
+## Full List (153)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Intrinsic Image Decomposition, Re-lighting, Harmonization and Shadow Removal (19)" >}}
@@ -150,7 +150,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (30)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (31)" >}}
 - [Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
 - [Clustering Effect of Adversarial Robust Models (NeurIPS 2021)](https://papers.nips.cc/paper/2021/hash/f770b62bc8f42a0b66751fe636fc6eb0-Abstract.html)
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
@@ -177,6 +177,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [MMA Training: Direct Input Space Margin Maximization through Adversarial Training (arXiv 1812, ICLR 2020)](https://arxiv.org/abs/1812.02637)
 - [Feature Denoising for Improving Adversarial Robustness (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.03411)
 - [Robustness via curvature regularization, and vice versa (arXiv 1811, CVPR 2019)](https://arxiv.org/abs/1811.09716)
+- [Evaluating and Understanding the Robustness of Adversarial Logit Pairing (arXiv 1807, NeurIPS SECML 2018)](https://arxiv.org/abs/1807.10272)
 - [Robustness May Be at Odds with Accuracy (arXiv 1805, ICLR 2019)](https://arxiv.org/abs/1805.12152)
 - [Adversarial Logit Pairing (arXiv 1803)](https://arxiv.org/abs/1803.06373)
 - [Gradient Regularization Improves Accuracy of Discriminative Models (arXiv 1712, Schedae Informaticae 2018)](https://arxiv.org/abs/1712.09936)

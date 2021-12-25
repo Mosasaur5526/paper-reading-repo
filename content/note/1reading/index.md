@@ -35,6 +35,10 @@ tags:
 - Academic
 
 ---
+[Evaluating and Understanding the Robustness of Adversarial Logit Pairing (arXiv 1807, NeurIPS SECML 2018)](https://arxiv.org/abs/1807.10272)
+- Argue that the model trained using ALP is not really robust with more PGD iterations.
+- Plot loss landscapes around test data points which provide evidence that ALP sometimes induces a “bumpier,” depresses loss landscape tightly around the input points.
+
 [Feature Denoising for Improving Adversarial Robustness (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.03411)
 - Find that adversarial perturbation actually invokes noise in the feature, so feature denoising is important.
 - Propose a new feature denoising block which consists of a denoising operation, a residual connection to maintain original features and a 1×1 convolution layer to adaptively control the trade-off between denoising and feature maintenance.
