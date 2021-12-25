@@ -35,6 +35,14 @@ tags:
 - Academic
 
 ---
+[Unlearnable Examples: Making Personal Data Unexploitable (arXiv 2101, ICLR 2021)](https://arxiv.org/abs/2101.04898)
+- Change the min-max game in adversarial training to min-min, using the opposite of PGD to minimise the empirical risk too.
+- Generate class-wise error-minimising noise by accumulating perturbations on all examples in a class.
+- Find that class-wise noise is more effective in generating unlearnable examples compared with sample-wise noise.
+- Though a random or error-maximising class-wise noise also works, early stopping can alleviate the unlearnability, so the error-minimising method is superior to them.
+- Demonstrate its stability using one single unlearnable class, as well as its good transferability among different datasets.
+- Show good resistance to several data augmentation techniques but it still lacks resistance against adversarial training.
+
 [Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.02976)
 - View adversarial defense from the perspective of denoising.
 - Propose variants of U-Net which all perform denoising but constrain the loss at different layers, which are named PGD (at pixel level) and HGD (at the intermediate layers).
