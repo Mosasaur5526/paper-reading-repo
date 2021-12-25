@@ -35,6 +35,12 @@ tags:
 - Academic
 
 ---
+[Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.02976)
+- View adversarial defense from the perspective of denoising.
+- Propose variants of U-Net which all perform denoising but constrain the loss at different layers, which are named PGD (at pixel level) and HGD (at the intermediate layers).
+- HGD includes FGD, LGD, CGD. They add loss on CNN features, logit values and class labels respectively.
+- Among them, LGD and CGD perform best, but the robustness is far from recent methods.
+
 [Evaluating and Understanding the Robustness of Adversarial Logit Pairing (arXiv 1807, NeurIPS SECML 2018)](https://arxiv.org/abs/1807.10272)
 - Argue that the model trained using ALP is not really robust with more PGD iterations.
 - Plot loss landscapes around test data points which provide evidence that ALP sometimes induces a “bumpier,” depresses loss landscape tightly around the input points.
