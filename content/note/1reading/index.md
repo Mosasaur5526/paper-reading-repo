@@ -35,6 +35,13 @@ tags:
 - Academic
 
 ---
+[Feature Denoising for Improving Adversarial Robustness (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.03411)
+- Find that adversarial perturbation actually invokes noise in the feature, so feature denoising is important.
+- Propose a new feature denoising block which consists of a denoising operation, a residual connection to maintain original features and a 1×1 convolution layer to adaptively control the trade-off between denoising and feature maintenance.
+- The denoising operation has multiple implementations including non-local ones (Gaussian, dot product) and local ones (mean, median), among which Gaussian with embedding (inspired from attention mechanism) outperforms the others in experiments.
+- Push the envelope by using lots of denoising blocks combined with a 2×2 subsampling to achieve SOTA under black-box setting.
+- This is the first successful attempt on training robust classifiers on ImageNet against extremely strong PGD-2000 attack.
+
 [Improving Adversarial Robustness via Promoting Ensemble Diversity (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08846)
 - Define a new kind of diversity among components which focuses on non-maximal predictions.
 - Propose ADP regularisation, which consists of a Shannon entropy term and a logarithm of ensemble diversity (LED).
