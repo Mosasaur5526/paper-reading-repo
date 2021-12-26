@@ -23,7 +23,7 @@ design:
 
 ---
 
-## Recent Readings (46)
+## Recent Readings (47)
 _finished in last two weeks ~ still in the queue_
 
 {{< spoiler text="Not Started (20)" >}}
@@ -49,7 +49,8 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (6)" >}}
+{{< spoiler text="Started but Unfinished (7)" >}}
+* [【started on 26/12/2021, unfinished】CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (arXiv 1905, ICCV 2019)](https://arxiv.org/abs/1905.04899)
 * [【started on 25/12/2021, unfinished】Data Augmentation Can Improve Robustness (arXiv 2111, NeurIPS 2021)](https://arxiv.org/abs/2111.05328)
 * [【started on 9/12/2021, unfinished】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
