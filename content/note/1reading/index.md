@@ -35,6 +35,14 @@ tags:
 - Academic
 
 ---
+[Data Augmentation Can Improve Robustness (arXiv 2111, NeurIPS 2021)](https://arxiv.org/abs/2111.05328)
+- Emphasise the importance of using external data in alleviating overfitting, and the importance of model weight averaging in further improving robustness.
+- Use an example of Pad & Crop and MixUp to verify the hypothesis that model weight averaging helps robustness to a greater extent when robust accuracy between model iterations can be maintained.
+- Through experiments, CutMix with weight averaging has been proved to be the most successful strategy since CutMix suffers the least from data augmentation.
+- Point out that augmentations designed for robustness need to preserve low-level features by comparing blending-based data augmentation versus spatial composition techniques.
+- Explain that model ensembling benefits from data diversity boosted by data augmentation.
+- Implicitly compare common ensembling to weight averaging and claim that the later is the consequence of the compromise of computational efficiency and it degenerates to the former due to local linearity.
+
 [Overfitting in adversarially robust deep learning (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11569)
 - Discover the phenomenon that adversarial training results in severe overfitting compared with standard training. The best test error occurs in the middle of the training rather than at last, and there's a huge gap between them.
 - Try various learning rate adjustment schemes, among which smoother learning rate schedule yields strictly worse performance than discrete piecewise decay schedule does. Cyclic training strategy actually leads to best last performance.
