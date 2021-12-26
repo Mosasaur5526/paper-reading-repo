@@ -35,6 +35,12 @@ tags:
 - Academic
 
 ---
+[Overfitting in adversarially robust deep learning (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11569)
+- Discover the phenomenon that adversarial training results in severe overfitting compared with standard training. The best test error occurs in the middle of the training rather than at last, and there's a huge gap between them.
+- Try various learning rate adjustment schemes, among which smoother learning rate schedule yields strictly worse performance than discrete piecewise decay schedule does. Cyclic training strategy actually leads to best last performance.
+- Find that larger model capacity indeed improves robustness but the huge gap of overfitting still exists though training longer is usual viewed as increasing model complexity.
+- Investigate a number of modern methods to prevent overfitting but only to find that no other method outperforms simple early stopping, unless considered under semi-supervised setting, though it still won't close the gap.
+
 [Unlearnable Examples: Making Personal Data Unexploitable (arXiv 2101, ICLR 2021)](https://arxiv.org/abs/2101.04898)
 - Change the min-max game in adversarial training to min-min, using the opposite of PGD to minimise the empirical risk too.
 - Generate class-wise error-minimising noise by accumulating perturbations on all examples in a class.
@@ -114,7 +120,7 @@ tags:
 
 [Delving into Transferable Adversarial Examples and Black-box Attacks (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.02770)
 - Propose to boost transferability of targeted adversarial examples that was hardly transferable at that time using ensemble-optimisation-based approaches.
-- Show that gradient direction are orthogonal among different models but decision boundaries are well-aligned.
+- Show that gradient directions are orthogonal among different models but decision boundaries are well-aligned.
 - Analyse empirical transferability from the RMSD of perturbation.
 - Use the geometric properties to explain why ensemble-fast gradient-based approaches won't work.
 

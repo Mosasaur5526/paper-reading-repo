@@ -23,13 +23,16 @@ design:
 
 ---
 
-## Recent Readings (43)
+## Recent Readings (46)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (17)" >}}
+{{< spoiler text="Not Started (20)" >}}
+* [【not started】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
+* [【not started】PARL: Enhancing Diversity of Ensemble Networks to Resist Adversarial Attacks via Pairwise Adversarially Robust Loss Function (arXiv 2112)](https://arxiv.org/abs/2112.04948)
+* [【not started】On Generating Transferable Targeted Perturbations (arXiv 2103, ICCV 2021)](https://arxiv.org/abs/2103.14641)
+* [【not started】Learning to Learn Transferable Attack (arXiv 2112, AAAI 2022)](https://arxiv.org/abs/2112.06658)
 * [【not started】MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
 * [【not started】Adversarial Robustness through Local Linearization (arXiv 1907, NeurIPS 2019)](https://arxiv.org/abs/1907.02610)
-* [【not started】Overfitting in adversarially robust deep learning (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11569)
 * [【not started】Geometry-aware Instance-reweighted Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.01736)
 * [【not started】Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning (arXiv 1704, TPAMI 2018)]()
 * [【not started】Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
@@ -56,6 +59,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Finished (20)" >}}
+* [【finished on 26/12/2021】Overfitting in adversarially robust deep learning (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11569)
 * [【finished on 25/12/2021】Unlearnable Examples: Making Personal Data Unexploitable (arXiv 2101, ICLR 2021)](https://arxiv.org/abs/2101.04898)
 * [【finished on 25/12/2021】Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.02976)
 * [【finished on 25/12/2021】Evaluating and Understanding the Robustness of Adversarial Logit Pairing (arXiv 1807, NeurIPS SECML 2018)](https://arxiv.org/abs/1807.10272)
@@ -75,7 +79,6 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 16/12/2021】Clustering Effect of Adversarial Robust Models (NeurIPS 2021)](https://papers.nips.cc/paper/2021/hash/f770b62bc8f42a0b66751fe636fc6eb0-Abstract.html)
 * [【finished on 14/12/2021】Adversarial Logit Pairing (arXiv 1803)](https://arxiv.org/abs/1803.06373)
 * [【finished on 12/12/2021】Improving Adversarial Robustness Requires Revisiting Misclassified Examples (ICLR 2020)](https://openreview.net/forum?id=rklOg6EFwS)
-* [【finished on 11/12/2021】Evading Defenses to Transferable Adversarial Examples by Translation-invariant Attacks (arXiv 1904, CVPR 2019)](https://arxiv.org/abs/1904.02884)
 {{< /spoiler >}}
 <br/>
 
