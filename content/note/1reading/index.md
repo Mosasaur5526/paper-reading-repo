@@ -35,6 +35,12 @@ tags:
 - Academic
 
 ---
+[An Alternative Surrogate Loss for PGD-based Adversarial Testing (arXiv 1910)](https://arxiv.org/abs/1910.09338)
+- Find hyper-parameters of PGD variants need to be tunes for each specific case.
+- Propose MultiTargeted attack which uses different surrogate loss functions for each class except the true class.
+- In order to limit runtime complexity, the algorithm reduces number of restarts and may restrict the number of target classes to top-T ones.
+- Discuss some simple cases where PGD is strictly weaker than MultiTargeted, and derive theorems for its superiority.
+
 [Data Augmentation Can Improve Robustness (arXiv 2111, NeurIPS 2021)](https://arxiv.org/abs/2111.05328)
 - Emphasise the importance of using external data in alleviating overfitting, and the importance of model weight averaging in further improving robustness.
 - Use an example of Pad & Crop and MixUp to verify the hypothesis that model weight averaging helps robustness to a greater extent when robust accuracy between model iterations can be maintained.
