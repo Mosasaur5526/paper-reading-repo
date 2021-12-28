@@ -35,6 +35,11 @@ tags:
 - Academic
 
 ---
+[Adversarial Risk and the Dangers of Evaluating Against Weak Attacks (arXiv 1802, ICML 2018)](https://arxiv.org/abs/1802.05666)
+- Define and further analyse models' obscurity to adversaries, which is similar to obfuscated gradients. In fact, this is a concurrent work to the BPDA paper, which also got published in ICML 2018.
+- Propose SPSA adversarial attack which does not leverage gradient information to investigate whether models claimed to be robust really are so.
+- Specifically analyse 3 kinds of breakable defenses including non-differentiability, leveraging generative models (purification) and stochasticity and ensembling, and adversarial training is the only defense found not to be obscure and really robust. 
+
 [Adversarial Robustness through Local Linearization (arXiv 1907, NeurIPS 2019)](https://arxiv.org/abs/1907.02610)
 - Define a local linearity measure using taylor expansion and empirically verify that the loss surface becomes increasingly linear as we increase the number of PGD steps of the inner maximisation during adversarial training.
 - Propose to minimise the error of approximation error and the gradient magnitude term, in which the direction where the error is minimised needs to be find using optimisation, but experimentally requires much less steps compared with common PGD.
