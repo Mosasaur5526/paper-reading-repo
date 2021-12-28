@@ -199,7 +199,7 @@ tags:
 [Improving Transferability of Adversarial Examples with Input Diversity (arXiv 1803, CVPR 2019)](https://arxiv.org/abs/1803.06978)
 - Propose DI attack which randomly adds a transformation to the image before calculating gradient at each step of gradient-based attack methods.
 - Is inspired from some defenses which use image transformation to disable the malicious attack.
-- Trust the random transformation is helpful to alleviate over-fitting.
+- Trust that random transformation is helpful to alleviate over-fitting.
 
 [Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets (arXiv 2002, ICLR 2020)](https://arxiv.org/abs/2002.05990)
 [Ensemble Adversarial Training: Attacks and Defenses (arXiv 1705, ICLR 2018)](https://arxiv.org/abs/1705.07204)
