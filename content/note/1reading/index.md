@@ -35,6 +35,11 @@ tags:
 - Academic
 
 ---
+[Adversarial Robustness through Local Linearization (arXiv 1907, NeurIPS 2019)](https://arxiv.org/abs/1907.02610)
+- Define a local linearity measure using taylor expansion and empirically verify that the loss surface becomes increasingly linear as we increase the number of PGD steps of the inner maximisation during adversarial training.
+- Propose to minimise the error of approximation error and the gradient magnitude term, in which the direction where the error is minimised needs to be find using optimisation, but experimentally requires much less steps compared with common PGD.
+- Due to strong local linearity enhanced by the proposed method, adversarial robustness degrades gracefully compared with other standard adversarially trained models, and suffers less from obfuscated gradients.
+
 [An Alternative Surrogate Loss for PGD-based Adversarial Testing (arXiv 1910)](https://arxiv.org/abs/1910.09338)
 - Find hyper-parameters of PGD variants need to be tunes for each specific case.
 - Propose MultiTargeted attack which uses different surrogate loss functions for each class except the true class.
