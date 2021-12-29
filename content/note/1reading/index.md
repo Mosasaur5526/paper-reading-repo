@@ -35,6 +35,11 @@ tags:
 - Academic
 
 ---
+[Boosting adversarial attacks with momentum (arXiv 1710, CVPR 2018)](https://arxiv.org/abs/1710.06081)
+- Propose to combine momentum with iterative FGSM and believe that single step FGSM is prone to underfitting while iterative FGSM suffers from overfitting and momentum can save the later from getting stuck in a local maximum.
+- Study how to attack an ensemble of models efficiently still using momentum, and find empirically the ensemble in logits performs better than the ensemble in predictions and the ensemble in loss.
+- Trivially expand momentum attack to L2 norm bound and targeted settings.
+
 [Learning to Learn Transferable Attack (arXiv 2112, AAAI 2022)](https://arxiv.org/abs/2112.06658)
 - Generate different tasks using data augmentation and model augmentation. Specifically, simply use random resize and crop for data augmentation, and implement model augmentation using an extension of SGM which uses MGS method to fine-tune decay factors of different layers.
 - Integrate meta-learning process into the pipeline, in which meta-training generates a perturbation using support set and meta-testing fine-tunes it on query set.
