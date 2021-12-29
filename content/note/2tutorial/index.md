@@ -37,3 +37,4 @@ tags:
 ---
 
 Wasserstein Distributionally Robust Optimization (by Daniel Kuhn from EPFL): [video link](https://www.youtube.com/watch?v=vozmvt_glQs&t=1532s)
+Model Agnostic Meta-learning (by Siavash Khodadadeh from UCF): [video link](https://www.youtube.com/watch?v=wT45v8sIMDM)

@@ -23,11 +23,12 @@ design:
 
 ---
 
-## Recent Readings (59)
+## Recent Readings (61)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (27)" >}}
-* [【not started】Boosting adversarial attacks with momentum (arXiv 1710, CVPR 2018)](https://arxiv.org/abs/1710.06081)
+{{< spoiler text="Not Started (28)" >}}
+* [【not started】Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
+* [【not started】Controllable Person Image Synthesis with Attribute-Decomposed GAN (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.12267)
 * [【not started】Meta gradient adversarial attack (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.04204)
 * [【not started】Regularizing Neural Networks via Adversarial Model Perturbation (arXiv 2010, CVPR 2021)](https://arxiv.org/abs/2010.04925)
 * [【not started】Exploring Architectural Ingredients of Adversarially Robust Deep Neural Networks (arXiv 2110, NeurIPS 2021)](https://arxiv.org/abs/2110.03825)
@@ -57,7 +58,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (7)" >}}
-* [【started on 39/12/2021, unfinished】TryOnGAN: Body-Aware Try-On via Layered Interpolation (arXiv 2101, TOG 2021)](https://arxiv.org/abs/2101.02285)
+* [【started on 29/12/2021, unfinished】Boosting adversarial attacks with momentum (arXiv 1710, CVPR 2018)](https://arxiv.org/abs/1710.06081)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
 * [【started on 9/12/2021, unfinished】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
@@ -66,7 +67,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (25)" >}}
+{{< spoiler text="Finished (26)" >}}
+* [【finished on 29/12/2021】TryOnGAN: Body-Aware Try-On via Layered Interpolation (arXiv 2101, TOG 2021)](https://arxiv.org/abs/2101.02285)
 * [【finished on 29/12/2021】Learning to Learn Transferable Attack (arXiv 2112, AAAI 2022)](https://arxiv.org/abs/2112.06658)
 * [【finished on 28/12/2021】Adversarial Risk and the Dangers of Evaluating Against Weak Attacks (arXiv 1802, ICML 2018)](https://arxiv.org/abs/1802.05666)
 * [【finished on 28/12/2021】Adversarial Robustness through Local Linearization (arXiv 1907, NeurIPS 2019)](https://arxiv.org/abs/1907.02610)
@@ -95,7 +97,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (163)
+## Full List (164)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Augmentation (2)" >}}
@@ -222,10 +224,11 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Representation Learning with Contrastive Predictive Coding (arXiv 1807)](https://arxiv.org/abs/1807.03748)
 {{< /spoiler >}}
 
-{{< spoiler text="Virtual Try-on, pose estimation and Graphics Related (12)" >}}
+{{< spoiler text="Virtual Try-on, pose estimation and Graphics Related (13)" >}}
 - [Shape Controllable Virtual Try-on for Underwear Models (arXiv 2107)](https://arxiv.org/abs/2107.13156)
-* [Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.03319)
+- [Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.03319)
 - [Disentangled Cycle Consistency for Highly-realistic Virtual Try-On (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.09479)
+- [TryOnGAN: Body-Aware Try-On via Layered Interpolation (arXiv 2101, TOG 2021)](https://arxiv.org/abs/2101.02285)
 - [Learning to Transfer Texture from Clothing Images to 3D Humans (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.02050)
 - [Warping Residual Based Image Stitching for Large Parallax (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_Warping_Residual_Based_Image_Stitching_for_Large_Parallax_CVPR_2020_paper.html)
 - [Towards Photo-Realistic Virtual Try-On by Adaptively Generating-Preserving Image Content (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Towards_Photo-Realistic_Virtual_Try-On_by_Adaptively_Generating-Preserving_Image_Content_CVPR_2020_paper.html)
