@@ -35,6 +35,12 @@ tags:
 - Academic
 
 ---
+[Learning to Learn Transferable Attack (arXiv 2112, AAAI 2022)](https://arxiv.org/abs/2112.06658)
+- Generate different tasks using data augmentation and model augmentation. Specifically, simply use random resize and crop for data augmentation, and implement model augmentation using an extension of SGM which uses MGS method to fine-tune decay factors of different layers.
+- Integrate meta-learning process into the pipeline, in which meta-training generates a perturbation using support set and meta-testing fine-tunes it on query set.
+- Improve the transferability by a large margin in scenarios of attacking both undefended models as well as adversarially trained models.
+- Combine LLTA with momentum and achieve new SOTA.
+
 [Adversarial Risk and the Dangers of Evaluating Against Weak Attacks (arXiv 1802, ICML 2018)](https://arxiv.org/abs/1802.05666)
 - Define and further analyse models' obscurity to adversaries, which is similar to obfuscated gradients. In fact, this is a concurrent work to the BPDA paper, which also got published in ICML 2018.
 - Propose SPSA adversarial attack which does not leverage gradient information to investigate whether models claimed to be robust really are so.

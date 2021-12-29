@@ -23,10 +23,12 @@ design:
 
 ---
 
-## Recent Readings (56)
+## Recent Readings (59)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (25)" >}}
+{{< spoiler text="Not Started (27)" >}}
+* [【not started】Boosting adversarial attacks with momentum (arXiv 1710, CVPR 2018)](https://arxiv.org/abs/1710.06081)
+* [【not started】Meta gradient adversarial attack (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.04204)
 * [【not started】Regularizing Neural Networks via Adversarial Model Perturbation (arXiv 2010, CVPR 2021)](https://arxiv.org/abs/2010.04925)
 * [【not started】Exploring Architectural Ingredients of Adversarially Robust Deep Neural Networks (arXiv 2110, NeurIPS 2021)](https://arxiv.org/abs/2110.03825)
 * [【not started】Fooling Adversarial Training with Inducing Noise (arXiv 2111, ICLR 2022 submission)](https://arxiv.org/abs/2111.10130)
@@ -55,7 +57,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (7)" >}}
-* [【started on 28/12/2021, unfinished】Learning to Learn Transferable Attack (arXiv 2112, AAAI 2022)](https://arxiv.org/abs/2112.06658)
+* [【started on 39/12/2021, unfinished】TryOnGAN: Body-Aware Try-On via Layered Interpolation (arXiv 2101, TOG 2021)](https://arxiv.org/abs/2101.02285)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
 * [【started on 9/12/2021, unfinished】Certifying Some Distributional Robustness with Principled Adversarial Training (arXiv 1710, ICLR 2018)](https://arxiv.org/abs/1710.10571)
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
@@ -64,7 +66,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (24)" >}}
+{{< spoiler text="Finished (25)" >}}
+* [【finished on 29/12/2021】Learning to Learn Transferable Attack (arXiv 2112, AAAI 2022)](https://arxiv.org/abs/2112.06658)
 * [【finished on 28/12/2021】Adversarial Risk and the Dangers of Evaluating Against Weak Attacks (arXiv 1802, ICML 2018)](https://arxiv.org/abs/1802.05666)
 * [【finished on 28/12/2021】Adversarial Robustness through Local Linearization (arXiv 1907, NeurIPS 2019)](https://arxiv.org/abs/1907.02610)
 * [【finished on 27/12/2021】Improved Regularization of Convolutional Neural Networks with Cutout (arXiv 1708)](https://arxiv.org/abs/1708.04552)
@@ -92,7 +95,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (162)
+## Full List (163)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Augmentation (2)" >}}
@@ -143,7 +146,8 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Persistence stability for geometric complexes (arXiv 1207, Geometriae Dedicata 2014)](https://arxiv.org/abs/1207.3885)
 {{< /spoiler >}}
 
-{{< spoiler text="Adversarial Examples and Attacks (29)" >}}
+{{< spoiler text="Adversarial Examples and Attacks (30)" >}}
+- [Learning to Learn Transferable Attack (arXiv 2112, AAAI 2022)](https://arxiv.org/abs/2112.06658)
 - [Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 - [Unlearnable Examples: Making Personal Data Unexploitable (arXiv 2101, ICLR 2021)](https://arxiv.org/abs/2101.04898)
 - [Backpropagating Linearly Improves Transferability of Adversarial Examples (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.03528)
