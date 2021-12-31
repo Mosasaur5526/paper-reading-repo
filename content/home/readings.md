@@ -23,40 +23,41 @@ design:
 
 ---
 
-## Recent Readings (62)
+## Recent Readings (63)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (26)" >}}
- * [【not started】Bilateral Adversarial Training: Towards Fast Training of More Robust Models Against Adversarial Attacks (arXiv 1811, ICCV 2019)](https://arxiv.org/abs/1811.10716)
- * [【not started】Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
- * [【not started】Controllable Person Image Synthesis with Attribute-Decomposed GAN (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.12267)
- * [【not started】Meta gradient adversarial attack (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.04204)
- * [【not started】Regularizing Neural Networks via Adversarial Model Perturbation (arXiv 2010, CVPR 2021)](https://arxiv.org/abs/2010.04925)
- * [【not started】Exploring Architectural Ingredients of Adversarially Robust Deep Neural Networks (arXiv 2110, NeurIPS 2021)](https://arxiv.org/abs/2110.03825)
- * [【not started】Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks (arXiv 1908, ICLR 2020)](https://arxiv.org/abs/1908.06281)
- * [【not started】Enhancing the Transferability of Adversarial Attacks through Variance Tuning (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.15571)
- * [【not started】Robust Overfitting May Be Mitigated by Properly Learned Smoothening (ICLR 2021)](https://openreview.net/forum?id=qZzy5urZw9)
- * [【not started】Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples (arXiv 2010)](https://arxiv.org/abs/2010.03593)
- * [【not started】PARL: Enhancing Diversity of Ensemble Networks to Resist Adversarial Attacks via Pairwise Adversarially Robust Loss Function (arXiv 2112)](https://arxiv.org/abs/2112.04948)
- * [【not started】On Generating Transferable Targeted Perturbations (arXiv 2103, ICCV 2021)](https://arxiv.org/abs/2103.14641)
- * [【not started】MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
- * [【not started】Geometry-aware Instance-reweighted Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.01736)
- * [【not started】Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning (arXiv 1704, TPAMI 2018)]()
- * [【not started】Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
- * [【not started】Understanding and Improving Fast Adversarial Training (arXiv 2007, NeurIPS 2020)](https://arxiv.org/abs/2007.02617)
- * [【not started】Unlabeled Data Improves Adversarial Robustness (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13736)
- * [【not started】Adversarial Neuron Pruning Purifies Backdoored Deep Models (arXiv 2110, NeurIPS 2021)](https://arxiv.org/abs/2110.14430)
- * [【not started】Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.07668)
- * [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
- * [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
- * [【not started】A Multi-Task Network for Joint Specular Highlight Detection and Removal (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_A_Multi-Task_Network_for_Joint_Specular_Highlight_Detection_and_Removal_CVPR_2021_paper.html)
- * [【not started】Learning to Detect Specular Highlights from Real-world Images (ACM MM 2020)](https://dl.acm.org/doi/abs/10.1145/3394171.3413586)
- * [【not started】Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image (arXiv 1905, CVPR 2020)](https://arxiv.org/abs/1905.02722)
- * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
+{{< spoiler text="Not Started (27)" >}}
+* [【not started】Better Safe Than Sorry: Preventing Delusive Adversaries with Adversarial Training (arXiv 2102, NeurIPS 2021)](https://arxiv.org/abs/2102.04716)
+* [【not started】Bilateral Adversarial Training: Towards Fast Training of More Robust Models Against Adversarial Attacks (arXiv 1811, ICCV 2019)](https://arxiv.org/abs/1811.10716)
+* [【not started】Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
+* [【not started】Controllable Person Image Synthesis with Attribute-Decomposed GAN (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.12267)
+* [【not started】Meta gradient adversarial attack (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.04204)
+* [【not started】Regularizing Neural Networks via Adversarial Model Perturbation (arXiv 2010, CVPR 2021)](https://arxiv.org/abs/2010.04925)
+* [【not started】Exploring Architectural Ingredients of Adversarially Robust Deep Neural Networks (arXiv 2110, NeurIPS 2021)](https://arxiv.org/abs/2110.03825)
+* [【not started】Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks (arXiv 1908, ICLR 2020)](https://arxiv.org/abs/1908.06281)
+* [【not started】Enhancing the Transferability of Adversarial Attacks through Variance Tuning (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.15571)
+* [【not started】Robust Overfitting May Be Mitigated by Properly Learned Smoothening (ICLR 2021)](https://openreview.net/forum?id=qZzy5urZw9)
+* [【not started】Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples (arXiv 2010)](https://arxiv.org/abs/2010.03593)
+* [【not started】PARL: Enhancing Diversity of Ensemble Networks to Resist Adversarial Attacks via Pairwise Adversarially Robust Loss Function (arXiv 2112)](https://arxiv.org/abs/2112.04948)
+* [【not started】On Generating Transferable Targeted Perturbations (arXiv 2103, ICCV 2021)](https://arxiv.org/abs/2103.14641)
+* [【not started】MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
+* [【not started】Geometry-aware Instance-reweighted Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.01736)
+* [【not started】Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning (arXiv 1704, TPAMI 2018)]()
+* [【not started】Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
+* [【not started】Understanding and Improving Fast Adversarial Training (arXiv 2007, NeurIPS 2020)](https://arxiv.org/abs/2007.02617)
+* [【not started】Unlabeled Data Improves Adversarial Robustness (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13736)
+* [【not started】Adversarial Neuron Pruning Purifies Backdoored Deep Models (arXiv 2110, NeurIPS 2021)](https://arxiv.org/abs/2110.14430)
+* [【not started】Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.07668)
+* [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
+* [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
+* [【not started】A Multi-Task Network for Joint Specular Highlight Detection and Removal (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_A_Multi-Task_Network_for_Joint_Specular_Highlight_Detection_and_Removal_CVPR_2021_paper.html)
+* [【not started】Learning to Detect Specular Highlights from Real-world Images (ACM MM 2020)](https://dl.acm.org/doi/abs/10.1145/3394171.3413586)
+* [【not started】Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image (arXiv 1905, CVPR 2020)](https://arxiv.org/abs/1905.02722)
+* [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (9)" >}}
-* [【started on 31/12/2021, unfinished】Adversarial examples make strong poisons (arXiv 2106)](https://arxiv.org/abs/2106.10807)
+* [【started on 1/1/2022, unfinished】ZeroGrad : Mitigating and Explaining Catastrophic Overfitting in FGSM Adversarial Training (arXiv 2103)](https://arxiv.org/abs/2103.15476)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -68,6 +69,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Finished (27)" >}}
+* [【finished on 31/12/2021】Adversarial examples make strong poisons (arXiv 2106)](https://arxiv.org/abs/2106.10807)
 * [【finished on 31/12/2021】Fooling Adversarial Training with Inducing Noise (arXiv 2111, ICLR 2022 submission)](https://arxiv.org/abs/2111.10130)
 * [【finished on 30/12/2021】Boosting adversarial attacks with momentum (arXiv 1710, CVPR 2018)](https://arxiv.org/abs/1710.06081)
 * [【finished on 29/12/2021】TryOnGAN: Body-Aware Try-On via Layered Interpolation (arXiv 2101, SIGGRAPH 2021)](https://arxiv.org/abs/2101.02285)
@@ -94,7 +96,6 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 18/12/2021】Delving into Transferable Adversarial Examples and Black-box Attacks (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.02770)
 * [【finished on 18/12/2021】Backpropagating Linearly Improves Transferability of Adversarial Examples (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.03528)
 * [【finished on 18/12/2021】Enhancing Adversarial Example Transferability with an Intermediate Level Attack (arXiv 1907, ICCV 2019)](https://arxiv.org/abs/1907.10823)
-* [【finished on 17/12/2021】MMA Training: Direct Input Space Margin Maximization through Adversarial Training (arXiv 1812, ICLR 2020)](https://arxiv.org/abs/1812.02637)
 {{< /spoiler >}}
 <br/>
 

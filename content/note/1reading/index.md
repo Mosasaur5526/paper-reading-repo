@@ -35,6 +35,13 @@ tags:
 - Academic
 
 ---
+[Adversarial examples make strong poisons (arXiv 2106)](https://arxiv.org/abs/2106.10807)
+- Stress that adversarial training is totally different from training directly on fixed (adversarial) examples, which is devastating since the model will only fit the poisoned data.
+- Generate poisons simply use adversarial attack on a pre-trained models on clean data, and state their method's priority to Wang's double minimisation is that it does not require access to the entire training set which may be impractical.
+- Find the class targeted attack is significantly effective than untargeted attack and attribute this phenomenon to the later's perturbing samples into a limited set of labels which is not discriminatively useful for a network and is thus ignored. On the contrary, targeted attack ensures that adversarial features is associated with incorrect labels.
+- Reproduce Madry's famous experiment and verify that targeted attack indeed instill non-robust features of the target class into the example. 
+- Argue that such property of explicit label mapping won't raise security problem if the crafting model is unknown to the attacker, but I think it doesn't hold much water, because such a pattern is fixed and can be trivially reassigned to correct ones.
+
 [Fooling Adversarial Training with Inducing Noise (arXiv 2111, ICLR 2022 submission)](https://arxiv.org/abs/2111.10130)
 - Find previous methods making examples unlearnable is far from effective when adversarial training is applied that they only disables non-robust features rather than robust features that adversarial trainig relies on.
 - Due to necessity of robust features, they select adversarially trainied models as a surrogate to craft adversarially unlearnable examples.
