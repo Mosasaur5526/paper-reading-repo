@@ -35,6 +35,15 @@ tags:
 - Academic
 
 ---
+[Fooling Adversarial Training with Inducing Noise (arXiv 2111, ICLR 2022 submission)](https://arxiv.org/abs/2111.10130)
+- Find previous methods making examples unlearnable is far from effective when adversarial training is applied that they only disables non-robust features rather than robust features that adversarial trainig relies on.
+- Due to necessity of robust features, they select adversarially trainied models as a surrogate to craft adversarially unlearnable examples.
+- Propose NextCycle and NearSwap strategies to force consistent lable bias in the inner minimisation, which is proved to be effective against random selection and most/least likely labels through experiments.
+- Propose IAT training strategy, which iteratively generates poisoned examples and adversarially trains the model on the poisoned dataset. The point is they intend to close the gap between a model trained from scratch and a pre-trained model.
+- Name the proposed method as ADVIN and it significantly decreases the robust accuracy though with advesarial training to nearly zero, and reduces natural accuracy by a large margin compared with previous methods.
+- Analyse the effect of generating poisons only on small patches. The winner is unexpectedly the size of 16 × 16 patches.
+- I notice that the confusion matrix is very intriguing. From the philosophy of cryptography, a concrete label bias mapping will fail to conceal itself against (statistical) analysis. The fixed pattern may be discovered and leveraged.
+
 [Boosting adversarial attacks with momentum (arXiv 1710, CVPR 2018)](https://arxiv.org/abs/1710.06081)
 - Propose to combine momentum with iterative FGSM and believe that single step FGSM is prone to underfitting while iterative FGSM suffers from overfitting and momentum can save the later from getting stuck in a local maximum.
 - Study how to attack an ensemble of models efficiently still using momentum, and find empirically the ensemble in logits performs better than the ensemble in predictions and the ensemble in loss.
