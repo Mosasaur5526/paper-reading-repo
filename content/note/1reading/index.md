@@ -35,6 +35,13 @@ tags:
 - Academic
 
 ---
+[ZeroGrad : Mitigating and Explaining Catastrophic Overfitting in FGSM Adversarial Training (arXiv 2103)](https://arxiv.org/abs/2103.15476)
+- Observe a significant change in parameters when catastrophic overfitting happens.
+- Provide a proof about the sudden dramatic change by prove the existence of a gigantic gradient value. However, I think this claim is largely unconvincing, as it hypothesises an exact zero gradient that even being close to the local minima will not make the proof hold.
+- Also obverse that when catastrophic overfitting occurs, MSE of difference in batch perturbation will exhibit a pattern of sudden increase.
+- Propose ZeroGrad and MultiGrad, which removes small (by setting a proportion) and sensitive (sign changing frequently, voted by multiple random samples, can run parallelly) gradient values respectively.
+- Successfully avoid catastrophic overfitting and achieve good performance, but ironically, it still even falls behind PGD-2.
+
 [Adversarial examples make strong poisons (arXiv 2106)](https://arxiv.org/abs/2106.10807)
 - Stress that adversarial training is totally different from training directly on fixed (adversarial) examples, which is devastating since the model will only fit the poisoned data.
 - Generate poisons simply use adversarial attack on a pre-trained models on clean data, and state their method's priority to Wang's double minimisation is that it does not require access to the entire training set which may be impractical.
