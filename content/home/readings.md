@@ -69,7 +69,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (25)" >}}
+{{< spoiler text="Finished (26)" >}}
+* [【finished on 3/1/2022】Generating High-Resolution Fashion Model Images Wearing Custom Outfits (arXiv 1908, ICCV 2019 Workshop on Computer Vision for Fashion, Art and Design)](https://arxiv.org/abs/1908.08847)
 * [【finished on 3/1/2022】Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022 submission)](https://openreview.net/forum?id=baUQQPwQiAg)
 * [【finished on 2/1/2022】ZeroGrad : Mitigating and Explaining Catastrophic Overfitting in FGSM Adversarial Training (arXiv 2103)](https://arxiv.org/abs/2103.15476)
 * [【finished on 31/12/2021】Adversarial examples make strong poisons (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.10807)
@@ -98,7 +99,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (169)
+## Full List (170)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Augmentation (2)" >}}
@@ -238,6 +239,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Learning to Transfer Texture from Clothing Images to 3D Humans (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.02050)
 - [Warping Residual Based Image Stitching for Large Parallax (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_Warping_Residual_Based_Image_Stitching_for_Large_Parallax_CVPR_2020_paper.html)
 - [Towards Photo-Realistic Virtual Try-On by Adaptively Generating-Preserving Image Content (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Towards_Photo-Realistic_Virtual_Try-On_by_Adaptively_Generating-Preserving_Image_Content_CVPR_2020_paper.html)
+- [Generating High-Resolution Fashion Model Images Wearing Custom Outfits (arXiv 1908, ICCV 2019 Workshop on Computer Vision for Fashion, Art and Design)](https://arxiv.org/abs/1908.08847)
 - [Multi-Garment Net: Learning to Dress 3D People from Images (arXiv 1908, ICCV 2019)](https://arxiv.org/abs/1908.06903)
 - [Expressive Body Capture: 3D Hands, Face, and Body From a Single Image (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/html/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.html)
 - [DensePose: Dense Human Pose Estimation In The Wild (arXiv 1802, CVPR 2018)](https://arxiv.org/abs/1802.00434)
