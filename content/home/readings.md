@@ -23,10 +23,12 @@ design:
 
 ---
 
-## Recent Readings (60)
+## Recent Readings (62)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (27)" >}}
+{{< spoiler text="Not Started (29)" >}}
+* [【not started】Better Safe Than Sorry: Preventing Delusive Adversaries with Adversarial Training (arXiv 2102, NeurIPS 2021)](https://arxiv.org/abs/2102.04716)
+* [【not started】Indiscriminate Poisoning Attacks Are Shortcuts (arXiv 2111)](https://arxiv.org/abs/2111.00898)
 * [【not started】Better Safe Than Sorry: Preventing Delusive Adversaries with Adversarial Training (arXiv 2102, NeurIPS 2021)](https://arxiv.org/abs/2102.04716)
 * [【not started】Bilateral Adversarial Training: Towards Fast Training of More Robust Models Against Adversarial Attacks (arXiv 1811, ICCV 2019)](https://arxiv.org/abs/1811.10716)
 * [【not started】Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
@@ -68,8 +70,9 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Finished (25)" >}}
+* [【finished on 3/1/2022】Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022 submission)](https://openreview.net/forum?id=baUQQPwQiAg)
 * [【finished on 2/1/2022】ZeroGrad : Mitigating and Explaining Catastrophic Overfitting in FGSM Adversarial Training (arXiv 2103)](https://arxiv.org/abs/2103.15476)
-* [【finished on 31/12/2021】Adversarial examples make strong poisons (arXiv 2106)](https://arxiv.org/abs/2106.10807)
+* [【finished on 31/12/2021】Adversarial examples make strong poisons (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.10807)
 * [【finished on 31/12/2021】Fooling Adversarial Training with Inducing Noise (arXiv 2111, ICLR 2022 submission)](https://arxiv.org/abs/2111.10130)
 * [【finished on 30/12/2021】Boosting adversarial attacks with momentum (arXiv 1710, CVPR 2018)](https://arxiv.org/abs/1710.06081)
 * [【finished on 29/12/2021】TryOnGAN: Body-Aware Try-On via Layered Interpolation (arXiv 2101, SIGGRAPH 2021)](https://arxiv.org/abs/2101.02285)
@@ -92,11 +95,10 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 22/12/2021】Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
 * [【finished on 20/12/2021】Do Wider Neural Networks Really Help Adversarial Robustness? (arXiv 2010, NeurIPS 2021)](https://arxiv.org/abs/2010.01279)
 * [【finished on 20/12/2021】Wide Residual Networks (arXiv 1605, BMVC 2016)](https://arxiv.org/abs/1605.07146)
-* [【finished on 19/12/2021】Universal adversarial perturbations (arXiv 1610, CVPR 2017)](https://arxiv.org/abs/1610.08401)
 {{< /spoiler >}}
 <br/>
 
-## Full List (168)
+## Full List (169)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Augmentation (2)" >}}
@@ -147,10 +149,11 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Persistence stability for geometric complexes (arXiv 1207, Geometriae Dedicata 2014)](https://arxiv.org/abs/1207.3885)
 {{< /spoiler >}}
 
-{{< spoiler text="Adversarial Examples and Attacks (33)" >}}
+{{< spoiler text="Adversarial Examples and Attacks (34)" >}}
+- [Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022 submission)](https://openreview.net/forum?id=baUQQPwQiAg)
 - [Learning to Learn Transferable Attack (arXiv 2112, AAAI 2022)](https://arxiv.org/abs/2112.06658)
 - [Fooling Adversarial Training with Inducing Noise (arXiv 2111, ICLR 2022 submission)](https://arxiv.org/abs/2111.10130)
-- [Adversarial examples make strong poisons (arXiv 2106)](https://arxiv.org/abs/2106.10807)
+- [Adversarial examples make strong poisons (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.10807)
 - [Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
 - [Unlearnable Examples: Making Personal Data Unexploitable (arXiv 2101, ICLR 2021)](https://arxiv.org/abs/2101.04898)
 - [Backpropagating Linearly Improves Transferability of Adversarial Examples (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.03528)

@@ -35,6 +35,12 @@ tags:
 - Academic
 
 ---
+[Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022 submission)](https://openreview.net/forum?id=baUQQPwQiAg)
+- Emphasise that the conferred unlearnability works because they provide poor training error. However, when adversarial training is applied, the training error reappears to be non-trivial, making the poisoned examples learnable.
+- Propose the same min-min-max training objective as AVDIN.
+- Enhance the stability against data augmentation techniques using gradient approximation over transformation distribution as proposed years ago to boost the robustness of adversarial examples.
+- Achieve good performance against adversarial training but only considers relatively small perturbations (i.e. no larger than 4/255) when AT is applied.
+
 [ZeroGrad : Mitigating and Explaining Catastrophic Overfitting in FGSM Adversarial Training (arXiv 2103)](https://arxiv.org/abs/2103.15476)
 - Observe a significant change in parameters when catastrophic overfitting happens.
 - Provide a proof about the sudden dramatic change by prove the existence of a gigantic gradient value. However, I think this claim is largely unconvincing, as it hypothesises an exact zero gradient that even being close to the local minima will not make the proof hold.
@@ -42,7 +48,7 @@ tags:
 - Propose ZeroGrad and MultiGrad, which removes small (by setting a proportion) and sensitive (sign changing frequently, voted by multiple random samples, can run parallelly) gradient values respectively.
 - Successfully avoid catastrophic overfitting and achieve good performance, but ironically, it still even falls behind PGD-2.
 
-[Adversarial examples make strong poisons (arXiv 2106)](https://arxiv.org/abs/2106.10807)
+[Adversarial examples make strong poisons (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.10807)
 - Stress that adversarial training is totally different from training directly on fixed (adversarial) examples, which is devastating since the model will only fit the poisoned data.
 - Generate poisons simply use adversarial attack on a pre-trained models on clean data, and state their method's priority to Wang's double minimisation is that it does not require access to the entire training set which may be impractical.
 - Find the class targeted attack is significantly effective than untargeted attack and attribute this phenomenon to the later's perturbing samples into a limited set of labels which is not discriminatively useful for a network and is thus ignored. On the contrary, targeted attack ensures that adversarial features is associated with incorrect labels.
