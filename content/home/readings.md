@@ -23,10 +23,12 @@ design:
 
 ---
 
-## Recent Readings (62)
+## Recent Readings (50)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (29)" >}}
+{{< spoiler text="Not Started (31)" >}}
+* 【not started】Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
+* [【not started】Double Descent in Adversarial Training: An Implicit Label Noise Perspective (arXiv 2110, ICLR 2022 submission)](https://arxiv.org/abs/2110.03135)
 * [【not started】Better Safe Than Sorry: Preventing Delusive Adversaries with Adversarial Training (arXiv 2102, NeurIPS 2021)](https://arxiv.org/abs/2102.04716)
 * [【not started】Indiscriminate Poisoning Attacks Are Shortcuts (arXiv 2111)](https://arxiv.org/abs/2111.00898)
 * [【not started】Better Safe Than Sorry: Preventing Delusive Adversaries with Adversarial Training (arXiv 2102, NeurIPS 2021)](https://arxiv.org/abs/2102.04716)
@@ -58,7 +60,8 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (8)" >}}
+{{< spoiler text="Started but Unfinished (9)" >}}
+* [【started on 11/1/2021, unfinished】Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2101, ICLR 2022 submission)](https://arxiv.org/abs/2102.07437)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -69,7 +72,7 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (26)" >}}
+{{< spoiler text="Finished (10)" >}}
 * [【finished on 3/1/2022】Generating High-Resolution Fashion Model Images Wearing Custom Outfits (arXiv 1908, ICCV 2019 Workshop on Computer Vision for Fashion, Art and Design)](https://arxiv.org/abs/1908.08847)
 * [【finished on 3/1/2022】Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022 submission)](https://openreview.net/forum?id=baUQQPwQiAg)
 * [【finished on 2/1/2022】ZeroGrad : Mitigating and Explaining Catastrophic Overfitting in FGSM Adversarial Training (arXiv 2103)](https://arxiv.org/abs/2103.15476)
@@ -80,22 +83,6 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 29/12/2021】Learning to Learn Transferable Attack (arXiv 2112, AAAI 2022)](https://arxiv.org/abs/2112.06658)
 * [【finished on 28/12/2021】Adversarial Risk and the Dangers of Evaluating Against Weak Attacks (arXiv 1802, ICML 2018)](https://arxiv.org/abs/1802.05666)
 * [【finished on 28/12/2021】Adversarial Robustness through Local Linearization (arXiv 1907, NeurIPS 2019)](https://arxiv.org/abs/1907.02610)
-* [【finished on 27/12/2021】Improved Regularization of Convolutional Neural Networks with Cutout (arXiv 1708)](https://arxiv.org/abs/1708.04552)
-* [【finished on 27/12/2021】An Alternative Surrogate Loss for PGD-based Adversarial Testing (arXiv 1910)](https://arxiv.org/abs/1910.09338)
-* [【finished on 27/12/2021】Data Augmentation Can Improve Robustness (arXiv 2111, NeurIPS 2021)](https://arxiv.org/abs/2111.05328)
-* [【finished on 26/12/2021】CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (arXiv 1905, ICCV 2019)](https://arxiv.org/abs/1905.04899)
-* [【finished on 26/12/2021】Overfitting in adversarially robust deep learning (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11569)
-* [【finished on 25/12/2021】Unlearnable Examples: Making Personal Data Unexploitable (arXiv 2101, ICLR 2021)](https://arxiv.org/abs/2101.04898)
-* [【finished on 25/12/2021】Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser (arXiv 1712, CVPR 2018)](https://arxiv.org/abs/1712.02976)
-* [【finished on 25/12/2021】Evaluating and Understanding the Robustness of Adversarial Logit Pairing (arXiv 1807, NeurIPS SECML 2018)](https://arxiv.org/abs/1807.10272)
-* [【finished on 25/12/2021】Feature Denoising for Improving Adversarial Robustness (arXiv 1812, CVPR 2019)](https://arxiv.org/abs/1812.03411)
-* [【finished on 24/12/2021】Improving Adversarial Robustness via Promoting Ensemble Diversity (arXiv 1901, ICML 2019)](https://arxiv.org/abs/1901.08846)
-* [【finished on 24/12/2021】Robustness via curvature regularization, and vice versa (arXiv 1811, CVPR 2019)](https://arxiv.org/abs/1811.09716)
-* [【finished on 23/12/2021】Adversarial Weight Perturbation Helps Robust Generalization (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.05884)
-* [【finished on 23/12/2021】The Space of Transferable Adversarial Examples (arXiv 1704)](https://arxiv.org/abs/1704.03453)
-* [【finished on 22/12/2021】Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
-* [【finished on 20/12/2021】Do Wider Neural Networks Really Help Adversarial Robustness? (arXiv 2010, NeurIPS 2021)](https://arxiv.org/abs/2010.01279)
-* [【finished on 20/12/2021】Wide Residual Networks (arXiv 1605, BMVC 2016)](https://arxiv.org/abs/1605.07146)
 {{< /spoiler >}}
 <br/>
 
@@ -133,7 +120,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
 {{< /spoiler >}}
 
-{{< spoiler text="Convergence, Generalization and Visualisation (4)" >}}
+{{< spoiler text="Convergence and Generalization(4)" >}}
 - [Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 - [On the Convergence and Robustness of Adversarial Training (ICML 2019, arXiv 2112)](https://arxiv.org/abs/2112.08304)
 - [A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
