@@ -35,6 +35,10 @@ tags:
 - Academic
 
 ---
+[Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2101, ICLR 2022 submission)](https://arxiv.org/abs/2102.07437)
+- Define high/low-quality data by stability of misclassification during adversarial training, and find that the rank of the examples upon this is quite stable among different datasets and models.
+- Attribute robust overfitting, robust overestimation and robustness-accuracy trade-off to low-quality data.
+
 [Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022 submission)](https://openreview.net/forum?id=baUQQPwQiAg)
 - Emphasise that the conferred unlearnability works because they provide poor training error. However, when adversarial training is applied, the training error reappears to be non-trivial, making the poisoned examples learnable.
 - Propose the same min-min-max training objective as AVDIN.
