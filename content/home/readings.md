@@ -26,12 +26,10 @@ design:
 ## Recent Readings (48)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (29)" >}}
-* 【not started】Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
+{{< spoiler text="Not Started (27)" >}}
 * [【not started】Better Safe Than Sorry: Preventing Delusive Adversaries with Adversarial Training (arXiv 2102, NeurIPS 2021)](https://arxiv.org/abs/2102.04716)
 * [【not started】Indiscriminate Poisoning Attacks Are Shortcuts (arXiv 2111)](https://arxiv.org/abs/2111.00898)
 * [【not started】Bilateral Adversarial Training: Towards Fast Training of More Robust Models Against Adversarial Attacks (arXiv 1811, ICCV 2019)](https://arxiv.org/abs/1811.10716)
-* [【not started】Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
 * [【not started】Controllable Person Image Synthesis with Attribute-Decomposed GAN (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.12267)
 * [【not started】Meta gradient adversarial attack (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.04204)
 * [【not started】Regularizing Neural Networks via Adversarial Model Perturbation (arXiv 2010, CVPR 2021)](https://arxiv.org/abs/2010.04925)
@@ -58,7 +56,8 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (9)" >}}
+{{< spoiler text="Started but Unfinished (10)" >}}
+* [【started on 12/1/2022, unfinished】Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
 * [【started on 12/1/2022, unfinished】High-Fidelity GAN Inversion for Image Attribute Editing (arXiv 2109)](https://arxiv.org/abs/2109.06590)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
@@ -70,7 +69,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (10)" >}}
+{{< spoiler text="Finished (11)" >}}
+* 【finished on 12/1/2022】Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 * [【finished on 12/1/2022】Double Descent in Adversarial Training: An Implicit Label Noise Perspective (arXiv 2110, ICLR 2022 submission)](https://arxiv.org/abs/2110.03135)
 * [【finished on 11/1/2022】Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2102, ICLR 2022 submission)](https://arxiv.org/abs/2102.07437)
 * [【finished on 3/1/2022】Generating High-Resolution Fashion Model Images Wearing Custom Outfits (arXiv 1908, ICCV 2019 Workshop on Computer Vision for Fashion, Art and Design)](https://arxiv.org/abs/1908.08847)
@@ -84,7 +84,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (171)
+## Full List (173)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Augmentation (2)" >}}
@@ -172,7 +172,8 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (36)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (37)" >}}
+- Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - [Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
 - [Data Augmentation Can Improve Robustness (arXiv 2111, NeurIPS 2021)](https://arxiv.org/abs/2111.05328)
 - [Clustering Effect of Adversarial Robust Models (NeurIPS 2021)](https://papers.nips.cc/paper/2021/hash/f770b62bc8f42a0b66751fe636fc6eb0-Abstract.html)

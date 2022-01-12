@@ -35,6 +35,12 @@ tags:
 - Academic
 
 ---
+Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
+- Point out that the convergence of momentum SGD optimiser heavily relies on the gradient norm and gradient variance of a batch. In AT, they are significantly larger than in standard training especially after a weight decay and deteriorate convergence.
+- Propose ENGM optimiser to provably bound the gradient variance and norm, and achieve SOTA performance combined with SOTA AT techniques, e.g. AWP.
+- Accelerate the optimisation by approximating the gradient norm (used for normalisation in the reweighting step) using the linear correlation between gradient norm at a specific examle and gradient norm of model parameters.
+- Visualise the loss landscape at examples and find the ones optimised using ENGM is much smoother than vanilla optimisers.
+
 [Double Descent in Adversarial Training: An Implicit Label Noise Perspective (arXiv 2110, ICLR 2022 submission)](https://arxiv.org/abs/2110.03135)
 - Observe double descent also in the setting of adversarial training after exponentially many epochs of training, and attribute the phenomenon to label noise.
 - Propose the notion of implicit label noise, which depicts the bias between the assigned label distribution (pure one-hot label) and the perturbed true distribution of labels.
