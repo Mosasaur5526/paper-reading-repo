@@ -35,9 +35,16 @@ tags:
 - Academic
 
 ---
+[Double Descent in Adversarial Training: An Implicit Label Noise Perspective (arXiv 2110, ICLR 2022 submission)](https://arxiv.org/abs/2110.03135)
+- Observe double descent also in the setting of adversarial training after exponentially many epochs of training, and attribute the phenomenon to label noise.
+- Propose the notion of implicit label noise, which depicts the bias between the assigned label distribution (pure one-hot label) and the perturbed true distribution of labels.
+- Theoretically prove the existence of implicit label noise and that it can be mitigated by model probability with temperature scaling and interpolation. I fully cannot understand them, because the label distribution mismatch is a conjectural thing itself, and can never be bounded.
+- The proposed method is just like a self-distillation, which consists of a teacher network and a student network.
+
 [Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2101, ICLR 2022 submission)](https://arxiv.org/abs/2102.07437)
 - Define high/low-quality data by stability of misclassification during adversarial training, and find that the rank of the examples upon this is quite stable among different datasets and models.
 - Attribute robust overfitting, robust overestimation and robustness-accuracy trade-off to low-quality data.
+- Demonstrate that low-quality examples are closer to decision boundary so their epsilon-ball are easily to overlap. Therefore they may only twist the decision boundary to confuse gradient-based attack methods.
 
 [Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022 submission)](https://openreview.net/forum?id=baUQQPwQiAg)
 - Emphasise that the conferred unlearnability works because they provide poor training error. However, when adversarial training is applied, the training error reappears to be non-trivial, making the poisoned examples learnable.
