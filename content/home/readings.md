@@ -23,10 +23,11 @@ design:
 
 ---
 
-## Recent Readings (48)
+## Recent Readings (49)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (27)" >}}
+{{< spoiler text="Not Started (28)" >}}
+* [【not started】Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space? (arXiv 1904, ICCV 2019)](https://arxiv.org/abs/1904.03189)
 * [【not started】Better Safe Than Sorry: Preventing Delusive Adversaries with Adversarial Training (arXiv 2102, NeurIPS 2021)](https://arxiv.org/abs/2102.04716)
 * [【not started】Indiscriminate Poisoning Attacks Are Shortcuts (arXiv 2111)](https://arxiv.org/abs/2111.00898)
 * [【not started】Bilateral Adversarial Training: Towards Fast Training of More Robust Models Against Adversarial Attacks (arXiv 1811, ICCV 2019)](https://arxiv.org/abs/1811.10716)
@@ -57,7 +58,6 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (10)" >}}
-* [【started on 12/1/2022, unfinished】Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
 * [【started on 12/1/2022, unfinished】High-Fidelity GAN Inversion for Image Attribute Editing (arXiv 2109)](https://arxiv.org/abs/2109.06590)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
@@ -69,7 +69,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (11)" >}}
+{{< spoiler text="Finished (10)" >}}
+* [【finished on 13/1/2022, unfinished】Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
 * 【finished on 12/1/2022】Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 * [【finished on 12/1/2022】Double Descent in Adversarial Training: An Implicit Label Noise Perspective (arXiv 2110, ICLR 2022 submission)](https://arxiv.org/abs/2110.03135)
 * [【finished on 11/1/2022】Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2102, ICLR 2022 submission)](https://arxiv.org/abs/2102.07437)
@@ -79,12 +80,10 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 31/12/2021】Adversarial examples make strong poisons (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.10807)
 * [【finished on 31/12/2021】Fooling Adversarial Training with Inducing Noise (arXiv 2111, ICLR 2022 submission)](https://arxiv.org/abs/2111.10130)
 * [【finished on 30/12/2021】Boosting adversarial attacks with momentum (arXiv 1710, CVPR 2018)](https://arxiv.org/abs/1710.06081)
-* [【finished on 29/12/2021】TryOnGAN: Body-Aware Try-On via Layered Interpolation (arXiv 2101, SIGGRAPH 2021)](https://arxiv.org/abs/2101.02285)
-* [【finished on 29/12/2021】Learning to Learn Transferable Attack (arXiv 2112, AAAI 2022)](https://arxiv.org/abs/2112.06658)
 {{< /spoiler >}}
 <br/>
 
-## Full List (173)
+## Full List (174)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Augmentation (2)" >}}
@@ -235,7 +234,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Image Deformation Using Moving Least Squares (SIGGRAPH 2006)](https://dl.acm.org/doi/abs/10.1145/1179352.1141920)
 {{< /spoiler >}}
 
-{{< spoiler text="GAN Prior and GAN Inversion (11)" >}}
+{{< spoiler text="GAN Prior and GAN Inversion (12)" >}}
 - [Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
 - [GAN Inversion: A Survey (arXiv 2101)](https://arxiv.org/abs/2101.05278)
 - [Improving the Fairness of Deep Generative Models without Retraining (arXiv 2012)](https://arxiv.org/abs/2012.04842)
@@ -243,6 +242,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Closed-Form Factorization of Latent Semantics in GANs (arXiv 2007, CVPR 2021)](https://arxiv.org/abs/2007.06600)
 - [InterFaceGAN: Interpreting the Disentangled Face Representation Learned by GANs (arXiv 2005, TPAMI 2020)](https://arxiv.org/abs/2005.09635)
 - [In-Domain GAN Inversion for Real Image Editing (arXiv 2004, ECCV 2020)](https://arxiv.org/abs/2004.00049)
+- [Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
 - [Image Processing Using Multi-Code GAN Prior (arXiv 1912, CVPR 2020)](https://arxiv.org/abs/1912.07116)
 - [Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis (arXiv 1911, IJCV 2020)](https://arxiv.org/abs/1911.09267)
 - [Disentangled Inference for GANs with Latently Invertible Autoencoder (arXiv 1906)](https://arxiv.org/abs/1906.08090)
