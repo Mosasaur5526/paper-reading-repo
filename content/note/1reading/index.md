@@ -35,6 +35,13 @@ tags:
 - Academic
 
 ---
+[【not started】Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
+- Notice that adversarial class, especially when perturbation radius is large, is not always consistent with the class that has the minimal margin according to logits.
+- Propose multi-class margin according to the insight above, caring about margins from each class boundary regardless of logits order.
+- Follow the framework of bilevel optimisation/meta-learning to train the auxiliary reweighting network, and the method is called BiLAW. Specifically, it characterises the quality of a example by the linear correlation between the gradients update of the model brought by the example and the validation set with pseudo update.
+- Improve robustness against AA, but the improvement is only marginal.
+- Find that the examples assigned with high weights are the ones even difficult for humans to recognise. However, I don't think think this trick really work because the assigned weights fluctuate in [0.4975, 0.5001], which is quite neglectable.
+
 Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - Point out that the convergence of momentum SGD optimiser heavily relies on the gradient norm and gradient variance of a batch. In AT, they are significantly larger than in standard training especially after a weight decay and deteriorate convergence.
 - Propose ENGM optimiser to provably bound the gradient variance and norm, and achieve SOTA performance combined with SOTA AT techniques, e.g. AWP.
