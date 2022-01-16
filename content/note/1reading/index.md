@@ -35,6 +35,11 @@ tags:
 - Academic
 
 ---
+Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
+- Argue that auto-encoders fail to project adversarial images onto the latent manifold since it may have several closest candidates of projection and can be confused by the gradient.
+- Propose transcoder for denoising. Instead of reconstructing the full image, it project an input to a representative image of each class and then send it into the classifier. It just works like a light module for adversarial detection.
+- The experiments are quite simple that they only compare vanilla auto-encoder with the proposed method, without considering any other traditional defense.
+
 [Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
 - Notice that adversarial class, especially when perturbation radius is large, is not always consistent with the class that has the minimal margin according to logits.
 - Propose multi-class margin according to the insight above, caring about margins from each class boundary regardless of logits order.

@@ -58,8 +58,7 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (11)" >}}
-* 【started on 16/1/2022, unfinished】Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
+{{< spoiler text="Started but Unfinished (10)" >}}
 * [【started on 15/1/2022, unfinished】Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
 * [【started on 12/1/2022, unfinished】High-Fidelity GAN Inversion for Image Attribute Editing (arXiv 2109)](https://arxiv.org/abs/2109.06590)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
@@ -72,9 +71,10 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (8)" >}}
-* [【finished on 15/1/2022, unfinished】Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
-* [【finished on 13/1/2022, unfinished】Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
+{{< spoiler text="Finished (9)" >}}
+* 【finished on 16/1/2022】Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
+* [【finished on 15/1/2022】Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
+* [【finished on 13/1/2022】Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
 * 【finished on 12/1/2022】Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 * [【finished on 12/1/2022】Double Descent in Adversarial Training: An Implicit Label Noise Perspective (arXiv 2110, ICLR 2022 submission)](https://arxiv.org/abs/2110.03135)
 * [【finished on 11/1/2022】Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2102, ICLR 2022 submission)](https://arxiv.org/abs/2102.07437)
@@ -84,7 +84,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (175)
+## Full List (176)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Augmentation (2)" >}}
@@ -172,7 +172,8 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (38)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (39)" >}}
+- Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
 - Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - [Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
 - [Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
