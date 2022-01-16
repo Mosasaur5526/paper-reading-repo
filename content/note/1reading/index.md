@@ -35,7 +35,7 @@ tags:
 - Academic
 
 ---
-[【not started】Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
+[Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
 - Notice that adversarial class, especially when perturbation radius is large, is not always consistent with the class that has the minimal margin according to logits.
 - Propose multi-class margin according to the insight above, caring about margins from each class boundary regardless of logits order.
 - Follow the framework of bilevel optimisation/meta-learning to train the auxiliary reweighting network, and the method is called BiLAW. Specifically, it characterises the quality of a example by the linear correlation between the gradients update of the model brought by the example and the validation set with pseudo update.

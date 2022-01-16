@@ -23,7 +23,7 @@ design:
 
 ---
 
-## Recent Readings (47)
+## Recent Readings (48)
 _finished in last two weeks ~ still in the queue_
 
 {{< spoiler text="Not Started (29)" >}}
@@ -58,7 +58,8 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (10)" >}}
+{{< spoiler text="Started but Unfinished (11)" >}}
+* 【started on 16/1/2022, unfinished】Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
 * [【started on 15/1/2022, unfinished】Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
 * [【started on 12/1/2022, unfinished】High-Fidelity GAN Inversion for Image Attribute Editing (arXiv 2109)](https://arxiv.org/abs/2109.06590)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
