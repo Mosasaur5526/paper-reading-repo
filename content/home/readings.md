@@ -23,13 +23,12 @@ design:
 
 ---
 
-## Recent Readings (48)
+## Recent Readings (47)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (29)" >}}
+{{< spoiler text="Not Started (28)" >}}
 * [【not started】Are Adversarial Examples Created Equal? A Learnable Weighted Minimax Risk for Robustness under Non-uniform Attacks (arXiv 2010, AAAI 2021)](https://arxiv.org/abs/2010.12989)
 * [【not started】Probabilistic margins for instance reweighting in adversarial training (arXiv 2106)](https://arxiv.org/abs/2106.07904)
-* [【not started】Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space? (arXiv 1904, ICCV 2019)](https://arxiv.org/abs/1904.03189)
 * [【not started】Better Safe Than Sorry: Preventing Delusive Adversaries with Adversarial Training (arXiv 2102, NeurIPS 2021)](https://arxiv.org/abs/2102.04716)
 * [【not started】Indiscriminate Poisoning Attacks Are Shortcuts (arXiv 2111)](https://arxiv.org/abs/2111.00898)
 * [【not started】Bilateral Adversarial Training: Towards Fast Training of More Robust Models Against Adversarial Attacks (arXiv 1811, ICCV 2019)](https://arxiv.org/abs/1811.10716)
@@ -72,6 +71,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Finished (9)" >}}
+* [【finished on 17/1/2022】Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space? (arXiv 1904, ICCV 2019)](https://arxiv.org/abs/1904.03189)
 * 【finished on 16/1/2022】Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
 * [【finished on 15/1/2022】Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
 * [【finished on 13/1/2022】Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
@@ -80,11 +80,10 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 11/1/2022】Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2102, ICLR 2022 submission)](https://arxiv.org/abs/2102.07437)
 * [【finished on 3/1/2022】Generating High-Resolution Fashion Model Images Wearing Custom Outfits (arXiv 1908, ICCV 2019 Workshop on Computer Vision for Fashion, Art and Design)](https://arxiv.org/abs/1908.08847)
 * [【finished on 3/1/2022】Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022 submission)](https://openreview.net/forum?id=baUQQPwQiAg)
-* [【finished on 2/1/2022】ZeroGrad : Mitigating and Explaining Catastrophic Overfitting in FGSM Adversarial Training (arXiv 2103)](https://arxiv.org/abs/2103.15476)
 {{< /spoiler >}}
 <br/>
 
-## Full List (176)
+## Full List (177)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Augmentation (2)" >}}
@@ -237,7 +236,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Image Deformation Using Moving Least Squares (SIGGRAPH 2006)](https://dl.acm.org/doi/abs/10.1145/1179352.1141920)
 {{< /spoiler >}}
 
-{{< spoiler text="GAN Prior and GAN Inversion (12)" >}}
+{{< spoiler text="GAN Prior and GAN Inversion (13)" >}}
 - [Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
 - [GAN Inversion: A Survey (arXiv 2101)](https://arxiv.org/abs/2101.05278)
 - [Improving the Fairness of Deep Generative Models without Retraining (arXiv 2012)](https://arxiv.org/abs/2012.04842)
@@ -249,6 +248,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Image Processing Using Multi-Code GAN Prior (arXiv 1912, CVPR 2020)](https://arxiv.org/abs/1912.07116)
 - [Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis (arXiv 1911, IJCV 2020)](https://arxiv.org/abs/1911.09267)
 - [Disentangled Inference for GANs with Latently Invertible Autoencoder (arXiv 1906)](https://arxiv.org/abs/1906.08090)
+- [Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space? (arXiv 1904, ICCV 2019)](https://arxiv.org/abs/1904.03189)
 - [Deep Image Prior (arXiv 1711, CVPR 2018)](https://arxiv.org/abs/1711.10925)
 {{< /spoiler >}}
 
