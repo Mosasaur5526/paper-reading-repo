@@ -60,8 +60,7 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (10)" >}}
-* [【started on 17/1/2022, unfinished】Encoding in style: a stylegan encoder for image-to-image translation (arXiv 2008, CVPR 2021)](https://arxiv.org/abs/2008.00951)
+{{< spoiler text="Started but Unfinished (9)" >}}
 * [【started on 15/1/2022, unfinished】Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
@@ -73,7 +72,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (11)" >}}
+{{< spoiler text="Finished (12)" >}}
+* [【finished on 17/1/2022】Encoding in style: a stylegan encoder for image-to-image translation (arXiv 2008, CVPR 2021)](https://arxiv.org/abs/2008.00951)
 * [【finished on 17/1/2022】A Simple Baseline for StyleGAN Inversion (arXiv 2104)](https://arxiv.org/abs/2104.07661)
 * [【finsihed on 17/1/2022】High-Fidelity GAN Inversion for Image Attribute Editing (arXiv 2109)](https://arxiv.org/abs/2109.06590)
 * [【finished on 17/1/2022】Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space? (arXiv 1904, ICCV 2019)](https://arxiv.org/abs/1904.03189)
@@ -88,7 +88,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (179)
+## Full List (180)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Augmentation (2)" >}}
@@ -241,12 +241,13 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Image Deformation Using Moving Least Squares (SIGGRAPH 2006)](https://dl.acm.org/doi/abs/10.1145/1179352.1141920)
 {{< /spoiler >}}
 
-{{< spoiler text="GAN Prior and GAN Inversion (15)" >}}
+{{< spoiler text="GAN Prior and GAN Inversion (16)" >}}
 - [High-Fidelity GAN Inversion for Image Attribute Editing (arXiv 2109)](https://arxiv.org/abs/2109.06590)
 - [A Simple Baseline for StyleGAN Inversion (arXiv 2104)](https://arxiv.org/abs/2104.07661)
 - [Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
 - [GAN Inversion: A Survey (arXiv 2101)](https://arxiv.org/abs/2101.05278)
 - [Improving the Fairness of Deep Generative Models without Retraining (arXiv 2012)](https://arxiv.org/abs/2012.04842)
+- [Encoding in style: a stylegan encoder for image-to-image translation (arXiv 2008, CVPR 2021)](https://arxiv.org/abs/2008.00951)
 - [Generative Hierarchical Features from Synthesizing Images (arXiv 2007, CVPR 2021)](https://arxiv.org/abs/2007.10379)
 - [Closed-Form Factorization of Latent Semantics in GANs (arXiv 2007, CVPR 2021)](https://arxiv.org/abs/2007.06600)
 - [InterFaceGAN: Interpreting the Disentangled Face Representation Learned by GANs (arXiv 2005, TPAMI 2020)](https://arxiv.org/abs/2005.09635)
