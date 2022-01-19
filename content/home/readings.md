@@ -23,7 +23,7 @@ design:
 
 ---
 
-## Recent Readings (52)
+## Recent Readings (50)
 _finished in last two weeks ~ still in the queue_
 
 {{< spoiler text="Not Started (31)" >}}
@@ -60,8 +60,7 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (9)" >}}
-* [【started on 15/1/2022, unfinished】Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
+{{< spoiler text="Started but Unfinished (8)" >}}
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -72,7 +71,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (12)" >}}
+{{< spoiler text="Finished (11)" >}}
+* [【finished on 19/1/2022】Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
 * [【finished on 17/1/2022】Encoding in style: a stylegan encoder for image-to-image translation (arXiv 2008, CVPR 2021)](https://arxiv.org/abs/2008.00951)
 * [【finished on 17/1/2022】A Simple Baseline for StyleGAN Inversion (arXiv 2104)](https://arxiv.org/abs/2104.07661)
 * [【finsihed on 17/1/2022】High-Fidelity GAN Inversion for Image Attribute Editing (arXiv 2109)](https://arxiv.org/abs/2109.06590)
@@ -83,12 +83,10 @@ _finished in last two weeks ~ still in the queue_
 * 【finished on 12/1/2022】Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 * [【finished on 12/1/2022】Double Descent in Adversarial Training: An Implicit Label Noise Perspective (arXiv 2110, ICLR 2022 submission)](https://arxiv.org/abs/2110.03135)
 * [【finished on 11/1/2022】Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2102, ICLR 2022 submission)](https://arxiv.org/abs/2102.07437)
-* [【finished on 3/1/2022】Generating High-Resolution Fashion Model Images Wearing Custom Outfits (arXiv 1908, ICCV 2019 Workshop on Computer Vision for Fashion, Art and Design)](https://arxiv.org/abs/1908.08847)
-* [【finished on 3/1/2022】Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022 submission)](https://openreview.net/forum?id=baUQQPwQiAg)
 {{< /spoiler >}}
 <br/>
 
-## Full List (180)
+## Full List (181)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Augmentation (2)" >}}
@@ -176,7 +174,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (39)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (40)" >}}
 - Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
 - Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - [Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
@@ -193,6 +191,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Adversarial Feature Desensitization (arXiv 2006, NeurIPS 2021)](https://arxiv.org/abs/2006.04621)
 - [Adversarial Weight Perturbation Helps Robust Generalization (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.05884)
 - [Manifold Regularization for Locally Stable Deep Neural Networks (arXiv 2003)](https://arxiv.org/abs/2003.04286)
+- [Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
 - [Overfitting in adversarially robust deep learning (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11569)
 - [Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2020)](https://arxiv.org/abs/2001.03994)
 - [Improving Adversarial Robustness Requires Revisiting Misclassified Examples (ICLR 2020)](https://openreview.net/forum?id=rklOg6EFwS)

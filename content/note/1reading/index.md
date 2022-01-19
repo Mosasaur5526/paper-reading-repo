@@ -35,6 +35,12 @@ tags:
 - Academic
 
 ---
+[Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
+- Believe using strong adversarial attack at the beginning of AT "kills" the training because the adversarial examples are too strong and twist the decision boundary.
+- Propose to use friendly adversarial examples, which has a small adversarial loss value but the misclassification on it is quite confident, for AT.
+- Can be regarded as a kind of curriculum learning as the attack strength has been demonstrated to increase during the training process.
+- Have sustainable natural accuracy and robustness against different attack norm bound compared with traditional AT.
+
 Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
 - Argue that auto-encoders fail to project adversarial images onto the latent manifold since it may have several closest candidates of projection and can be confused by the gradient.
 - Propose transcoder for denoising. Instead of reconstructing the full image, it project an input to a representative image of each class and then send it into the classifier. It just works like a light module for adversarial detection.
