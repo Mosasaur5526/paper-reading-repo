@@ -35,6 +35,11 @@ tags:
 - Academic
 
 ---
+[Geometry-aware Instance-reweighted Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.01736)
+- Restate that adversarial training requires larger model capacity and more epochs to achieve low loss on the training set, and believe within limited model capacity they should carefully fine-tune the boundary.
+- Pay attention to the easily attackable examples and claim equal weight to all examples will lead to an overfitting on guarded data, but I don't think so.
+- Model the distance to the decision boundary using least PGD steps that successfully misclassifies the example, and heuristically assign large weights to the ones close to the boundary.
+
 [Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
 - Believe using strong adversarial attack at the beginning of AT "kills" the training because the adversarial examples are too strong and twist the decision boundary.
 - Propose to use friendly adversarial examples, which has a small adversarial loss value but the misclassification on it is quite confident, for AT.

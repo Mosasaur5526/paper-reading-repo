@@ -26,7 +26,7 @@ design:
 ## Recent Readings (50)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (31)" >}}
+{{< spoiler text="Not Started (30)" >}}
 * [【not started】Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
 * [【not started】Improved StyleGAN Embedding: Where are the Good Latents? (arXiv 2012)](https://arxiv.org/abs/2012.09036)
 * [【not started】GAN Inversion for Out-of-Range Images with Geometric Transformations (arXiv 2108, CVPR 2021)](https://arxiv.org/abs/2108.08998)
@@ -46,7 +46,6 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】PARL: Enhancing Diversity of Ensemble Networks to Resist Adversarial Attacks via Pairwise Adversarially Robust Loss Function (arXiv 2112)](https://arxiv.org/abs/2112.04948)
 * [【not started】On Generating Transferable Targeted Perturbations (arXiv 2103, ICCV 2021)](https://arxiv.org/abs/2103.14641)
 * [【not started】MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
-* [【not started】Geometry-aware Instance-reweighted Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.01736)
 * [【not started】Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning (arXiv 1704, TPAMI 2018)](https://arxiv.org/abs/1704.03976)
 * [【not started】Understanding and Improving Fast Adversarial Training (arXiv 2007, NeurIPS 2020)](https://arxiv.org/abs/2007.02617)
 * [【not started】Unlabeled Data Improves Adversarial Robustness (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13736)
@@ -60,7 +59,7 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (8)" >}}
+{{< spoiler text="Started but Unfinished (9)" >}}
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -71,7 +70,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (11)" >}}
+{{< spoiler text="Finished (12)" >}}
+* [【finished on 20/1/2022】Geometry-aware Instance-reweighted Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.01736)
 * [【finished on 19/1/2022】Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
 * [【finished on 17/1/2022】Encoding in style: a stylegan encoder for image-to-image translation (arXiv 2008, CVPR 2021)](https://arxiv.org/abs/2008.00951)
 * [【finished on 17/1/2022】A Simple Baseline for StyleGAN Inversion (arXiv 2104)](https://arxiv.org/abs/2104.07661)
@@ -86,7 +86,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (181)
+## Full List (182)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Augmentation (2)" >}}
@@ -174,7 +174,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (40)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (41)" >}}
 - Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
 - Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - [Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
@@ -187,6 +187,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 - [Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
 - [Do Wider Neural Networks Really Help Adversarial Robustness? (arXiv 2010, NeurIPS 2021)](https://arxiv.org/abs/2010.01279)
+- [Geometry-aware Instance-reweighted Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.01736)
 - [Bag of Tricks for Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.00467)
 - [Adversarial Feature Desensitization (arXiv 2006, NeurIPS 2021)](https://arxiv.org/abs/2006.04621)
 - [Adversarial Weight Perturbation Helps Robust Generalization (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.05884)
