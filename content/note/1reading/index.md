@@ -35,6 +35,11 @@ tags:
 - Academic
 
 ---
+[Are Adversarial Examples Created Equal? A Learnable Weighted Minimax Risk for Robustness under Non-uniform Attacks (arXiv 2010, AAAI 2021)](https://arxiv.org/abs/2010.12989)
+- Point out that different adversarial examples have different vulnerability and the equally weighted loss is a biased estimator of the test dataset distribution.
+- Propose to use exponential reweighting in the loss, not only in training but also in generating the adversarial examples (equivalent to dynamically adjusting step size according to the weight).
+- Simultaneously suggest the attacker to make use of the margin information by using the same strategy of reweighting when setting step size.
+
 [Geometry-aware Instance-reweighted Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.01736)
 - Restate that adversarial training requires larger model capacity and more epochs to achieve low loss on the training set, and believe within limited model capacity they should carefully fine-tune the boundary.
 - Pay attention to the easily attackable examples and claim equal weight to all examples will lead to an overfitting on guarded data, but I don't think so.
