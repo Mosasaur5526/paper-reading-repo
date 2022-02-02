@@ -23,10 +23,11 @@ design:
 
 ---
 
-## Recent Readings (42)
+## Recent Readings (43)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (30)" >}}
+{{< spoiler text="Not Started (31)" >}}
+* [【not started】MetaPoison: Practical General-purpose Clean-label Data Poisoning (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.00225)
 * [【not started】Instance adaptive adversarial training: Improved accuracy tradeoffs in neural nets (arXiv 1910)](https://arxiv.org/abs/1910.08051)
 * [【not started】Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
 * [【not started】Improved StyleGAN Embedding: Where are the Good Latents? (arXiv 2012)](https://arxiv.org/abs/2012.09036)
@@ -59,8 +60,7 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (9)" >}}
-* [【started on 2/2/2022, unfinished】Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching (arXiv 2009, ICLR 2021)](https://arxiv.org/abs/2009.02276)
+{{< spoiler text="Started but Unfinished (8)" >}}
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -71,21 +71,23 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (3)" >}}
+{{< spoiler text="Finished (4)" >}}
+* [【finished on 2/2/2022】Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching (arXiv 2009, ICLR 2021)](https://arxiv.org/abs/2009.02276)
 * [【finished on 22/1/2022】Are Adversarial Examples Created Equal? A Learnable Weighted Minimax Risk for Robustness under Non-uniform Attacks (arXiv 2010, AAAI 2021)](https://arxiv.org/abs/2010.12989)
 * [【finished on 20/1/2022】Geometry-aware Instance-reweighted Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.01736)
 * [【finished on 19/1/2022】Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
 {{< /spoiler >}}
 <br/>
 
-## Full List (183)
+## Full List (184)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
-{{< spoiler text="Data Poisoning (4)" >}}
+{{< spoiler text="Data Poisoning (5)" >}}
 - [Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022)](https://openreview.net/forum?id=baUQQPwQiAg)
 - [Fooling Adversarial Training with Inducing Noise (arXiv 2111, ICLR 2022 rejection)](https://arxiv.org/abs/2111.10130)
 - [Adversarial examples make strong poisons (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.10807)
 - [Unlearnable Examples: Making Personal Data Unexploitable (arXiv 2101, ICLR 2021)](https://arxiv.org/abs/2101.04898)
+- [Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching (arXiv 2009, ICLR 2021)](https://arxiv.org/abs/2009.02276)
 {{< /spoiler >}}
 
 {{< spoiler text="Data Augmentation (2)" >}}

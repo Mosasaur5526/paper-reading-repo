@@ -35,6 +35,13 @@ tags:
 - Academic
 
 ---
+[Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching (arXiv 2009, ICLR 2021)](https://arxiv.org/abs/2009.02276)
+- Propose to insert malicious gradient into the training process to misclassify a set of training data, without harming the accuracy on untargeted validation set.
+- The poisoning perturbs only a small subset of training examples, aligns their gradients with an adversarial target direction, and optimises the cosine similarity to do this.
+- Use random start, ensemble of models and data augmentation techniques during the poisoning to counteract the adverse effect brought by them during test time and to boost the transferability among different network architectures.
+- Note that this is not a harmful poisoning that degrades general validation performance. Instead, it maintains validation accuracy.
+- Only discuss a small portion of poisoned dataset (1% ~ 6%) and several target images (1 ~ 16) in the appendix. In fact, the method already have a very small success rate when scaled to more than 6 images, and a higher portion will not always help.
+
 [Are Adversarial Examples Created Equal? A Learnable Weighted Minimax Risk for Robustness under Non-uniform Attacks (arXiv 2010, AAAI 2021)](https://arxiv.org/abs/2010.12989)
 - Point out that different adversarial examples have different vulnerability and the equally weighted loss is a biased estimator of the test dataset distribution.
 - Propose to use exponential reweighting in the loss, not only in training but also in generating the adversarial examples (equivalent to dynamically adjusting step size according to the weight).
