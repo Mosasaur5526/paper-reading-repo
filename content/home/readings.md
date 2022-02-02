@@ -23,7 +23,7 @@ design:
 
 ---
 
-## Recent Readings (51)
+## Recent Readings (42)
 _finished in last two weeks ~ still in the queue_
 
 {{< spoiler text="Not Started (30)" >}}
@@ -59,7 +59,8 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (8)" >}}
+{{< spoiler text="Started but Unfinished (9)" >}}
+* [【started on 2/2/2022, unfinished】Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching (arXiv 2009, ICLR 2021)](https://arxiv.org/abs/2009.02276)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -70,25 +71,22 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (13)" >}}
+{{< spoiler text="Finished (3)" >}}
 * [【finished on 22/1/2022】Are Adversarial Examples Created Equal? A Learnable Weighted Minimax Risk for Robustness under Non-uniform Attacks (arXiv 2010, AAAI 2021)](https://arxiv.org/abs/2010.12989)
 * [【finished on 20/1/2022】Geometry-aware Instance-reweighted Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.01736)
 * [【finished on 19/1/2022】Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
-* [【finished on 17/1/2022】Encoding in style: a stylegan encoder for image-to-image translation (arXiv 2008, CVPR 2021)](https://arxiv.org/abs/2008.00951)
-* [【finished on 17/1/2022】A Simple Baseline for StyleGAN Inversion (arXiv 2104)](https://arxiv.org/abs/2104.07661)
-* [【finsihed on 17/1/2022】High-Fidelity GAN Inversion for Image Attribute Editing (arXiv 2109)](https://arxiv.org/abs/2109.06590)
-* [【finished on 17/1/2022】Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space? (arXiv 1904, ICCV 2019)](https://arxiv.org/abs/1904.03189)
-* 【finished on 16/1/2022】Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
-* [【finished on 15/1/2022】Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
-* [【finished on 13/1/2022】Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
-* 【finished on 12/1/2022】Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
-* [【finished on 12/1/2022】Double Descent in Adversarial Training: An Implicit Label Noise Perspective (arXiv 2110, ICLR 2022 submission)](https://arxiv.org/abs/2110.03135)
-* [【finished on 11/1/2022】Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2102, ICLR 2022 submission)](https://arxiv.org/abs/2102.07437)
 {{< /spoiler >}}
 <br/>
 
 ## Full List (183)
 _Only includes thoroughly read papers. Full collection is much larger than this._
+
+{{< spoiler text="Data Poisoning (4)" >}}
+- [Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022)](https://openreview.net/forum?id=baUQQPwQiAg)
+- [Fooling Adversarial Training with Inducing Noise (arXiv 2111, ICLR 2022 rejection)](https://arxiv.org/abs/2111.10130)
+- [Adversarial examples make strong poisons (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.10807)
+- [Unlearnable Examples: Making Personal Data Unexploitable (arXiv 2101, ICLR 2021)](https://arxiv.org/abs/2101.04898)
+{{< /spoiler >}}
 
 {{< spoiler text="Data Augmentation (2)" >}}
 - [CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features (arXiv 1905, ICCV 2019)](https://arxiv.org/abs/1905.04899)
@@ -138,13 +136,9 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Persistence stability for geometric complexes (arXiv 1207, Geometriae Dedicata 2014)](https://arxiv.org/abs/1207.3885)
 {{< /spoiler >}}
 
-{{< spoiler text="Adversarial Examples and Attacks (34)" >}}
-- [Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022 submission)](https://openreview.net/forum?id=baUQQPwQiAg)
+{{< spoiler text="Adversarial Examples and Attacks (30)" >}}
 - [Learning to Learn Transferable Attack (arXiv 2112, AAAI 2022)](https://arxiv.org/abs/2112.06658)
-- [Fooling Adversarial Training with Inducing Noise (arXiv 2111, ICLR 2022 submission)](https://arxiv.org/abs/2111.10130)
-- [Adversarial examples make strong poisons (arXiv 2106, NeurIPS 2021)](https://arxiv.org/abs/2106.10807)
 - [Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
-- [Unlearnable Examples: Making Personal Data Unexploitable (arXiv 2101, ICLR 2021)](https://arxiv.org/abs/2101.04898)
 - [Backpropagating Linearly Improves Transferability of Adversarial Examples (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.03528)
 - [Practical No-box Adversarial Attacks against DNNs (arXiv 2012, NeurIPS 2020)](https://arxiv.org/abs/2012.02525)
 - [Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks (arXiv 2003, ICML 2020)](https://arxiv.org/abs/2003.01690)
@@ -178,13 +172,13 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 {{< spoiler text="Robust Learning and Adversarial Defenses (42)" >}}
 - Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
 - Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
-- [Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
-- [Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
+- [Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 rejection)](https://openreview.net/forum?id=7zc05Ua_HOK)
+- [Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022)](https://openreview.net/forum?id=oU3aTsmeRQV)
 - [Data Augmentation Can Improve Robustness (arXiv 2111, NeurIPS 2021)](https://arxiv.org/abs/2111.05328)
 - [Clustering Effect of Adversarial Robust Models (NeurIPS 2021)](https://papers.nips.cc/paper/2021/hash/f770b62bc8f42a0b66751fe636fc6eb0-Abstract.html)
 - [ZeroGrad : Mitigating and Explaining Catastrophic Overfitting in FGSM Adversarial Training (arXiv 2103)](https://arxiv.org/abs/2103.15476)
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
-- [Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2101, ICLR 2022 submission)](https://arxiv.org/abs/2102.07437)
+- [Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2101, ICLR 2022 rejection)](https://arxiv.org/abs/2102.07437)
 - [Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
 - [Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
 - [Are Adversarial Examples Created Equal? A Learnable Weighted Minimax Risk for Robustness under Non-uniform Attacks (arXiv 2010, AAAI 2021)](https://arxiv.org/abs/2010.12989)
