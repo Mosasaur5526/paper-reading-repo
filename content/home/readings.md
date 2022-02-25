@@ -23,7 +23,7 @@ design:
 
 ---
 
-## Recent Readings (43)
+## Recent Readings (40)
 _finished in last two weeks ~ still in the queue_
 
 {{< spoiler text="Not Started (31)" >}}
@@ -71,15 +71,12 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (4)" >}}
-* [【finished on 2/2/2022】Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching (arXiv 2009, ICLR 2021)](https://arxiv.org/abs/2009.02276)
-* [【finished on 22/1/2022】Are Adversarial Examples Created Equal? A Learnable Weighted Minimax Risk for Robustness under Non-uniform Attacks (arXiv 2010, AAAI 2021)](https://arxiv.org/abs/2010.12989)
-* [【finished on 20/1/2022】Geometry-aware Instance-reweighted Adversarial Training (arXiv 2010, ICLR 2021)](https://arxiv.org/abs/2010.01736)
-* [【finished on 19/1/2022】Attacks Which Do Not Kill Training Make Adversarial Learning Stronger (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11242)
+{{< spoiler text="Finished (1)" >}}
+* [【finished on 25/2/2022】Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation (arXiv 2003, ECCV 2020)](https://arxiv.org/abs/2003.13659)
 {{< /spoiler >}}
 <br/>
 
-## Full List (184)
+## Full List (185)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Poisoning (5)" >}}
@@ -239,7 +236,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Image Deformation Using Moving Least Squares (SIGGRAPH 2006)](https://dl.acm.org/doi/abs/10.1145/1179352.1141920)
 {{< /spoiler >}}
 
-{{< spoiler text="GAN Prior and GAN Inversion (16)" >}}
+{{< spoiler text="GAN Prior and GAN Inversion (17)" >}}
 - [High-Fidelity GAN Inversion for Image Attribute Editing (arXiv 2109)](https://arxiv.org/abs/2109.06590)
 - [A Simple Baseline for StyleGAN Inversion (arXiv 2104)](https://arxiv.org/abs/2104.07661)
 - [Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
@@ -251,6 +248,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [InterFaceGAN: Interpreting the Disentangled Face Representation Learned by GANs (arXiv 2005, TPAMI 2020)](https://arxiv.org/abs/2005.09635)
 - [In-Domain GAN Inversion for Real Image Editing (arXiv 2004, ECCV 2020)](https://arxiv.org/abs/2004.00049)
 - [Editing in Style: Uncovering the Local Semantics of GANs (arXiv 2004, CVPR 2020)](https://arxiv.org/abs/2004.14367)
+- [Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation (arXiv 2003, ECCV 2020, TPAMI 2021)](https://arxiv.org/abs/2003.13659)
 - [Image Processing Using Multi-Code GAN Prior (arXiv 1912, CVPR 2020)](https://arxiv.org/abs/1912.07116)
 - [Semantic Hierarchy Emerges in Deep Generative Representations for Scene Synthesis (arXiv 1911, IJCV 2020)](https://arxiv.org/abs/1911.09267)
 - [Disentangled Inference for GANs with Latently Invertible Autoencoder (arXiv 1906)](https://arxiv.org/abs/1906.08090)

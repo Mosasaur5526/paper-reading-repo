@@ -63,7 +63,7 @@ Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submissio
 - Propose transcoder for denoising. Instead of reconstructing the full image, it project an input to a representative image of each class and then send it into the classifier. It just works like a light module for adversarial detection.
 - The experiments are quite simple that they only compare vanilla auto-encoder with the proposed method, without considering any other traditional defense.
 
-[Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=7zc05Ua_HOK)
+[Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 rejection)](https://openreview.net/forum?id=7zc05Ua_HOK)
 - Notice that adversarial class, especially when perturbation radius is large, is not always consistent with the class that has the minimal margin according to logits.
 - Propose multi-class margin according to the insight above, caring about margins from each class boundary regardless of logits order.
 - Follow the framework of bilevel optimisation/meta-learning to train the auxiliary reweighting network, and the method is called BiLAW. Specifically, it characterises the quality of a example by the linear correlation between the gradients update of the model brought by the example and the validation set with pseudo update.
@@ -76,18 +76,18 @@ Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - Accelerate the optimisation by approximating the gradient norm (used for normalisation in the reweighting step) using the linear correlation between gradient norm at a specific examle and gradient norm of model parameters.
 - Visualise the loss landscape at examples and find the ones optimised using ENGM is much smoother than vanilla optimisers.
 
-[Double Descent in Adversarial Training: An Implicit Label Noise Perspective (arXiv 2110, ICLR 2022 submission)](https://arxiv.org/abs/2110.03135)
+[Double Descent in Adversarial Training: An Implicit Label Noise Perspective (arXiv 2110, ICLR 2022 rejection)](https://arxiv.org/abs/2110.03135)
 - Observe double descent also in the setting of adversarial training after exponentially many epochs of training, and attribute the phenomenon to label noise.
 - Propose the notion of implicit label noise, which depicts the bias between the assigned label distribution (pure one-hot label) and the perturbed true distribution of labels.
 - Theoretically prove the existence of implicit label noise and that it can be mitigated by model probability with temperature scaling and interpolation. I fully cannot understand them, because the label distribution mismatch is a conjectural thing itself, and can never be bounded.
 - The proposed method is just like a self-distillation, which consists of a teacher network and a student network.
 
-[Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2101, ICLR 2022 submission)](https://arxiv.org/abs/2102.07437)
+[Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2101, ICLR 2022 rejection)](https://arxiv.org/abs/2102.07437)
 - Define high/low-quality data by stability of misclassification during adversarial training, and find that the rank of the examples upon this is quite stable among different datasets and models.
 - Attribute robust overfitting, robust overestimation and robustness-accuracy trade-off to low-quality data.
 - Demonstrate that low-quality examples are closer to decision boundary so their epsilon-ball are easily to overlap. Therefore they may only twist the decision boundary to confuse gradient-based attack methods.
 
-[Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022 submission)](https://openreview.net/forum?id=baUQQPwQiAg)
+[Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022)](https://openreview.net/forum?id=baUQQPwQiAg)
 - Emphasise that the conferred unlearnability works because they provide poor training error. However, when adversarial training is applied, the training error reappears to be non-trivial, making the poisoned examples learnable.
 - Propose the same min-min-max training objective as AVDIN.
 - Enhance the stability against data augmentation techniques using gradient approximation over transformation distribution as proposed years ago to boost the robustness of adversarial examples.
@@ -107,7 +107,7 @@ Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - Reproduce Madry's famous experiment and verify that targeted attack indeed instill non-robust features of the target class into the example. 
 - Argue that such property of explicit label mapping won't raise security problem if the crafting model is unknown to the attacker, but I think it doesn't hold much water, because such a pattern is fixed and can be trivially reassigned to correct ones.
 
-[Fooling Adversarial Training with Inducing Noise (arXiv 2111, ICLR 2022 submission)](https://arxiv.org/abs/2111.10130)
+[Fooling Adversarial Training with Inducing Noise (arXiv 2111, ICLR 2022 rejection)](https://arxiv.org/abs/2111.10130)
 - Find previous methods making examples unlearnable is far from effective when adversarial training is applied that they only disables non-robust features rather than robust features that adversarial trainig relies on.
 - Due to necessity of robust features, they select adversarially trainied models as a surrogate to craft adversarially unlearnable examples.
 - Propose NextCycle and NearSwap strategies to force consistent lable bias in the inner minimisation, which is proved to be effective against random selection and most/least likely labels through experiments.
@@ -211,7 +211,7 @@ Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - Analyse the transferability with model-agnostic perturbation between means of different classes and pseudo-linearity of feature extractors. I think this analysis is valueless.
 - Use an extreme case of XOR artifacts to demonstrate that transferability among models is not an intrinsic property. This argument is intriguing but impractical in real.
 
-[Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022 submission)](https://openreview.net/forum?id=oU3aTsmeRQV)
+[Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022)](https://openreview.net/forum?id=oU3aTsmeRQV)
 - Propose a new method named SEAT, which ensembles different parameter snapshots during the training period.
 - The method looks like momentum strategy but it just update the ensemble on the fly.
 - Prove the discrepancy in averaged prediction method and weight-averaged models by deriving a condition on second order smallness.
