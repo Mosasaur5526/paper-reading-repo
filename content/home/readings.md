@@ -23,10 +23,11 @@ design:
 
 ---
 
-## Recent Readings (40)
+## Recent Readings (41)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (31)" >}}
+{{< spoiler text="Not Started (32)" >}}
+* [【not started】Deep Neural Networks as Gaussian Processes (arXiv 1711, ICLR 2018)](https://arxiv.org/abs/1711.00165)
 * [【not started】MetaPoison: Practical General-purpose Clean-label Data Poisoning (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.00225)
 * [【not started】Instance adaptive adversarial training: Improved accuracy tradeoffs in neural nets (arXiv 1910)](https://arxiv.org/abs/1910.08051)
 * [【not started】Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
