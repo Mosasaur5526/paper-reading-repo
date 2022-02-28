@@ -26,11 +26,9 @@ design:
 ## Recent Readings (41)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (32)" >}}
-* [【not started】Deep Neural Networks as Gaussian Processes (arXiv 1711, ICLR 2018)](https://arxiv.org/abs/1711.00165)
+{{< spoiler text="Not Started (30)" >}}
 * [【not started】MetaPoison: Practical General-purpose Clean-label Data Poisoning (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.00225)
 * [【not started】Instance adaptive adversarial training: Improved accuracy tradeoffs in neural nets (arXiv 1910)](https://arxiv.org/abs/1910.08051)
-* [【not started】Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
 * [【not started】Improved StyleGAN Embedding: Where are the Good Latents? (arXiv 2012)](https://arxiv.org/abs/2012.09036)
 * [【not started】GAN Inversion for Out-of-Range Images with Geometric Transformations (arXiv 2108, CVPR 2021)](https://arxiv.org/abs/2108.08998)
 * [【not started】Probabilistic margins for instance reweighting in adversarial training (arXiv 2106)](https://arxiv.org/abs/2106.07904)
@@ -61,7 +59,9 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (8)" >}}
+{{< spoiler text="Started but Unfinished (10)" >}}
+* [【started on 28/2/2022, unfinished】Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
+* [【started on 28/2/2022, unfinished】Deep Neural Networks as Gaussian Processes (arXiv 1711, ICLR 2018)](https://arxiv.org/abs/1711.00165)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -119,7 +119,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
 {{< /spoiler >}}
 
-{{< spoiler text="Convergence and Generalization(4)" >}}
+{{< spoiler text="Convergence and Generalization (4)" >}}
 - [Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 - [On the Convergence and Robustness of Adversarial Training (ICML 2019, arXiv 2112)](https://arxiv.org/abs/2112.08304)
 - [A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
