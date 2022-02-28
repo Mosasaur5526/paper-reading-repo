@@ -59,9 +59,8 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (10)" >}}
+{{< spoiler text="Started but Unfinished (9)" >}}
 * [【started on 28/2/2022, unfinished】Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
-* [【started on 28/2/2022, unfinished】Deep Neural Networks as Gaussian Processes (arXiv 1711, ICLR 2018)](https://arxiv.org/abs/1711.00165)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -72,12 +71,13 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (1)" >}}
+{{< spoiler text="Finished (2)" >}}
+* [【finished on 28/2/2022】Deep Neural Networks as Gaussian Processes (arXiv 1711, ICLR 2018)](https://arxiv.org/abs/1711.00165)
 * [【finished on 25/2/2022】Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation (arXiv 2003, ECCV 2020)](https://arxiv.org/abs/2003.13659)
 {{< /spoiler >}}
 <br/>
 
-## Full List (185)
+## Full List (186)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Poisoning (5)" >}}
@@ -119,11 +119,12 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Intrinsic Image Decomposition Using a Sparse Representation of Reflectance (TPAMI 2013)](https://ieeexplore.ieee.org/abstract/document/6565319)
 {{< /spoiler >}}
 
-{{< spoiler text="Convergence and Generalization (4)" >}}
+{{< spoiler text="Convergence and Generalization (5)" >}}
 - [Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 - [On the Convergence and Robustness of Adversarial Training (ICML 2019, arXiv 2112)](https://arxiv.org/abs/2112.08304)
 - [A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 - [Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
+- [Deep Neural Networks as Gaussian Processes (arXiv 1711, ICLR 2018)](https://arxiv.org/abs/1711.00165)
 {{< /spoiler >}}
 
 {{< spoiler text="Topological Data Analysis (7)" >}}
