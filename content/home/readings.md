@@ -23,10 +23,11 @@ design:
 
 ---
 
-## Recent Readings (45)
+## Recent Readings (46)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (34)" >}}
+{{< spoiler text="Not Started (35)" >}}
+* [【not started】Face Identity Disentanglement via Latent Space Mapping (arXiv 2005, TOG 2020)](Face Identity Disentanglement via Latent Space Mapping)
 * [【not started】Training Generative Adversarial Networks with Limited Data (arXiv 2006, NeurIPS 2020)](Training Generative Adversarial Networks with Limited Data)
 * [【not started】Feature-Style Encoder for Style-Based GAN Inversion (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.02183)
 * [【not started】On Exact Computation with an Infinitely Wide Neural Net (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.11955)
@@ -63,8 +64,7 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (9)" >}}
-* [【started on 28/2/2022, unfinished】Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
+{{< spoiler text="Started but Unfinished (8)" >}}
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -75,13 +75,14 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (2)" >}}
+{{< spoiler text="Finished (3)" >}}
+* [【finished on 28/2/2022】Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
 * [【finished on 28/2/2022】Deep Neural Networks as Gaussian Processes (arXiv 1711, ICLR 2018)](https://arxiv.org/abs/1711.00165)
 * [【finished on 25/2/2022】Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation (arXiv 2003, ECCV 2020)](https://arxiv.org/abs/2003.13659)
 {{< /spoiler >}}
 <br/>
 
-## Full List (186)
+## Full List (187)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Poisoning (5)" >}}
@@ -242,8 +243,9 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Image Deformation Using Moving Least Squares (SIGGRAPH 2006)](https://dl.acm.org/doi/abs/10.1145/1179352.1141920)
 {{< /spoiler >}}
 
-{{< spoiler text="GAN Prior and GAN Inversion (17)" >}}
+{{< spoiler text="GAN Prior and GAN Inversion (18)" >}}
 - [High-Fidelity GAN Inversion for Image Attribute Editing (arXiv 2109)](https://arxiv.org/abs/2109.06590)
+- [Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
 - [A Simple Baseline for StyleGAN Inversion (arXiv 2104)](https://arxiv.org/abs/2104.07661)
 - [Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
 - [GAN Inversion: A Survey (arXiv 2101)](https://arxiv.org/abs/2101.05278)
