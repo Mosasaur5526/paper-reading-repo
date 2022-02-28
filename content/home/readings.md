@@ -23,10 +23,14 @@ design:
 
 ---
 
-## Recent Readings (41)
+## Recent Readings (45)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (30)" >}}
+{{< spoiler text="Not Started (34)" >}}
+* [【not started】Training Generative Adversarial Networks with Limited Data (arXiv 2006, NeurIPS 2020)](Training Generative Adversarial Networks with Limited Data)
+* [【not started】Feature-Style Encoder for Style-Based GAN Inversion (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.02183)
+* [【not started】On Exact Computation with an Infinitely Wide Neural Net (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.11955)
+* [【not started】Adversarial Reprogramming of Neural Networks (arXiv 1806, ICLR 2019)](https://arxiv.org/abs/1806.11146)
 * [【not started】MetaPoison: Practical General-purpose Clean-label Data Poisoning (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.00225)
 * [【not started】Instance adaptive adversarial training: Improved accuracy tradeoffs in neural nets (arXiv 1910)](https://arxiv.org/abs/1910.08051)
 * [【not started】Improved StyleGAN Embedding: Where are the Good Latents? (arXiv 2012)](https://arxiv.org/abs/2012.09036)
