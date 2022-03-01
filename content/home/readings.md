@@ -23,7 +23,7 @@ design:
 
 ---
 
-## Recent Readings (46)
+## Recent Readings (47)
 _finished in last two weeks ~ still in the queue_
 
 {{< spoiler text="Not Started (34)" >}}
@@ -64,7 +64,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (9)" >}}
-* [【started on 1/3/2022, unfinished】Feature-Style Encoder for Style-Based GAN Inversion (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.02183)
+* [【started on 1/3/2022, unfinished】ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement (arXiv 2104, ICCV 2021)](ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -75,14 +75,15 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (3)" >}}
+{{< spoiler text="Finished (4)" >}}
+* [【finished on 1/3/2022】Feature-Style Encoder for Style-Based GAN Inversion (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.02183)
 * [【finished on 28/2/2022】Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
 * [【finished on 28/2/2022】Deep Neural Networks as Gaussian Processes (arXiv 1711, ICLR 2018)](https://arxiv.org/abs/1711.00165)
 * [【finished on 25/2/2022】Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation (arXiv 2003, ECCV 2020)](https://arxiv.org/abs/2003.13659)
 {{< /spoiler >}}
 <br/>
 
-## Full List (187)
+## Full List (188)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Poisoning (5)" >}}
@@ -243,7 +244,8 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Image Deformation Using Moving Least Squares (SIGGRAPH 2006)](https://dl.acm.org/doi/abs/10.1145/1179352.1141920)
 {{< /spoiler >}}
 
-{{< spoiler text="GAN Prior and GAN Inversion (18)" >}}
+{{< spoiler text="GAN Prior and GAN Inversion (19)" >}}
+- [Feature-Style Encoder for Style-Based GAN Inversion (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.02183)
 - [High-Fidelity GAN Inversion for Image Attribute Editing (arXiv 2109)](https://arxiv.org/abs/2109.06590)
 - [Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
 - [A Simple Baseline for StyleGAN Inversion (arXiv 2104)](https://arxiv.org/abs/2104.07661)
