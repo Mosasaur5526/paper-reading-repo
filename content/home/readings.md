@@ -26,10 +26,9 @@ design:
 ## Recent Readings (46)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (35)" >}}
-* [【not started】Face Identity Disentanglement via Latent Space Mapping (arXiv 2005, TOG 2020)](Face Identity Disentanglement via Latent Space Mapping)
-* [【not started】Training Generative Adversarial Networks with Limited Data (arXiv 2006, NeurIPS 2020)](Training Generative Adversarial Networks with Limited Data)
-* [【not started】Feature-Style Encoder for Style-Based GAN Inversion (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.02183)
+{{< spoiler text="Not Started (34)" >}}
+* [【not started】Face Identity Disentanglement via Latent Space Mapping (arXiv 2005, TOG 2020)](https://arxiv.org/abs/2005.07728)
+* [【not started】Training Generative Adversarial Networks with Limited Data (arXiv 2006, NeurIPS 2020)](https://arxiv.org/abs/2006.06676)
 * [【not started】On Exact Computation with an Infinitely Wide Neural Net (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.11955)
 * [【not started】Adversarial Reprogramming of Neural Networks (arXiv 1806, ICLR 2019)](https://arxiv.org/abs/1806.11146)
 * [【not started】MetaPoison: Practical General-purpose Clean-label Data Poisoning (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.00225)
@@ -64,7 +63,8 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (8)" >}}
+{{< spoiler text="Started but Unfinished (9)" >}}
+* [【started on 1/3/2022, unfinished】Feature-Style Encoder for Style-Based GAN Inversion (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.02183)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
