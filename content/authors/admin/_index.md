@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Li Liangchen
+title: Liangchen Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate of Computer Science and Technology
+role: Computer Science and Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,6 +19,7 @@ bio: This website is currently only used as a personal recorder of paper reading
 interests:
 - Deep Learning Theory
 - Computer Vision
+- Robust Learning
 - Anything else EXCEPT Natural Language Processing
 
 # Education to show in About widget

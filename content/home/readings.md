@@ -23,17 +23,18 @@ design:
 
 ---
 
-## Recent Readings (47)
+## Recent Readings (49)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (34)" >}}
+{{< spoiler text="Not Started (35)" >}}
+* [【not started】PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.03808)
+* [【not started】Image2StyleGAN++: How to Edit the Embedded Images? (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.11544)
 * [【not started】Face Identity Disentanglement via Latent Space Mapping (arXiv 2005, TOG 2020)](https://arxiv.org/abs/2005.07728)
 * [【not started】Training Generative Adversarial Networks with Limited Data (arXiv 2006, NeurIPS 2020)](https://arxiv.org/abs/2006.06676)
 * [【not started】On Exact Computation with an Infinitely Wide Neural Net (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.11955)
 * [【not started】Adversarial Reprogramming of Neural Networks (arXiv 1806, ICLR 2019)](https://arxiv.org/abs/1806.11146)
 * [【not started】MetaPoison: Practical General-purpose Clean-label Data Poisoning (arXiv 2004, NeurIPS 2020)](https://arxiv.org/abs/2004.00225)
 * [【not started】Instance adaptive adversarial training: Improved accuracy tradeoffs in neural nets (arXiv 1910)](https://arxiv.org/abs/1910.08051)
-* [【not started】Improved StyleGAN Embedding: Where are the Good Latents? (arXiv 2012)](https://arxiv.org/abs/2012.09036)
 * [【not started】GAN Inversion for Out-of-Range Images with Geometric Transformations (arXiv 2108, CVPR 2021)](https://arxiv.org/abs/2108.08998)
 * [【not started】Probabilistic margins for instance reweighting in adversarial training (arXiv 2106)](https://arxiv.org/abs/2106.07904)
 * [【not started】Better Safe Than Sorry: Preventing Delusive Adversaries with Adversarial Training (arXiv 2102, NeurIPS 2021)](https://arxiv.org/abs/2102.04716)
@@ -74,7 +75,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (5)" >}}
+{{< spoiler text="Finished (6)" >}}
+* [【finished on 2/3/2022】Improved StyleGAN Embedding: Where are the Good Latents? (arXiv 2012)](https://arxiv.org/abs/2012.09036)
 * [【finished on 1/3/2022】ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement (arXiv 2104, ICCV 2021)](https://arxiv.org/abs/2104.02699)
 * [【finished on 1/3/2022】Feature-Style Encoder for Style-Based GAN Inversion (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.02183)
 * [【finished on 28/2/2022】Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
@@ -83,7 +85,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (189)
+## Full List (190)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Data Poisoning (5)" >}}
@@ -244,7 +246,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Image Deformation Using Moving Least Squares (SIGGRAPH 2006)](https://dl.acm.org/doi/abs/10.1145/1179352.1141920)
 {{< /spoiler >}}
 
-{{< spoiler text="GAN Prior and GAN Inversion (20)" >}}
+{{< spoiler text="GAN Prior and GAN Inversion (21)" >}}
 - [Feature-Style Encoder for Style-Based GAN Inversion (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.02183)
 - [High-Fidelity GAN Inversion for Image Attribute Editing (arXiv 2109)](https://arxiv.org/abs/2109.06590)
 - [Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
@@ -252,6 +254,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [A Simple Baseline for StyleGAN Inversion (arXiv 2104)](https://arxiv.org/abs/2104.07661)
 - [Surrogate Gradient Field for Latent Space Manipulation (arXiv 2104, CVPR 2021)](https://arxiv.org/abs/2104.09065)
 - [GAN Inversion: A Survey (arXiv 2101)](https://arxiv.org/abs/2101.05278)
+- [Improved StyleGAN Embedding: Where are the Good Latents? (arXiv 2012)](https://arxiv.org/abs/2012.09036)
 - [Improving the Fairness of Deep Generative Models without Retraining (arXiv 2012)](https://arxiv.org/abs/2012.04842)
 - [Encoding in style: a stylegan encoder for image-to-image translation (arXiv 2008, CVPR 2021)](https://arxiv.org/abs/2008.00951)
 - [Generative Hierarchical Features from Synthesizing Images (arXiv 2007, CVPR 2021)](https://arxiv.org/abs/2007.10379)
