@@ -35,6 +35,10 @@ tags:
 - Academic
 
 ---
+[Enhancing the Transferability of Adversarial Attacks through Variance Tuning (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.15571)
+- Propose to boost the transferability of adversarial examples by considering gradient variance in the neighbourhood of last attack step.
+- Do not make any comments on understanding why it works. It is true that this makes the gradient more stable; however, I don't think the algorithm makes sense.
+
 [Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching (arXiv 2009, ICLR 2021)](https://arxiv.org/abs/2009.02276)
 - Propose to insert malicious gradient into the training process to misclassify a set of training data, without harming the accuracy on untargeted validation set.
 - The poisoning perturbs only a small subset of training examples, aligns their gradients with an adversarial target direction, and optimises the cosine similarity to do this.
