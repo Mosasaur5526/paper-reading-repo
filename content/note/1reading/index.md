@@ -36,9 +36,9 @@ tags:
 
 ---
  [MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
-- Defense against adversarial attack with a detector and a reformer (autoencoder), which succeeds under gray-box attack.
-- Train different autoencoders and randomly pick one of them during inference. This randomness further prevent the defender from white-box attack.
-- Define metrics for evaluating defence.
+- Defense against adversarial attack with a detector and a reformer (autoencoder), which are perfect compensations for each other. The detector eliminates those examples that too far away from the manifold, while the reformer project regular adversarial examples onto the normal manifold.
+- Train different autoencoders by punishing and randomly pick one of them during inference. This randomness further prevent the defender from gray-box attack.
+- Propose to use Jensen-Shannon entrophy between the output of clean examples and their adversarial counterparts to measure the reconstruction error.
 
 [Enhancing the Transferability of Adversarial Attacks through Variance Tuning (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.15571)
 - Propose to boost the transferability of adversarial examples by considering gradient variance in the neighbourhood of last attack step.

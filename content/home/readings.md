@@ -26,8 +26,7 @@ design:
 ## Recent Readings (46)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (29)" >}}
-* [【not started】On detecting adversarial perturbations (arXiv 1702, ICLR 2017)](https://arxiv.org/abs/1702.04267)
+{{< spoiler text="Not Started (28)" >}}
 * [【not started】Gaussian Process Behaviour in Wide Deep Neural Networks (arXiv 1804, ICLR 2018)](https://arxiv.org/abs/1804.11271)
 * [【not started】PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.03808)
 * [【not started】Image2StyleGAN++: How to Edit the Embedded Images? (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.11544)
@@ -59,7 +58,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (8)" >}}
-* [【started on 11/3/2022, unfinished】MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
+* [【started on 11/3/2022, unfinished】On detecting adversarial perturbations (arXiv 1702, ICLR 2017)](https://arxiv.org/abs/1702.04267)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -70,6 +69,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Finished (9)" >}}
+* [【finished on 11/3/2022】MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
 * [【finished on 11/3/2022】Distilling the Knowledge in a Neural Network (arXiv 1503, NeurIPS 2014 workshop)](https://arxiv.org/abs/1503.02531)
 * [【finished on 11/3/2022】Enhancing the Transferability of Adversarial Attacks through Variance Tuning (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.15571)
 * [【finished on 9/3/2022】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
@@ -78,11 +78,10 @@ _finished in last two weeks ~ still in the queue_
 * [【finished on 1/3/2022】Feature-Style Encoder for Style-Based GAN Inversion (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.02183)
 * [【finished on 28/2/2022】Designing an encoder for StyleGAN image manipulation (TOG 2021)](https://dl.acm.org/doi/abs/10.1145/3450626.3459838)
 * [【finished on 28/2/2022】Deep Neural Networks as Gaussian Processes (arXiv 1711, ICLR 2018)](https://arxiv.org/abs/1711.00165)
-* [【finished on 25/2/2022】Exploiting Deep Generative Prior for Versatile Image Restoration and Manipulation (arXiv 2003, ECCV 2020)](https://arxiv.org/abs/2003.13659)
 {{< /spoiler >}}
 <br/>
 
-## Full List (192)
+## Full List (193)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Knowledge Distillation (1)" >}}
@@ -180,7 +179,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (42)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (43)" >}}
 - Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
 - Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - [Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 rejection)](https://openreview.net/forum?id=7zc05Ua_HOK)
@@ -223,6 +222,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Adversarial Logit Pairing (arXiv 1803)](https://arxiv.org/abs/1803.06373)
 - [Gradient Regularization Improves Accuracy of Discriminative Models (arXiv 1712, Schedae Informaticae 2018)](https://arxiv.org/abs/1712.09936)
 - [Ensemble Adversarial Training: Attacks and Defenses (arXiv 1705, ICLR 2018)](https://arxiv.org/abs/1705.07204)
+- [MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
 {{< /spoiler >}}
 
 {{< spoiler text="Contrastive/Self-supervised/Representation Learning (3)" >}}
