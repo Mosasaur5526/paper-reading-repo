@@ -23,10 +23,11 @@ design:
 
 ---
 
-## Recent Readings (45)
+## Recent Readings (46)
 _finished in last two weeks ~ still in the queue_
 
 {{< spoiler text="Not Started (29)" >}}
+* [【not started】On detecting adversarial perturbations (arXiv 1702, ICLR 2017)](https://arxiv.org/abs/1702.04267)
 * [【not started】Gaussian Process Behaviour in Wide Deep Neural Networks (arXiv 1804, ICLR 2018)](https://arxiv.org/abs/1804.11271)
 * [【not started】PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.03808)
 * [【not started】Image2StyleGAN++: How to Edit the Embedded Images? (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.11544)
@@ -50,7 +51,6 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples (arXiv 2010)](https://arxiv.org/abs/2010.03593)
 * [【not started】PARL: Enhancing Diversity of Ensemble Networks to Resist Adversarial Attacks via Pairwise Adversarially Robust Loss Function (arXiv 2112)](https://arxiv.org/abs/2112.04948)
 * [【not started】On Generating Transferable Targeted Perturbations (arXiv 2103, ICCV 2021)](https://arxiv.org/abs/2103.14641)
-* [【not started】MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
 * [【not started】Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning (arXiv 1704, TPAMI 2018)](https://arxiv.org/abs/1704.03976)
 * [【not started】Understanding and Improving Fast Adversarial Training (arXiv 2007, NeurIPS 2020)](https://arxiv.org/abs/2007.02617)
 * [【not started】Unlabeled Data Improves Adversarial Robustness (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13736)
@@ -59,7 +59,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (8)" >}}
-* [【started on 11/3/2022, unfinished】Distilling the Knowledge in a Neural Network (arXiv 1503, NeurIPS 2014 workshop)](https://arxiv.org/abs/1503.02531)
+* [【started on 11/3/2022, unfinished】MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -69,7 +69,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (8)" >}}
+{{< spoiler text="Finished (9)" >}}
+* [【finished on 11/3/2022】Distilling the Knowledge in a Neural Network (arXiv 1503, NeurIPS 2014 workshop)](https://arxiv.org/abs/1503.02531)
 * [【finished on 11/3/2022】Enhancing the Transferability of Adversarial Attacks through Variance Tuning (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.15571)
 * [【finished on 9/3/2022】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 * [【finished on 2/3/2022】Improved StyleGAN Embedding: Where are the Good Latents? (arXiv 2012)](https://arxiv.org/abs/2012.09036)
@@ -81,8 +82,12 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (191)
+## Full List (192)
 _Only includes thoroughly read papers. Full collection is much larger than this._
+
+{{< spoiler text="Knowledge Distillation (1)" >}}
+* [Distilling the Knowledge in a Neural Network (arXiv 1503, NeurIPS 2014 workshop)](https://arxiv.org/abs/1503.02531)
+{{< /spoiler >}}
 
 {{< spoiler text="Data Poisoning (5)" >}}
 - [Robust Unlearnable Examples: Protecting Data Privacy Against Adversarial Learning (ICLR 2022)](https://openreview.net/forum?id=baUQQPwQiAg)

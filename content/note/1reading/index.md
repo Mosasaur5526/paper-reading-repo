@@ -35,6 +35,11 @@ tags:
 - Academic
 
 ---
+ [MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
+- Defense against adversarial attack with a detector and a reformer (autoencoder), which succeeds under gray-box attack.
+- Train different autoencoders and randomly pick one of them during inference. This randomness further prevent the defender from white-box attack.
+- Define metrics for evaluating defence.
+
 [Enhancing the Transferability of Adversarial Attacks through Variance Tuning (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.15571)
 - Propose to boost the transferability of adversarial examples by considering gradient variance in the neighbourhood of last attack step.
 - Do not make any comments on understanding why it works. It is true that this makes the gradient more stable; however, I don't think the algorithm makes sense.
