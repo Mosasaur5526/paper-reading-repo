@@ -23,10 +23,12 @@ design:
 
 ---
 
-## Recent Readings (49)
+## Recent Readings (45)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (35)" >}}
+{{< spoiler text="Not Started (30)" >}}
+* [【not started】Distilling the Knowledge in a Neural Network (arXiv 1503, NeurIPS 2014 workshop)](https://arxiv.org/abs/1503.02531)
+* [【not started】Gaussian Process Behaviour in Wide Deep Neural Networks (arXiv 1804, ICLR 2018)](https://arxiv.org/abs/1804.11271)
 * [【not started】PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.03808)
 * [【not started】Image2StyleGAN++: How to Edit the Embedded Images? (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.11544)
 * [【not started】Face Identity Disentanglement via Latent Space Mapping (arXiv 2005, TOG 2020)](https://arxiv.org/abs/2005.07728)
@@ -45,7 +47,6 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Regularizing Neural Networks via Adversarial Model Perturbation (arXiv 2010, CVPR 2021)](https://arxiv.org/abs/2010.04925)
 * [【not started】Exploring Architectural Ingredients of Adversarially Robust Deep Neural Networks (arXiv 2110, NeurIPS 2021)](https://arxiv.org/abs/2110.03825)
 * [【not started】Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks (arXiv 1908, ICLR 2020)](https://arxiv.org/abs/1908.06281)
-* [【not started】Enhancing the Transferability of Adversarial Attacks through Variance Tuning (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.15571)
 * [【not started】Robust Overfitting May Be Mitigated by Properly Learned Smoothening (ICLR 2021)](https://openreview.net/forum?id=qZzy5urZw9)
 * [【not started】Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples (arXiv 2010)](https://arxiv.org/abs/2010.03593)
 * [【not started】PARL: Enhancing Diversity of Ensemble Networks to Resist Adversarial Attacks via Pairwise Adversarially Robust Loss Function (arXiv 2112)](https://arxiv.org/abs/2112.04948)
@@ -56,15 +57,10 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Unlabeled Data Improves Adversarial Robustness (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13736)
 * [【not started】Adversarial Neuron Pruning Purifies Backdoored Deep Models (arXiv 2110, NeurIPS 2021)](https://arxiv.org/abs/2110.14430)
 * [【not started】Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.07668)
-* [【not started】CDFF-Net: Cumulative Dense Feature Fusion for Single Image Specular Highlight Removal](https://shijianxu.github.io/highlight_removal.pdf)
-* [【not started】Single Image Highlight Removal with a Sparse and Low-Rank Reflection Model (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/html/Jie_Guo_Single_Image_Highlight_ECCV_2018_paper.html)
-* [【not started】A Multi-Task Network for Joint Specular Highlight Detection and Removal (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Fu_A_Multi-Task_Network_for_Joint_Specular_Highlight_Detection_and_Removal_CVPR_2021_paper.html)
-* [【not started】Learning to Detect Specular Highlights from Real-world Images (ACM MM 2020)](https://dl.acm.org/doi/abs/10.1145/3394171.3413586)
-* [【not started】Inverse Rendering for Complex Indoor Scenes: Shape, Spatially-Varying Lighting and SVBRDF from a Single Image (arXiv 1905, CVPR 2020)](https://arxiv.org/abs/1905.02722)
-* [【not started】Neural Inverse Rendering of an Indoor Scene From a Single Image (arXiv 1901, ICCV 2019)](https://arxiv.org/abs/1901.02453)
 {{< /spoiler >}}
 
 {{< spoiler text="Started but Unfinished (8)" >}}
+* [【started on 11/3/2022, unfinished】Enhancing the Transferability of Adversarial Attacks through Variance Tuning (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.15571)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -72,10 +68,10 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 13/9/2021, unfinished】You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.00877)
 * [【started on 31/8/2021, unfinished】Convergence of Adversarial Training in Overparametrized Neural Networks (arXiv 1906, NeurIPS 2019)](https://arxiv.org/abs/1906.07916)
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
-* [【started on 15/8/2021, unfinished】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (6)" >}}
+{{< spoiler text="Finished (7)" >}}
+* [【finished on 9/3/2022】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
 * [【finished on 2/3/2022】Improved StyleGAN Embedding: Where are the Good Latents? (arXiv 2012)](https://arxiv.org/abs/2012.09036)
 * [【finished on 1/3/2022】ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement (arXiv 2104, ICCV 2021)](https://arxiv.org/abs/2104.02699)
 * [【finished on 1/3/2022】Feature-Style Encoder for Style-Based GAN Inversion (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.02183)

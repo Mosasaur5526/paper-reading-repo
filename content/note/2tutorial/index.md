@@ -36,8 +36,8 @@ tags:
 
 ---
 
-Wasserstein Distributionally Robust Optimization (by Daniel Kuhn from EPFL): [video link](https://www.youtube.com/watch?v=vozmvt_glQs&t=1532s)
-Model Agnostic Meta-learning (by Siavash Khodadadeh from UCF): [video link](https://www.youtube.com/watch?v=wT45v8sIMDM)
-From Gaussian Process to Neural Tangent Kernel (Chinese, by Anthony): [video link](https://www.youtube.com/watch?v=cCzIPLJDwUE)
-From Gaussian Process to Neural Tangent Kernel (English, by Anthony): [video link](https://www.youtube.com/watch?v=VUX2bsrYag8&t=62s)
-PCA whitening (by Clemens Brunner): [blog link](https://cbrnr.github.io/posts/whitening-pca-zca/)
+- Wasserstein Distributionally Robust Optimization (by Daniel Kuhn from EPFL): [video link](https://www.youtube.com/watch?v=vozmvt_glQs&t=1532s)
+- Model Agnostic Meta-learning (by Siavash Khodadadeh from UCF): [video link](https://www.youtube.com/watch?v=wT45v8sIMDM)
+- From Gaussian Process to Neural Tangent Kernel (Chinese, by Anthony): [video link](https://www.youtube.com/watch?v=cCzIPLJDwUE)
+- From Gaussian Process to Neural Tangent Kernel (English, by Anthony): [video link](https://www.youtube.com/watch?v=VUX2bsrYag8&t=62s)
+- PCA whitening (by Clemens Brunner): [blog link](https://cbrnr.github.io/posts/whitening-pca-zca/)
