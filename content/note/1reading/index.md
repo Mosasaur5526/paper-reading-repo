@@ -35,6 +35,13 @@ tags:
 - Academic
 
 ---
+ [Adversarial Machine Learning at Scale (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.01236)
+- Suggest to use mixed batch of clean examples and adversarial ones to scale adversarial training to large datasets.
+- Suggest to use random value of epsilon to avoid overfitting on a specific epsilon.
+- View adversarial training as a regulariser, which explains why the test error decreses on small datasets (this is outdated after stronger attacks has been widely applied to adversarial training) and increases on large datasets (underfitting is exacerbated).
+- Discover the effect of label leaking: when the adversarial examples are constructed using true label, the transformation maybe too simple to be learnt leveraged for cheating by the model. This happens only when single step methods that make use of true label are used.
+- Claim that large model capacity is helpful in elevating robustness and adversarial examples crafted by weak attack methods are more likely to transfer to other models.
+
  [An Eye for an Eye: Defending against Gradient-based Attacks with Gradients (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.01117)
 - Build on the autoencoder denoising framework to defend against adversarial examples, which is called TRN.
 - Approximate the gradient map, though the target label is unknown, by concatenating gradient maps calculated using all possible labels. Find that all gradient maps are quite similar except the one calculated on the target label.

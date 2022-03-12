@@ -57,8 +57,7 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.07668)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (9)" >}}
-* [【started on 12/3/2022, unfinished】Adversarial Machine Learning at Scale (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.01236)
+{{< spoiler text="Started but Unfinished (8)" >}}
 * [【started on 11/3/2022, unfinished】On detecting adversarial perturbations (arXiv 1702, ICLR 2017)](https://arxiv.org/abs/1702.04267)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
@@ -69,7 +68,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (10)" >}}
+{{< spoiler text="Finished (11)" >}}
+* [【finished on 12/3/2022】Adversarial Machine Learning at Scale (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.01236)
 * [【finished on 12/3/2022】An Eye for an Eye: Defending against Gradient-based Attacks with Gradients (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.01117)
 * [【finished on 11/3/2022】MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
 * [【finished on 11/3/2022】Distilling the Knowledge in a Neural Network (arXiv 1503, NeurIPS 2014 workshop)](https://arxiv.org/abs/1503.02531)
@@ -83,7 +83,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (194)
+## Full List (195)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Knowledge Distillation (1)" >}}
@@ -181,7 +181,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (44)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (45)" >}}
 - Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
 - Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - [An Eye for an Eye: Defending against Gradient-based Attacks with Gradients (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.01117)
@@ -226,6 +226,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Gradient Regularization Improves Accuracy of Discriminative Models (arXiv 1712, Schedae Informaticae 2018)](https://arxiv.org/abs/1712.09936)
 - [Ensemble Adversarial Training: Attacks and Defenses (arXiv 1705, ICLR 2018)](https://arxiv.org/abs/1705.07204)
 - [MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
+- [Adversarial Machine Learning at Scale (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.01236)
 {{< /spoiler >}}
 
 {{< spoiler text="Contrastive/Self-supervised/Representation Learning (3)" >}}
