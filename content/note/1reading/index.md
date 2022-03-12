@@ -35,6 +35,13 @@ tags:
 - Academic
 
 ---
+ [An Eye for an Eye: Defending against Gradient-based Attacks with Gradients (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.01117)
+- Build on the autoencoder denoising framework to defend against adversarial examples, which is called TRN.
+- Approximate the gradient map, though the target label is unknown, by concatenating gradient maps calculated using all possible labels. Find that all gradient maps are quite similar except the one calculated on the target label.
+- Input both the adversarial image and the gradient map into the network and mix their features up to learn a benign perturbation to restore the image.
+- Surprisingly, only using the gradient branch or the image branch also significantly outperform the robustness evaluated on adversarial training. This can be attribute to overfitting on a certain type of attack method.
+- Has good generalisation over several gradient-based methods and resistance to BPDA.
+
  [MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
 - Defense against adversarial attack with a detector and a reformer (autoencoder), which are perfect compensations for each other. The detector eliminates those examples that too far away from the manifold, while the reformer project regular adversarial examples onto the normal manifold.
 - Train different autoencoders by punishing and randomly pick one of them during inference. This randomness further prevent the defender from gray-box attack.
