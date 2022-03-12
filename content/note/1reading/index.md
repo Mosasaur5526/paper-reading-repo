@@ -35,6 +35,11 @@ tags:
 - Academic
 
 ---
+ [On detecting adversarial perturbations (arXiv 1702, ICLR 2017)](https://arxiv.org/abs/1702.04267)
+- Propose to detect adversarial examples with a binary classifier.
+- Train the detector adversarially with a trade-off parameter against successful attack rate, since the adversarial examples can be crafted to evade the detection.
+- The experiment result is confusing to me when sigma is large; maybe those misclassified clean examples are not counted. Anyway, it has obvious flaws in generalisation over different attack methods as pointed out in MagNet.
+
  [Adversarial Machine Learning at Scale (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.01236)
 - Suggest to use mixed batch of clean examples and adversarial ones to scale adversarial training to large datasets.
 - Suggest to use random value of epsilon to avoid overfitting on a specific epsilon.
