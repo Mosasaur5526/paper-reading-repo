@@ -35,6 +35,12 @@ tags:
 - Academic
 
 ---
+[Exploring Memorization in Adversarial Training (arXiv 2106, ICLR 2022)](https://arxiv.org/abs/2106.01606)
+- Train models using completely random labels using PGD-AT and TRADES, find the former cannot converge while the later can, and attribute this phenomenon to large gradient norm and variance of the adversarial term. This demonstrate that the model capacity is large enough to memorise all adversarial examples.
+- State that most previous indicators of model generalisation ability cannot transfer to robust generalisation. Among them the flatness of loss landscape is the most reliable one.
+- Explain robust overfitting using memorisation of the one-hot labels of "hard" adversarial examples that naturally lie close to the decision boundary.
+- Propose to use temporal ensemble of predictions to mitigate robust overfitting and achieve the best result against previous methods.
+
 [Robust Overfitting May Be Mitigated by Properly Learned Smoothening (ICLR 2021)](https://openreview.net/forum?id=qZzy5urZw9)
 - Propose to use self-knowledge distillation (label smoothing) and stochastic weight averaging to mitigate robust overfitting.
 - Validate its efficiency on multiple attack methods, model architectures, datasets and transferability.
