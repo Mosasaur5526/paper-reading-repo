@@ -321,12 +321,10 @@ Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - Is inspired from some defenses which use image transformation to disable the malicious attack.
 - Trust that random transformation is helpful to alleviate over-fitting.
 
-[Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets (arXiv 2002, ICLR 2020)](https://arxiv.org/abs/2002.05990)
-[Ensemble Adversarial Training: Attacks and Defenses (arXiv 1705, ICLR 2018)](https://arxiv.org/abs/1705.07204)
-[Mind the box: l1-APGD for sparse adversarial attacks on image classifiers (arXiv 2103, ICML 2021)](https://arxiv.org/abs/2103.01208)
-[Adversarial Examples Are Not Bugs, They Are Features (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.02175)
-[Adversarial examples in the physical world (arXiv 1607, ICLR 2017 workshop)](https://arxiv.org/abs/1607.02533)
-[Fast is better than free: Revisiting adversarial training (arXiv 2001, ICLR 2020)](https://arxiv.org/abs/2001.03994)
-[Adversarial Training for Free! (arXiv 1904, NeurIPS 2019)](https://arxiv.org/abs/1904.12843)
+[Overfitting in adversarially robust deep learning (arXiv 2002, ICML 2020)](https://arxiv.org/abs/2002.11569)
+- Systematically study the overfitting in adversarial training and find this phenomenon is universal among different model sizes and other settings.
+- Propose to use validation-based early stopping to capture the best checkpoint during training, which is quite effective. Particularly, the performance of the best checkpoint achieved by common adversarial training is on par with that achieved by TRADES.
+- Try regularisation and several data augumentation methods that work on standard training to mitigate the robust overfitting, however, none of them succeed.
+- State that robust overfitting is a phenomenon separate from double descent.
 
 
