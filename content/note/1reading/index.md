@@ -35,6 +35,10 @@ tags:
 - Academic
 
 ---
+[Robust Overfitting May Be Mitigated by Properly Learned Smoothening (ICLR 2021)](https://openreview.net/forum?id=qZzy5urZw9)
+- Propose to use self-knowledge distillation (label smoothing) and stochastic weight averaging to mitigate robust overfitting.
+- Validate its efficiency on multiple attack methods, model architectures, datasets and transferability.
+
  [On detecting adversarial perturbations (arXiv 1702, ICLR 2017)](https://arxiv.org/abs/1702.04267)
 - Propose to detect adversarial examples with a binary classifier.
 - Train the detector adversarially with a trade-off parameter against successful attack rate, since the adversarial examples can be crafted to evade the detection.
