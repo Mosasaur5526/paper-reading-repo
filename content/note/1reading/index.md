@@ -35,6 +35,11 @@ tags:
 - Academic
 
 ---
+[Consistency Regularization for Adversarial Robustness (arXiv 2103, ICML workshop AML 2021, AAAI 2022)](https://arxiv.org/abs/2103.04623v3)
+- Argue that data augmentation, even the naive cropping and flipping, does alleviate robust overfitting.
+- Propose to match the predicted probabilities of the two adversarial samples augmented by two independent transformations.
+- Find that most misclassified adversarial examples predicts the most confusing class and explain that this consistency regularisation works well thanks to the consistency of attacked directions.
+
 [Exploring Memorization in Adversarial Training (arXiv 2106, ICLR 2022)](https://arxiv.org/abs/2106.01606)
 - Train models using completely random labels using PGD-AT and TRADES, find the former cannot converge while the later can, and attribute this phenomenon to large gradient norm and variance of the adversarial term. This demonstrate that the model capacity is large enough to memorise all adversarial examples.
 - State that most previous indicators of model generalisation ability cannot transfer to robust generalisation. Among them the flatness of loss landscape is the most reliable one.

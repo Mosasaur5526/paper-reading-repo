@@ -23,10 +23,12 @@ design:
 
 ---
 
-## Recent Readings (43)
+## Recent Readings (46)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (27)" >}}
+{{< spoiler text="Not Started (29)" >}}
+* [【not started】Sparsity Winning Twice: Better Robust Generalization from More Efficient Training (arXiv 2202, ICLR 2022)](https://arxiv.org/abs/2202.09844)
+* [【not started】Relating Adversarially Robust Generalization to Flat Minima](https://arxiv.org/abs/2104.04448)
 * [【not started】Gaussian Process Behaviour in Wide Deep Neural Networks (arXiv 1804, ICLR 2018)](https://arxiv.org/abs/1804.11271)
 * [【not started】PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.03808)
 * [【not started】Image2StyleGAN++: How to Edit the Embedded Images? (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.11544)
@@ -66,7 +68,8 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (9)" >}}
+{{< spoiler text="Finished (10)" >}}
+* [【finished on 21/3/2022】Consistency Regularization for Adversarial Robustness (arXiv 2103, ICML workshop AML 2021, AAAI 2022)](https://arxiv.org/abs/2103.04623v3)
 * [【finished on 19/3/2022】Exploring Memorization in Adversarial Training (arXiv 2106, ICLR 2022)](https://arxiv.org/abs/2106.01606)
 * [【finished on 19/3/2022】Robust Overfitting May Be Mitigated by Properly Learned Smoothening (ICLR 2021)](https://openreview.net/forum?id=qZzy5urZw9)
 * [【finished on 12/3/2022】On detecting adversarial perturbations (arXiv 1702, ICLR 2017)](https://arxiv.org/abs/1702.04267)
@@ -79,7 +82,7 @@ _finished in last two weeks ~ still in the queue_
 {{< /spoiler >}}
 <br/>
 
-## Full List (198)
+## Full List (199)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Knowledge Distillation (1)" >}}
@@ -177,7 +180,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (48)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (49)" >}}
 - Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
 - Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - [An Eye for an Eye: Defending against Gradient-based Attacks with Gradients (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.01117)
@@ -186,6 +189,7 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Exploring Memorization in Adversarial Training (arXiv 2106, ICLR 2022)](https://arxiv.org/abs/2106.01606)
 - [Data Augmentation Can Improve Robustness (arXiv 2111, NeurIPS 2021)](https://arxiv.org/abs/2111.05328)
 - [Clustering Effect of Adversarial Robust Models (NeurIPS 2021)](https://papers.nips.cc/paper/2021/hash/f770b62bc8f42a0b66751fe636fc6eb0-Abstract.html)
+- [Consistency Regularization for Adversarial Robustness (arXiv 2103, ICML workshop AML 2021, AAAI 2022)](https://arxiv.org/abs/2103.04623v3)
 - [ZeroGrad : Mitigating and Explaining Catastrophic Overfitting in FGSM Adversarial Training (arXiv 2103)](https://arxiv.org/abs/2103.15476)
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
 - [Robust Overfitting May Be Mitigated by Properly Learned Smoothening (ICLR 2021)](https://openreview.net/forum?id=qZzy5urZw9)
