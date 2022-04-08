@@ -23,12 +23,11 @@ design:
 
 ---
 
-## Recent Readings (46)
+## Recent Readings (36)
 _finished in last two weeks ~ still in the queue_
 
-{{< spoiler text="Not Started (29)" >}}
+{{< spoiler text="Not Started (28)" >}}
 * [【not started】Sparsity Winning Twice: Better Robust Generalization from More Efficient Training (arXiv 2202, ICLR 2022)](https://arxiv.org/abs/2202.09844)
-* [【not started】Relating Adversarially Robust Generalization to Flat Minima](https://arxiv.org/abs/2104.04448)
 * [【not started】Gaussian Process Behaviour in Wide Deep Neural Networks (arXiv 1804, ICLR 2018)](https://arxiv.org/abs/1804.11271)
 * [【not started】PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models (arXiv 2003, CVPR 2020)](https://arxiv.org/abs/2003.03808)
 * [【not started】Image2StyleGAN++: How to Edit the Embedded Images? (arXiv 1911, CVPR 2020)](https://arxiv.org/abs/1911.11544)
@@ -58,7 +57,8 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.07668)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (7)" >}}
+{{< spoiler text="Started but Unfinished (8)" >}}
+* [【started on 8/4/2022, unfinished】Relating Adversarially Robust Generalization to Flat Minima (arXiv 2104, ICCV 2021)](https://arxiv.org/abs/2104.04448)
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -68,21 +68,11 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (10)" >}}
-* [【finished on 21/3/2022】Consistency Regularization for Adversarial Robustness (arXiv 2103, ICML workshop AML 2021, AAAI 2022)](https://arxiv.org/abs/2103.04623v3)
-* [【finished on 19/3/2022】Exploring Memorization in Adversarial Training (arXiv 2106, ICLR 2022)](https://arxiv.org/abs/2106.01606)
-* [【finished on 19/3/2022】Robust Overfitting May Be Mitigated by Properly Learned Smoothening (ICLR 2021)](https://openreview.net/forum?id=qZzy5urZw9)
-* [【finished on 12/3/2022】On detecting adversarial perturbations (arXiv 1702, ICLR 2017)](https://arxiv.org/abs/1702.04267)
-* [【finished on 12/3/2022】Adversarial Machine Learning at Scale (arXiv 1611, ICLR 2017)](https://arxiv.org/abs/1611.01236)
-* [【finished on 12/3/2022】An Eye for an Eye: Defending against Gradient-based Attacks with Gradients (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.01117)
-* [【finished on 11/3/2022】MagNet: a Two-Pronged Defense against Adversarial Examples (arXiv 1705, ACM SIGSAC CCS 2017)](https://arxiv.org/abs/1705.09064)
-* [【finished on 11/3/2022】Distilling the Knowledge in a Neural Network (arXiv 1503, NeurIPS 2014 workshop)](https://arxiv.org/abs/1503.02531)
-* [【finished on 11/3/2022】Enhancing the Transferability of Adversarial Attacks through Variance Tuning (arXiv 2103, CVPR 2021)](https://arxiv.org/abs/2103.15571)
-* [【finished on 9/3/2022】Neural Tangent Kernel: Convergence and Generalization in Neural Networks (arXiv 1806, NeurIPS 2018)](https://arxiv.org/abs/1806.07572)
+{{< spoiler text="Finished (0)" >}}
 {{< /spoiler >}}
 <br/>
 
-## Full List (199)
+## Full List (197)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Knowledge Distillation (1)" >}}
