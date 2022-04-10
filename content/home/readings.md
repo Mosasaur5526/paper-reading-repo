@@ -57,8 +57,7 @@ _finished in last two weeks ~ still in the queue_
 * [【not started】Orthogonal Jacobian Regularization for Unsupervised Disentanglement in Image Generation (arXiv 2108, ICCV 2021)](https://arxiv.org/abs/2108.07668)
 {{< /spoiler >}}
 
-{{< spoiler text="Started but Unfinished (8)" >}}
-* [【started on 8/4/2022, unfinished】Relating Adversarially Robust Generalization to Flat Minima (arXiv 2104, ICCV 2021)](https://arxiv.org/abs/2104.04448)
+{{< spoiler text="Started but Unfinished (7)" >}}
 * [【started on 30/12/2021, unfinished】Adversarially Robust Generalization Requires More Data (arXiv 1804, NeurIPS 2018)](https://arxiv.org/abs/1804.11285)
 * [【started on 30/12/2021, unfinished】Are Labels Required for Improving Adversarial Robustness? (arXiv 1905, NeurIPS 2019)](https://arxiv.org/abs/1905.13725)
 * [【started on 27/12/2021, unfinished】Distributionally Adversarial Attack (arXiv 1808, AAAI 2019)](https://arxiv.org/abs/1808.05537)
@@ -68,11 +67,12 @@ _finished in last two weeks ~ still in the queue_
 * [【started on 17/8/2021, unfinished】A Convergence Theory for Deep Learning via Over-Parameterization (arXiv 1811, ICML 2019)](https://arxiv.org/abs/1811.03962)
 {{< /spoiler >}}
 
-{{< spoiler text="Finished (0)" >}}
+{{< spoiler text="Finished (1)" >}}
+* [【finished on 8/4/2022】Relating Adversarially Robust Generalization to Flat Minima (arXiv 2104, ICCV 2021)](https://arxiv.org/abs/2104.04448)
 {{< /spoiler >}}
 <br/>
 
-## Full List (197)
+## Full List (198)
 _Only includes thoroughly read papers. Full collection is much larger than this._
 
 {{< spoiler text="Knowledge Distillation (1)" >}}
@@ -170,21 +170,22 @@ _Only includes thoroughly read papers. Full collection is much larger than this.
 - [Evasion Attacks against Machine Learning at Test Time (arXiv 1708, ECCV 2013)](https://arxiv.org/abs/1708.06131)
 {{< /spoiler >}}
 
-{{< spoiler text="Robust Learning and Adversarial Defenses (49)" >}}
+{{< spoiler text="Robust Learning and Adversarial Defenses (50)" >}}
 - Transcoders: A Better Alternative To Denoising Autoencoders (CVPR 2022 submission)
 - Revisiting Outer Optimization in Adversarial Training (CVPR 2022 submission)
 - [An Eye for an Eye: Defending against Gradient-based Attacks with Gradients (arXiv 2202, CVPR 2022 submission)](https://arxiv.org/abs/2202.01117)
 - [Learning Sample Reweighting for Adversarial Robustness (ICLR 2022 rejection)](https://openreview.net/forum?id=7zc05Ua_HOK)
 - [Self-ensemble Adversarial Training for Improved Robustness (ICLR 2022)](https://openreview.net/forum?id=oU3aTsmeRQV)
-- [Exploring Memorization in Adversarial Training (arXiv 2106, ICLR 2022)](https://arxiv.org/abs/2106.01606)
 - [Data Augmentation Can Improve Robustness (arXiv 2111, NeurIPS 2021)](https://arxiv.org/abs/2111.05328)
+- [Exploring Memorization in Adversarial Training (arXiv 2106, ICLR 2022)](https://arxiv.org/abs/2106.01606)
 - [Clustering Effect of Adversarial Robust Models (NeurIPS 2021)](https://papers.nips.cc/paper/2021/hash/f770b62bc8f42a0b66751fe636fc6eb0-Abstract.html)
+- [Relating Adversarially Robust Generalization to Flat Minima (arXiv 2104, ICCV 2021)](https://arxiv.org/abs/2104.04448)
 - [Consistency Regularization for Adversarial Robustness (arXiv 2103, ICML workshop AML 2021, AAAI 2022)](https://arxiv.org/abs/2103.04623v3)
 - [ZeroGrad : Mitigating and Explaining Catastrophic Overfitting in FGSM Adversarial Training (arXiv 2103)](https://arxiv.org/abs/2103.15476)
 - [Improving Adversarial Robustness via Channel-wise Activation Suppressing (arXiv 2103, ICLR 2021)](https://arxiv.org/abs/2103.08307)
 - [Robust Overfitting May Be Mitigated by Properly Learned Smoothening (ICLR 2021)](https://openreview.net/forum?id=qZzy5urZw9)
-- [Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2101, ICLR 2022 rejection)](https://arxiv.org/abs/2102.07437)
 - [Recent Advances in Adversarial Training for Adversarial Robustness (arXiv 2102, IJCAL 2021)](https://arxiv.org/abs/2102.01356)
+- [Data Quality Matters For Adversarial Training: An Empirical Study (arXiv 2101, ICLR 2022 rejection)](https://arxiv.org/abs/2102.07437)
 - [Advocating for Multiple Defense Strategies against Adversarial Examples (arXiv 2012, ECML PKDD 2020 workshops)](https://arxiv.org/abs/2012.02632)
 - [Are Adversarial Examples Created Equal? A Learnable Weighted Minimax Risk for Robustness under Non-uniform Attacks (arXiv 2010, AAAI 2021)](https://arxiv.org/abs/2010.12989)
 - [Do Wider Neural Networks Really Help Adversarial Robustness? (arXiv 2010, NeurIPS 2021)](https://arxiv.org/abs/2010.01279)

@@ -35,6 +35,13 @@ tags:
 - Academic
 
 ---
+[Relating Adversarially Robust Generalization to Flat Minima (arXiv 2104, ICCV 2021)](https://arxiv.org/abs/2104.04448)
+- Find that robust error rate is not proportional to robust loss. In fact, robust loss may overfit more severely than robust error. Only when robust loss is under a threshold will it transfer to robust error rate more efficiently.
+- Use some cases to show that judging flatness visually is difficult using, and point out that the biggest eigenvalues of Hessian does not reflect flatness among models because of its scale-variance.
+- Emphasize that measuring flatness in robust loss is non-trivial and flatness in clean loss cannot be expected to correlate with robustness, and propose average-case/worst-case flatness as new stable metrics of flatness.
+- Study a large amount of models and find that robustness strongly correlates with (average-case) flatness of the robust loss landscape in weight space.
+- Point out that flatness improves robust generalisation by reducing both the robust generalisation gap and the impact of robust overfitting.
+
 [Consistency Regularization for Adversarial Robustness (arXiv 2103, ICML workshop AML 2021, AAAI 2022)](https://arxiv.org/abs/2103.04623v3)
 - Argue that data augmentation, even the naive cropping and flipping, does alleviate robust overfitting.
 - Propose to match the predicted probabilities of the two adversarial samples augmented by two independent transformations.
